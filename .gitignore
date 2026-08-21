@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment & secrets
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+
+# Streamlit cache
+.streamlit/
+
+# Database (regeneratable)
+data/crop_prices.db
+
+# Model files (large, regeneratable via train_model.py)
+models/*.pkl
+
+# Processed data (regeneratable)
+data/processed/
+
+# Byte-compiled
+*.pyc
+
+# Logs
+*.log

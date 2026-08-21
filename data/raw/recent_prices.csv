@@ -1,0 +1,2161 @@
+date,crop,variety,market,district,state,min_price,max_price,modal_price,arrivals
+2026-08-01,Bajra,Local,Azadpur,New Delhi,Delhi,2474.12,3289.45,2796.41,2177.74
+2026-08-01,Bajra,Local,Bowenpally,Hyderabad,Telangana,1976.84,2590.26,2251.6,970.08
+2026-08-01,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1881.43,2538.99,2232.18,1161.98
+2026-08-01,Bajra,Local,Vashi,Mumbai,Maharashtra,2343.58,2874.19,2585.72,1476.75
+2026-08-01,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1901.24,2417.05,2172.88,928.93
+2026-08-01,Barley,Local,Azadpur,New Delhi,Delhi,2180.09,2747.2,2486.07,295.2
+2026-08-01,Barley,Local,Bowenpally,Hyderabad,Telangana,1781.29,2382.71,2023.02,121.38
+2026-08-01,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2024.18,2426.59,2233.35,143.88
+2026-08-01,Barley,Local,Vashi,Mumbai,Maharashtra,1996.75,2620.54,2233.97,230.66
+2026-08-01,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1981.27,2582.41,2191.41,123.93
+2026-08-01,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5322.98,7587.78,6450.56,5133.3
+2026-08-01,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5341.71,6922.66,6144.87,1888.05
+2026-08-01,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5569.4,7472.84,6443.65,2551.46
+2026-08-01,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6375.98,8524.58,7491.7,3688.29
+2026-08-01,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5990.92,7842.06,6655.83,2115.96
+2026-08-01,Black Gram,Whole,Azadpur,New Delhi,Delhi,7894.7,9854.23,8845.28,401.02
+2026-08-01,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7236.7,9413.37,8053.72,192.62
+2026-08-01,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8809.78,10634.06,9576.16,237.81
+2026-08-01,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8697.27,11159.5,9761.97,384.65
+2026-08-01,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6923.89,9284.33,7936.74,230.48
+2026-08-01,Copra,Milling,Azadpur,New Delhi,Delhi,19461.07,25008.97,21881.31,275.64
+2026-08-01,Copra,Milling,Bowenpally,Hyderabad,Telangana,14239.72,19137.02,16709.0,80.51
+2026-08-01,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18821.88,25076.62,21346.53,125.3
+2026-08-01,Copra,Milling,Vashi,Mumbai,Maharashtra,18790.96,24831.16,21761.52,184.07
+2026-08-01,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15806.73,21033.94,18985.62,145.05
+2026-08-01,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8869.18,11339.84,9896.87,356.95
+2026-08-01,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,8062.81,10238.96,8790.19,161.11
+2026-08-01,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7582.15,10558.91,9185.6,171.38
+2026-08-01,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8451.22,10431.13,9501.29,257.84
+2026-08-01,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7084.26,10149.86,8628.17,188.42
+2026-08-01,Green Gram,Whole,Azadpur,New Delhi,Delhi,7610.98,9726.57,8544.62,9732.13
+2026-08-01,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7623.55,9508.53,8389.13,3750.31
+2026-08-01,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6563.32,8776.61,7719.57,5275.39
+2026-08-01,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7429.07,9055.81,8332.42,8426.1
+2026-08-01,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7352.77,9739.55,8549.06,4001.93
+2026-08-01,Groundnut,Bold,Azadpur,New Delhi,Delhi,7564.84,9293.84,8496.89,1662.38
+2026-08-01,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5498.25,7203.45,6610.73,544.34
+2026-08-01,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6400.57,8382.08,7144.01,892.22
+2026-08-01,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6551.11,8836.43,7771.63,1158.61
+2026-08-01,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6633.24,8116.9,7374.45,635.82
+2026-08-01,Jowar,Local,Azadpur,New Delhi,Delhi,3274.26,4063.77,3567.91,617.66
+2026-08-01,Jowar,Local,Bowenpally,Hyderabad,Telangana,3307.2,4183.16,3628.43,209.63
+2026-08-01,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3489.52,4446.43,3884.13,289.01
+2026-08-01,Jowar,Local,Vashi,Mumbai,Maharashtra,3488.24,4372.95,3796.07,463.2
+2026-08-01,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,3133.41,3857.66,3447.79,267.54
+2026-08-01,Lentil,Whole,Azadpur,New Delhi,Delhi,7921.41,11166.65,9500.0,859.31
+2026-08-01,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7318.21,9131.78,8244.34,340.16
+2026-08-01,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5824.76,8105.33,7026.62,528.49
+2026-08-01,Lentil,Whole,Vashi,Mumbai,Maharashtra,7159.4,8954.85,8196.72,711.63
+2026-08-01,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5927.2,7807.76,6820.24,409.81
+2026-08-01,Maize,Local,Azadpur,New Delhi,Delhi,2063.38,2744.36,2505.82,28934.54
+2026-08-01,Maize,Local,Bowenpally,Hyderabad,Telangana,1813.58,2454.55,2188.29,10834.32
+2026-08-01,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1957.77,2630.14,2325.33,14519.76
+2026-08-01,Maize,Local,Vashi,Mumbai,Maharashtra,1948.42,2677.72,2288.24,24544.85
+2026-08-01,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2085.67,2690.28,2417.07,14028.54
+2026-08-01,Mustard,Local,Azadpur,New Delhi,Delhi,6765.84,9150.15,7902.32,2974.47
+2026-08-01,Mustard,Local,Bowenpally,Hyderabad,Telangana,6313.64,7930.61,7276.2,1475.35
+2026-08-01,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,4916.75,6609.96,5982.99,2235.38
+2026-08-01,Mustard,Local,Vashi,Mumbai,Maharashtra,6766.1,9185.98,7915.51,2795.9
+2026-08-01,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5517.14,7826.43,6700.89,1707.69
+2026-08-01,Niger Seed,Local,Azadpur,New Delhi,Delhi,11061.7,14031.18,12162.14,31.8
+2026-08-01,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10477.24,14701.67,12469.32,9.96
+2026-08-01,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9341.42,13046.68,11096.93,13.51
+2026-08-01,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10488.82,14761.93,12545.36,20.19
+2026-08-01,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10975.91,13680.92,12289.5,13.21
+2026-08-01,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2315.86,2898.63,2628.36,47945.17
+2026-08-01,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2886.18,3468.11,3172.01,20127.98
+2026-08-01,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2405.69,3197.37,2777.26,23858.43
+2026-08-01,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2649.92,3417.43,3077.2,34617.15
+2026-08-01,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2330.7,3005.7,2755.87,22903.4
+2026-08-01,Paddy,Common,Azadpur,New Delhi,Delhi,2625.9,3343.93,2921.13,22525.94
+2026-08-01,Paddy,Common,Bowenpally,Hyderabad,Telangana,2369.4,2963.93,2718.01,8464.9
+2026-08-01,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2295.88,3110.64,2695.1,11578.93
+2026-08-01,Paddy,Common,Vashi,Mumbai,Maharashtra,2545.37,3142.7,2859.31,17242.97
+2026-08-01,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2283.78,2917.56,2630.19,11809.36
+2026-08-01,Potato,Local,Azadpur,New Delhi,Delhi,863.44,1076.52,952.45,60370.8
+2026-08-01,Potato,Local,Bowenpally,Hyderabad,Telangana,853.42,1092.24,954.6,23894.05
+2026-08-01,Potato,Local,Koyambedu,Chennai,Tamil Nadu,923.92,1172.97,1021.35,30556.55
+2026-08-01,Potato,Local,Vashi,Mumbai,Maharashtra,896.42,1166.07,1047.06,39125.02
+2026-08-01,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,839.25,1043.08,945.71,26166.68
+2026-08-01,Ragi,Local,Azadpur,New Delhi,Delhi,3265.89,4026.3,3699.82,141.84
+2026-08-01,Ragi,Local,Bowenpally,Hyderabad,Telangana,3083.1,3723.31,3428.96,60.56
+2026-08-01,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3302.97,4290.74,3695.67,83.22
+2026-08-01,Ragi,Local,Vashi,Mumbai,Maharashtra,3605.52,4647.86,3972.17,128.46
+2026-08-01,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,2880.89,4022.96,3499.71,62.95
+2026-08-01,Red Gram,Whole,Azadpur,New Delhi,Delhi,7307.02,9156.92,8079.38,1456.86
+2026-08-01,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6332.03,8527.98,7516.75,495.47
+2026-08-01,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7634.36,9424.83,8301.65,888.73
+2026-08-01,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7213.84,10045.88,8524.82,1073.06
+2026-08-01,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6902.42,9130.55,7886.59,733.09
+2026-08-01,Safflower,Local,Azadpur,New Delhi,Delhi,4489.95,6174.13,5276.59,59.4
+2026-08-01,Safflower,Local,Bowenpally,Hyderabad,Telangana,3727.35,4725.87,4302.91,27.89
+2026-08-01,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4101.51,5801.18,4979.12,34.3
+2026-08-01,Safflower,Local,Vashi,Mumbai,Maharashtra,4017.59,4855.99,4414.3,50.22
+2026-08-01,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4370.52,5503.64,4880.63,28.83
+2026-08-01,Sesamum,Local,Azadpur,New Delhi,Delhi,11223.15,14922.13,13104.75,312.25
+2026-08-01,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10447.16,13468.01,12101.22,135.93
+2026-08-01,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10260.25,13291.31,11810.64,169.43
+2026-08-01,Sesamum,Local,Vashi,Mumbai,Maharashtra,12359.27,16923.84,15000.0,209.55
+2026-08-01,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11680.57,14779.05,13470.5,142.77
+2026-08-01,Soyabean,Local,Azadpur,New Delhi,Delhi,6243.86,8186.69,7573.61,7769.26
+2026-08-01,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5449.74,7167.76,6169.6,3019.93
+2026-08-01,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5551.52,7356.34,6576.29,4842.37
+2026-08-01,Soyabean,Local,Vashi,Mumbai,Maharashtra,6639.35,8684.03,8000.0,6260.56
+2026-08-01,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5618.49,7058.96,6337.84,3653.6
+2026-08-01,Sunflower,Local,Azadpur,New Delhi,Delhi,7814.92,10089.49,8646.1,192.48
+2026-08-01,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6318.08,8217.43,7465.74,75.07
+2026-08-01,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7088.55,8791.61,7972.49,114.93
+2026-08-01,Sunflower,Local,Vashi,Mumbai,Maharashtra,7268.22,8875.83,8122.67,182.89
+2026-08-01,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,7007.29,8534.99,7854.24,95.48
+2026-08-01,Tomato,Local,Azadpur,New Delhi,Delhi,1700.65,2287.67,2048.84,12594.8
+2026-08-01,Tomato,Local,Bowenpally,Hyderabad,Telangana,1456.49,2053.44,1760.37,6033.88
+2026-08-01,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1473.01,1818.97,1641.75,8021.64
+2026-08-01,Tomato,Local,Vashi,Mumbai,Maharashtra,1909.25,2448.68,2081.72,11106.47
+2026-08-01,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1431.19,1975.3,1739.75,6223.66
+2026-08-01,Wheat,Local,Azadpur,New Delhi,Delhi,2145.99,2996.31,2572.09,72021.94
+2026-08-01,Wheat,Local,Bowenpally,Hyderabad,Telangana,2246.75,2757.12,2545.13,23108.18
+2026-08-01,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2201.81,2739.76,2484.46,31517.52
+2026-08-01,Wheat,Local,Vashi,Mumbai,Maharashtra,2468.0,3160.83,2770.58,52503.04
+2026-08-01,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2183.95,2771.93,2539.1,32635.77
+2026-08-02,Bajra,Local,Azadpur,New Delhi,Delhi,2547.76,3178.26,2800.35,905.67
+2026-08-02,Bajra,Local,Bowenpally,Hyderabad,Telangana,1942.43,2634.35,2244.83,465.29
+2026-08-02,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1985.55,2605.52,2238.07,470.93
+2026-08-02,Bajra,Local,Vashi,Mumbai,Maharashtra,2274.22,2961.53,2587.65,480.24
+2026-08-02,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,2002.97,2528.03,2185.9,536.47
+2026-08-02,Barley,Local,Azadpur,New Delhi,Delhi,2265.05,2848.28,2483.4,105.13
+2026-08-02,Barley,Local,Bowenpally,Hyderabad,Telangana,1739.49,2386.77,2023.67,46.73
+2026-08-02,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1864.42,2598.26,2235.67,48.24
+2026-08-02,Barley,Local,Vashi,Mumbai,Maharashtra,1861.66,2582.39,2219.13,74.91
+2026-08-02,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1918.84,2385.0,2202.15,33.68
+2026-08-02,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5635.71,7513.18,6445.06,1590.44
+2026-08-02,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5185.21,7049.9,6173.22,1021.72
+2026-08-02,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5419.8,7466.08,6460.03,826.73
+2026-08-02,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6515.68,8477.4,7473.55,1505.35
+2026-08-02,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5787.85,7771.63,6656.96,1240.54
+2026-08-02,Black Gram,Whole,Azadpur,New Delhi,Delhi,7740.33,10072.28,8846.24,132.21
+2026-08-02,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7060.65,8876.43,8039.23,69.3
+2026-08-02,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7852.24,10540.68,9534.2,132.13
+2026-08-02,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8632.53,10609.17,9775.47,174.71
+2026-08-02,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7004.81,9256.17,7956.03,117.95
+2026-08-02,Copra,Milling,Azadpur,New Delhi,Delhi,19533.51,25495.33,21703.78,101.18
+2026-08-02,Copra,Milling,Bowenpally,Hyderabad,Telangana,15299.54,20321.76,17442.53,40.02
+2026-08-02,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18104.44,24614.82,21382.43,47.29
+2026-08-02,Copra,Milling,Vashi,Mumbai,Maharashtra,20036.24,25701.87,21783.12,56.53
+2026-08-02,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16542.81,21362.61,18933.67,28.85
+2026-08-02,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8640.96,11309.91,10002.23,217.08
+2026-08-02,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,8060.35,9803.1,8822.11,69.72
+2026-08-02,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8124.28,10135.4,9202.71,68.36
+2026-08-02,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,7777.12,10528.41,9032.84,112.59
+2026-08-02,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7957.71,9734.51,8659.88,74.18
+2026-08-02,Green Gram,Whole,Azadpur,New Delhi,Delhi,7587.29,9575.63,8537.78,5307.37
+2026-08-02,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7130.18,9743.47,8355.55,1725.29
+2026-08-02,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6823.02,8520.61,7686.81,2343.03
+2026-08-02,Green Gram,Whole,Vashi,Mumbai,Maharashtra,6903.22,9467.9,8366.52,3479.67
+2026-08-02,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7348.18,9811.45,8621.0,1751.77
+2026-08-02,Groundnut,Bold,Azadpur,New Delhi,Delhi,7387.41,9872.94,8455.05,631.02
+2026-08-02,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5447.43,7447.58,6569.51,256.71
+2026-08-02,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6559.37,8181.06,7187.37,325.29
+2026-08-02,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6571.87,8399.61,7761.81,499.83
+2026-08-02,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6308.34,8377.05,7435.93,217.26
+2026-08-02,Jowar,Local,Azadpur,New Delhi,Delhi,3206.48,4195.41,3626.37,188.31
+2026-08-02,Jowar,Local,Bowenpally,Hyderabad,Telangana,3213.67,4070.8,3621.27,64.99
+2026-08-02,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3403.36,4360.08,3857.58,90.27
+2026-08-02,Jowar,Local,Vashi,Mumbai,Maharashtra,3355.74,4318.25,3783.14,144.86
+2026-08-02,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2944.58,3807.33,3486.86,85.58
+2026-08-02,Lentil,Whole,Azadpur,New Delhi,Delhi,8040.16,10826.96,9500.0,342.56
+2026-08-02,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7121.34,9195.99,8271.69,186.64
+2026-08-02,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6205.77,7713.98,7077.62,251.19
+2026-08-02,Lentil,Whole,Vashi,Mumbai,Maharashtra,7226.27,8904.67,8154.05,255.38
+2026-08-02,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,6011.32,7651.37,6832.91,193.25
+2026-08-02,Maize,Local,Azadpur,New Delhi,Delhi,2146.43,2792.86,2495.07,11712.1
+2026-08-02,Maize,Local,Bowenpally,Hyderabad,Telangana,1751.69,2288.14,1986.86,2576.96
+2026-08-02,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1963.4,2556.81,2321.39,8504.26
+2026-08-02,Maize,Local,Vashi,Mumbai,Maharashtra,1911.46,2617.0,2285.39,7566.64
+2026-08-02,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2053.98,2661.22,2423.64,6891.94
+2026-08-02,Mustard,Local,Azadpur,New Delhi,Delhi,7181.46,10031.94,8688.01,1571.03
+2026-08-02,Mustard,Local,Bowenpally,Hyderabad,Telangana,5982.05,7937.45,7128.26,709.45
+2026-08-02,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5466.83,6779.77,6217.82,486.99
+2026-08-02,Mustard,Local,Vashi,Mumbai,Maharashtra,6525.35,8868.11,7921.2,1457.81
+2026-08-02,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5952.68,7294.66,6740.86,686.2
+2026-08-02,Niger Seed,Local,Azadpur,New Delhi,Delhi,10801.36,13614.87,12223.4,6.19
+2026-08-02,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,11106.91,14380.23,12448.99,6.4
+2026-08-02,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9129.49,12740.54,10999.5,5.51
+2026-08-02,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11533.05,14163.4,12549.32,10.65
+2026-08-02,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10853.84,14203.63,12160.66,5.26
+2026-08-02,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2371.19,2943.39,2644.19,20492.4
+2026-08-02,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2621.26,3469.23,3164.3,7285.09
+2026-08-02,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2512.97,3049.99,2778.15,14717.96
+2026-08-02,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2735.49,3510.12,3068.6,11773.02
+2026-08-02,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2371.3,2993.86,2754.01,10771.65
+2026-08-02,Paddy,Common,Azadpur,New Delhi,Delhi,2436.55,3324.05,2935.77,8990.59
+2026-08-02,Paddy,Common,Bowenpally,Hyderabad,Telangana,2407.56,3142.19,2709.62,4048.92
+2026-08-02,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2249.65,3167.68,2690.82,6241.56
+2026-08-02,Paddy,Common,Vashi,Mumbai,Maharashtra,2462.24,3207.29,2858.4,7582.12
+2026-08-02,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2304.26,2848.87,2627.05,4018.67
+2026-08-02,Potato,Local,Azadpur,New Delhi,Delhi,757.43,1051.01,893.86,20923.65
+2026-08-02,Potato,Local,Bowenpally,Hyderabad,Telangana,850.2,1036.56,958.4,11157.51
+2026-08-02,Potato,Local,Koyambedu,Chennai,Tamil Nadu,929.14,1110.59,1026.07,10775.52
+2026-08-02,Potato,Local,Vashi,Mumbai,Maharashtra,898.69,1139.94,1040.73,19321.38
+2026-08-02,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,810.7,1103.84,946.4,8449.26
+2026-08-02,Ragi,Local,Azadpur,New Delhi,Delhi,3285.7,4263.84,3697.89,54.85
+2026-08-02,Ragi,Local,Bowenpally,Hyderabad,Telangana,3041.55,3856.04,3419.75,26.03
+2026-08-02,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3319.38,4041.71,3617.14,47.97
+2026-08-02,Ragi,Local,Vashi,Mumbai,Maharashtra,3493.75,4578.66,3993.87,48.22
+2026-08-02,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3129.17,4097.58,3579.09,22.95
+2026-08-02,Red Gram,Whole,Azadpur,New Delhi,Delhi,7002.65,9541.98,8114.36,650.18
+2026-08-02,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6527.93,8343.46,7473.01,215.68
+2026-08-02,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7243.32,9458.71,8323.98,309.37
+2026-08-02,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7747.93,9261.53,8553.31,526.98
+2026-08-02,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6615.42,8753.51,7885.55,221.16
+2026-08-02,Safflower,Local,Azadpur,New Delhi,Delhi,4391.37,5909.41,5277.25,41.55
+2026-08-02,Safflower,Local,Bowenpally,Hyderabad,Telangana,3691.82,4840.4,4303.4,11.75
+2026-08-02,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4480.2,5402.77,4971.5,13.29
+2026-08-02,Safflower,Local,Vashi,Mumbai,Maharashtra,3749.79,4749.97,4387.56,16.85
+2026-08-02,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4296.46,5485.66,4874.55,11.86
+2026-08-02,Sesamum,Local,Azadpur,New Delhi,Delhi,12158.84,14871.79,13221.93,105.15
+2026-08-02,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10395.53,13176.17,12072.18,62.08
+2026-08-02,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10550.61,13453.66,11703.06,57.32
+2026-08-02,Sesamum,Local,Vashi,Mumbai,Maharashtra,13288.11,16671.53,15000.0,128.68
+2026-08-02,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11912.06,14820.57,13538.78,65.89
+2026-08-02,Soyabean,Local,Azadpur,New Delhi,Delhi,6297.29,8829.61,7579.13,4376.1
+2026-08-02,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5607.36,7074.95,6236.39,1546.26
+2026-08-02,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5840.41,7433.51,6590.72,1536.2
+2026-08-02,Soyabean,Local,Vashi,Mumbai,Maharashtra,6588.4,9173.91,7993.05,2444.65
+2026-08-02,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5462.65,7097.32,6316.12,1654.26
+2026-08-02,Sunflower,Local,Azadpur,New Delhi,Delhi,7822.94,9508.98,8656.1,90.41
+2026-08-02,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6631.75,8612.66,7490.63,25.1
+2026-08-02,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7128.25,9343.49,7979.35,55.7
+2026-08-02,Sunflower,Local,Vashi,Mumbai,Maharashtra,7401.15,9776.32,8354.1,74.29
+2026-08-02,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,7035.41,8719.55,7846.88,27.83
+2026-08-02,Tomato,Local,Azadpur,New Delhi,Delhi,1834.37,2387.8,2043.36,6232.74
+2026-08-02,Tomato,Local,Bowenpally,Hyderabad,Telangana,1580.1,1922.99,1777.52,2119.51
+2026-08-02,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1421.92,1827.45,1664.6,2315.09
+2026-08-02,Tomato,Local,Vashi,Mumbai,Maharashtra,1801.22,2408.58,2073.86,4839.75
+2026-08-02,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1445.07,1953.23,1733.89,2954.67
+2026-08-02,Wheat,Local,Azadpur,New Delhi,Delhi,2120.51,3038.61,2585.37,30528.9
+2026-08-02,Wheat,Local,Bowenpally,Hyderabad,Telangana,2305.73,2799.45,2529.31,10702.26
+2026-08-02,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2272.28,2745.68,2481.56,16748.94
+2026-08-02,Wheat,Local,Vashi,Mumbai,Maharashtra,2458.85,3223.77,2771.61,17177.64
+2026-08-02,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2148.86,2978.43,2540.61,14369.41
+2026-08-03,Bajra,Local,Azadpur,New Delhi,Delhi,2362.73,3292.41,2798.29,2131.31
+2026-08-03,Bajra,Local,Bowenpally,Hyderabad,Telangana,2105.24,2571.69,2301.13,725.38
+2026-08-03,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1982.0,2458.87,2247.65,1084.05
+2026-08-03,Bajra,Local,Vashi,Mumbai,Maharashtra,2213.31,2889.49,2581.02,1431.63
+2026-08-03,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1824.38,2401.09,2194.15,928.78
+2026-08-03,Barley,Local,Azadpur,New Delhi,Delhi,2280.55,2907.34,2487.4,263.35
+2026-08-03,Barley,Local,Bowenpally,Hyderabad,Telangana,1724.23,2303.86,2028.83,107.84
+2026-08-03,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1967.01,2567.51,2243.09,147.08
+2026-08-03,Barley,Local,Vashi,Mumbai,Maharashtra,1944.44,2614.19,2216.26,237.78
+2026-08-03,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1843.81,2608.7,2211.02,127.96
+2026-08-03,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5477.79,7052.28,6455.52,4729.11
+2026-08-03,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5583.76,6940.26,6195.41,2053.88
+2026-08-03,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5830.19,7358.22,6476.22,2181.15
+2026-08-03,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6243.31,8369.01,7494.15,4061.56
+2026-08-03,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5593.71,7503.28,6662.18,2152.55
+2026-08-03,Black Gram,Whole,Azadpur,New Delhi,Delhi,7938.17,10041.04,8855.7,413.32
+2026-08-03,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7272.0,8761.8,8064.83,216.91
+2026-08-03,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8231.15,10497.98,9581.04,265.54
+2026-08-03,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8344.23,11253.38,9787.06,372.77
+2026-08-03,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6708.05,8746.25,7902.72,191.03
+2026-08-03,Copra,Milling,Azadpur,New Delhi,Delhi,19777.73,24114.57,21781.38,199.88
+2026-08-03,Copra,Milling,Bowenpally,Hyderabad,Telangana,15854.92,19876.47,18186.98,89.83
+2026-08-03,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,19317.32,24101.02,21295.47,132.06
+2026-08-03,Copra,Milling,Vashi,Mumbai,Maharashtra,19399.43,23859.63,21807.71,194.35
+2026-08-03,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16174.91,21437.52,18964.14,115.49
+2026-08-03,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9253.08,11661.12,10110.93,389.44
+2026-08-03,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,8027.32,9920.66,8855.89,134.05
+2026-08-03,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7966.27,10721.2,9245.2,213.94
+2026-08-03,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8259.73,10560.02,9142.84,309.17
+2026-08-03,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7527.02,9377.03,8671.94,148.27
+2026-08-03,Green Gram,Whole,Azadpur,New Delhi,Delhi,7018.81,9832.65,8532.27,9883.92
+2026-08-03,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,6969.73,9177.51,8363.89,3937.81
+2026-08-03,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7065.58,8569.45,7737.97,5294.16
+2026-08-03,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7037.63,9267.88,8439.15,9005.17
+2026-08-03,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7162.84,9997.11,8638.65,4637.48
+2026-08-03,Groundnut,Bold,Azadpur,New Delhi,Delhi,7314.96,9773.72,8338.43,1682.96
+2026-08-03,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5720.65,7505.08,6581.8,690.42
+2026-08-03,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6055.36,7937.93,7197.61,562.84
+2026-08-03,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6435.88,8574.99,7803.03,1233.64
+2026-08-03,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6629.8,8837.6,7494.9,738.96
+2026-08-03,Jowar,Local,Azadpur,New Delhi,Delhi,3047.55,4157.63,3702.63,589.12
+2026-08-03,Jowar,Local,Bowenpally,Hyderabad,Telangana,3095.26,4007.21,3597.58,216.82
+2026-08-03,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3274.69,4342.56,3845.76,326.17
+2026-08-03,Jowar,Local,Vashi,Mumbai,Maharashtra,3335.66,4419.95,3850.24,500.93
+2026-08-03,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,3042.59,3772.89,3467.59,263.6
+2026-08-03,Lentil,Whole,Azadpur,New Delhi,Delhi,8329.01,10906.73,9500.0,869.1
+2026-08-03,Lentil,Whole,Bowenpally,Hyderabad,Telangana,6814.13,9496.89,8281.63,279.2
+2026-08-03,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5783.52,7938.18,7034.65,511.35
+2026-08-03,Lentil,Whole,Vashi,Mumbai,Maharashtra,7241.98,8756.64,8083.03,651.36
+2026-08-03,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,6045.29,7453.51,6850.85,420.11
+2026-08-03,Maize,Local,Azadpur,New Delhi,Delhi,2265.34,2696.76,2484.06,27243.0
+2026-08-03,Maize,Local,Bowenpally,Hyderabad,Telangana,1727.24,2389.8,2042.43,10562.97
+2026-08-03,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2035.72,2636.39,2322.45,15191.43
+2026-08-03,Maize,Local,Vashi,Mumbai,Maharashtra,1892.5,2571.91,2296.68,24674.45
+2026-08-03,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2127.6,2740.98,2423.42,13845.25
+2026-08-03,Mustard,Local,Azadpur,New Delhi,Delhi,7230.0,9095.51,8396.54,4035.74
+2026-08-03,Mustard,Local,Bowenpally,Hyderabad,Telangana,6134.62,7836.86,7174.81,1269.38
+2026-08-03,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5321.17,7433.36,6406.31,1758.62
+2026-08-03,Mustard,Local,Vashi,Mumbai,Maharashtra,7273.1,9058.1,7954.79,3021.26
+2026-08-03,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5746.09,7600.0,6720.11,1601.46
+2026-08-03,Niger Seed,Local,Azadpur,New Delhi,Delhi,10632.72,13309.72,12303.06,25.49
+2026-08-03,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10845.02,14306.21,12387.03,11.49
+2026-08-03,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,10141.68,12147.49,11070.94,14.79
+2026-08-03,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11415.26,14170.55,12568.96,19.08
+2026-08-03,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11038.75,14376.63,12199.24,14.62
+2026-08-03,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2438.87,3046.52,2679.49,44068.97
+2026-08-03,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2790.12,3557.43,3176.29,19953.32
+2026-08-03,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2335.62,3246.57,2786.8,30934.89
+2026-08-03,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2599.64,3538.84,3048.41,36652.54
+2026-08-03,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2315.06,3255.12,2764.42,24089.13
+2026-08-03,Paddy,Common,Azadpur,New Delhi,Delhi,2465.1,3320.43,2932.89,23612.77
+2026-08-03,Paddy,Common,Bowenpally,Hyderabad,Telangana,2482.73,3010.53,2723.88,8291.66
+2026-08-03,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2350.52,3075.89,2698.37,11641.6
+2026-08-03,Paddy,Common,Vashi,Mumbai,Maharashtra,2526.25,3270.26,2871.27,15535.27
+2026-08-03,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2395.32,3029.23,2628.1,9760.12
+2026-08-03,Potato,Local,Azadpur,New Delhi,Delhi,789.47,994.38,907.92,57461.61
+2026-08-03,Potato,Local,Bowenpally,Hyderabad,Telangana,843.59,1103.38,968.43,26750.26
+2026-08-03,Potato,Local,Koyambedu,Chennai,Tamil Nadu,907.15,1130.35,1026.37,32427.98
+2026-08-03,Potato,Local,Vashi,Mumbai,Maharashtra,918.37,1236.69,1048.08,41381.07
+2026-08-03,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,787.24,1033.57,950.5,25932.64
+2026-08-03,Ragi,Local,Azadpur,New Delhi,Delhi,3241.21,4137.86,3695.55,157.96
+2026-08-03,Ragi,Local,Bowenpally,Hyderabad,Telangana,2973.42,3693.98,3411.64,65.54
+2026-08-03,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,2929.96,4091.06,3557.06,95.2
+2026-08-03,Ragi,Local,Vashi,Mumbai,Maharashtra,3508.43,4684.42,3996.27,131.51
+2026-08-03,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3326.35,4236.61,3693.51,76.54
+2026-08-03,Red Gram,Whole,Azadpur,New Delhi,Delhi,7170.92,9197.9,8093.51,1469.34
+2026-08-03,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6768.67,8466.89,7469.56,629.01
+2026-08-03,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7621.38,9482.95,8374.11,669.39
+2026-08-03,Red Gram,Whole,Vashi,Mumbai,Maharashtra,6494.34,8468.33,7752.14,1185.78
+2026-08-03,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6944.0,9186.14,7919.92,642.51
+2026-08-03,Safflower,Local,Azadpur,New Delhi,Delhi,4584.71,6087.94,5249.38,61.74
+2026-08-03,Safflower,Local,Bowenpally,Hyderabad,Telangana,3819.72,4762.24,4324.8,30.02
+2026-08-03,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4370.84,5540.34,4971.87,38.57
+2026-08-03,Safflower,Local,Vashi,Mumbai,Maharashtra,3708.31,4940.0,4374.82,56.24
+2026-08-03,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4234.12,5675.55,4937.63,29.12
+2026-08-03,Sesamum,Local,Azadpur,New Delhi,Delhi,10793.72,14682.18,13055.05,284.98
+2026-08-03,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10400.88,13236.9,12018.45,145.64
+2026-08-03,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9883.73,13117.54,11744.32,168.99
+2026-08-03,Sesamum,Local,Vashi,Mumbai,Maharashtra,12392.94,16473.47,15000.0,256.65
+2026-08-03,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11213.14,15158.31,13633.9,156.13
+2026-08-03,Soyabean,Local,Azadpur,New Delhi,Delhi,6582.66,8540.28,7592.04,9247.66
+2026-08-03,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5357.27,6782.4,6250.56,3714.55
+2026-08-03,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5979.41,7316.91,6621.53,4241.18
+2026-08-03,Soyabean,Local,Vashi,Mumbai,Maharashtra,7222.8,9061.99,8000.0,6901.08
+2026-08-03,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5276.17,7466.38,6350.82,4169.85
+2026-08-03,Sunflower,Local,Azadpur,New Delhi,Delhi,8020.85,9431.09,8729.68,231.08
+2026-08-03,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6856.69,8269.47,7514.52,75.53
+2026-08-03,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7100.92,9086.69,8007.62,90.19
+2026-08-03,Sunflower,Local,Vashi,Mumbai,Maharashtra,7021.24,9516.33,8354.3,182.06
+2026-08-03,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6672.85,8986.72,7862.97,81.17
+2026-08-03,Tomato,Local,Azadpur,New Delhi,Delhi,1814.17,2305.15,2064.9,13989.67
+2026-08-03,Tomato,Local,Bowenpally,Hyderabad,Telangana,1603.07,1946.93,1775.62,5106.54
+2026-08-03,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1466.05,1839.17,1690.8,9234.55
+2026-08-03,Tomato,Local,Vashi,Mumbai,Maharashtra,1925.05,2328.58,2098.82,11172.08
+2026-08-03,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1570.32,1910.38,1738.78,7967.85
+2026-08-03,Wheat,Local,Azadpur,New Delhi,Delhi,2145.42,2998.28,2592.06,61380.5
+2026-08-03,Wheat,Local,Bowenpally,Hyderabad,Telangana,2129.74,2872.46,2520.67,28227.04
+2026-08-03,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2177.77,2688.89,2477.92,30996.56
+2026-08-03,Wheat,Local,Vashi,Mumbai,Maharashtra,2305.89,3199.42,2770.61,43084.68
+2026-08-03,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2339.78,2989.68,2545.77,32896.73
+2026-08-04,Bajra,Local,Azadpur,New Delhi,Delhi,2557.66,3147.67,2802.29,1880.02
+2026-08-04,Bajra,Local,Bowenpally,Hyderabad,Telangana,1944.08,2708.36,2353.43,740.13
+2026-08-04,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1940.05,2628.54,2266.91,1157.29
+2026-08-04,Bajra,Local,Vashi,Mumbai,Maharashtra,2194.72,2977.72,2586.35,1474.1
+2026-08-04,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1917.18,2527.68,2206.09,1039.94
+2026-08-04,Barley,Local,Azadpur,New Delhi,Delhi,2170.82,2796.53,2483.61,274.54
+2026-08-04,Barley,Local,Bowenpally,Hyderabad,Telangana,1847.43,2235.21,2037.54,123.67
+2026-08-04,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2039.9,2575.16,2249.57,143.99
+2026-08-04,Barley,Local,Vashi,Mumbai,Maharashtra,1861.91,2394.54,2212.54,211.08
+2026-08-04,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1882.07,2548.32,2230.74,143.64
+2026-08-04,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5296.54,7262.88,6451.48,3842.5
+2026-08-04,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5254.89,7092.73,6190.83,1766.17
+2026-08-04,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5558.02,7335.39,6487.27,2486.7
+2026-08-04,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6475.78,8347.41,7491.0,3779.98
+2026-08-04,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5924.89,7644.01,6648.07,2562.5
+2026-08-04,Black Gram,Whole,Azadpur,New Delhi,Delhi,7520.0,10408.98,8829.02,500.72
+2026-08-04,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6875.95,8994.57,8066.97,202.48
+2026-08-04,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8085.46,10623.48,9611.1,282.76
+2026-08-04,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8790.63,11001.16,9732.57,430.35
+2026-08-04,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7014.05,9292.25,7907.73,214.34
+2026-08-04,Copra,Milling,Azadpur,New Delhi,Delhi,19787.97,24836.5,21661.03,216.45
+2026-08-04,Copra,Milling,Bowenpally,Hyderabad,Telangana,14963.32,21012.05,18181.58,96.26
+2026-08-04,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17598.45,23646.04,21397.93,133.95
+2026-08-04,Copra,Milling,Vashi,Mumbai,Maharashtra,19976.71,24919.71,21833.43,208.91
+2026-08-04,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,14282.53,19097.11,17396.28,81.92
+2026-08-04,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8520.41,11352.72,10117.68,398.69
+2026-08-04,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7917.69,9611.27,8817.89,150.84
+2026-08-04,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8504.23,10508.28,9335.29,176.13
+2026-08-04,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8301.84,10496.33,9229.02,271.67
+2026-08-04,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7617.95,9329.96,8631.7,181.33
+2026-08-04,Green Gram,Whole,Azadpur,New Delhi,Delhi,7108.11,9393.83,8488.12,9864.39
+2026-08-04,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,6988.86,9437.9,8383.08,4655.34
+2026-08-04,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6352.63,8579.33,7689.22,6061.19
+2026-08-04,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7001.94,9368.6,8459.98,9483.58
+2026-08-04,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7681.16,9572.02,8620.76,5706.0
+2026-08-04,Groundnut,Bold,Azadpur,New Delhi,Delhi,7688.93,9838.29,8362.89,1290.75
+2026-08-04,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5597.91,7354.06,6585.59,622.08
+2026-08-04,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6416.94,8109.6,7130.66,767.77
+2026-08-04,Groundnut,Bold,Vashi,Mumbai,Maharashtra,7134.38,9047.44,7768.88,1142.76
+2026-08-04,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6233.36,8809.0,7508.73,738.72
+2026-08-04,Jowar,Local,Azadpur,New Delhi,Delhi,3404.48,4409.61,3815.05,514.35
+2026-08-04,Jowar,Local,Bowenpally,Hyderabad,Telangana,3297.48,4036.52,3638.64,226.16
+2026-08-04,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3352.21,4207.3,3834.65,258.92
+2026-08-04,Jowar,Local,Vashi,Mumbai,Maharashtra,3408.04,4312.05,3866.89,513.18
+2026-08-04,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,3110.55,3800.11,3468.36,259.25
+2026-08-04,Lentil,Whole,Azadpur,New Delhi,Delhi,8409.26,10848.82,9500.0,823.62
+2026-08-04,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7536.71,9548.82,8269.81,331.85
+2026-08-04,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6128.73,7974.47,7017.1,428.24
+2026-08-04,Lentil,Whole,Vashi,Mumbai,Maharashtra,6813.03,9424.97,8026.74,840.47
+2026-08-04,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5709.46,7657.57,6912.0,433.99
+2026-08-04,Maize,Local,Azadpur,New Delhi,Delhi,2184.42,2889.04,2571.99,24274.16
+2026-08-04,Maize,Local,Bowenpally,Hyderabad,Telangana,1827.5,2287.47,2093.08,10990.24
+2026-08-04,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2026.74,2742.81,2328.53,13348.87
+2026-08-04,Maize,Local,Vashi,Mumbai,Maharashtra,1922.82,2501.21,2298.17,20702.19
+2026-08-04,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,1995.84,2732.07,2416.68,12794.29
+2026-08-04,Mustard,Local,Azadpur,New Delhi,Delhi,7177.67,9071.42,8107.88,3530.03
+2026-08-04,Mustard,Local,Bowenpally,Hyderabad,Telangana,6382.4,7946.73,7152.46,1536.91
+2026-08-04,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5257.42,7257.38,6405.58,2203.93
+2026-08-04,Mustard,Local,Vashi,Mumbai,Maharashtra,6637.57,9270.84,7905.9,2873.18
+2026-08-04,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5607.19,7730.31,6749.32,1802.77
+2026-08-04,Niger Seed,Local,Azadpur,New Delhi,Delhi,10660.43,14369.57,12317.39,28.44
+2026-08-04,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,11259.98,14460.47,12893.55,11.95
+2026-08-04,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9396.48,12824.87,11022.65,14.77
+2026-08-04,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11218.55,14395.14,12595.02,25.26
+2026-08-04,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10518.81,13595.46,12232.25,13.27
+2026-08-04,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2179.12,2892.51,2646.62,49102.46
+2026-08-04,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2618.09,3511.7,3179.53,22413.35
+2026-08-04,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2365.95,3229.33,2790.36,26068.77
+2026-08-04,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2739.49,3407.87,3058.34,36753.46
+2026-08-04,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2470.16,3229.73,2783.45,22534.37
+2026-08-04,Paddy,Common,Azadpur,New Delhi,Delhi,2399.27,3267.57,2925.37,23328.5
+2026-08-04,Paddy,Common,Bowenpally,Hyderabad,Telangana,2385.4,2963.21,2728.92,8406.9
+2026-08-04,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2329.59,2995.24,2712.66,13369.73
+2026-08-04,Paddy,Common,Vashi,Mumbai,Maharashtra,2479.65,3276.73,2873.36,16859.16
+2026-08-04,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2163.34,3075.17,2628.8,9826.32
+2026-08-04,Potato,Local,Azadpur,New Delhi,Delhi,810.01,1027.35,925.9,57581.36
+2026-08-04,Potato,Local,Bowenpally,Hyderabad,Telangana,814.18,1146.59,976.54,20777.47
+2026-08-04,Potato,Local,Koyambedu,Chennai,Tamil Nadu,850.35,1190.78,1031.25,31973.47
+2026-08-04,Potato,Local,Vashi,Mumbai,Maharashtra,923.73,1145.81,1044.66,55030.31
+2026-08-04,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,786.23,1038.24,946.22,25624.3
+2026-08-04,Ragi,Local,Azadpur,New Delhi,Delhi,3033.75,4184.09,3679.86,129.17
+2026-08-04,Ragi,Local,Bowenpally,Hyderabad,Telangana,3104.92,3895.33,3412.98,56.79
+2026-08-04,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3122.48,3929.05,3572.66,75.25
+2026-08-04,Ragi,Local,Vashi,Mumbai,Maharashtra,3561.29,4708.25,4018.74,131.18
+2026-08-04,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3198.46,4318.78,3773.49,76.58
+2026-08-04,Red Gram,Whole,Azadpur,New Delhi,Delhi,6875.01,9449.1,8094.23,1434.64
+2026-08-04,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6780.21,9003.2,8208.05,612.83
+2026-08-04,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7227.61,9088.85,8319.25,760.48
+2026-08-04,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7113.25,9136.15,8015.05,1181.68
+2026-08-04,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7253.92,9293.16,7921.37,691.17
+2026-08-04,Safflower,Local,Azadpur,New Delhi,Delhi,4807.62,6038.6,5256.93,68.53
+2026-08-04,Safflower,Local,Bowenpally,Hyderabad,Telangana,3821.25,4756.69,4317.11,28.31
+2026-08-04,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4153.92,5770.51,4996.6,31.33
+2026-08-04,Safflower,Local,Vashi,Mumbai,Maharashtra,3731.47,5227.15,4451.54,49.8
+2026-08-04,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4192.97,5454.97,4928.1,32.31
+2026-08-04,Sesamum,Local,Azadpur,New Delhi,Delhi,11954.73,14573.91,13147.06,305.14
+2026-08-04,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10923.97,13882.42,12057.55,116.01
+2026-08-04,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9699.25,12850.79,11736.84,176.77
+2026-08-04,Sesamum,Local,Vashi,Mumbai,Maharashtra,13748.51,16623.92,15000.0,260.92
+2026-08-04,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11798.93,15888.69,13581.79,183.92
+2026-08-04,Soyabean,Local,Azadpur,New Delhi,Delhi,6691.33,8539.37,7576.45,8936.54
+2026-08-04,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5517.38,6872.43,6279.1,3461.31
+2026-08-04,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5852.66,7413.79,6585.49,4012.66
+2026-08-04,Soyabean,Local,Vashi,Mumbai,Maharashtra,6759.45,8861.39,8000.0,6867.66
+2026-08-04,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5833.17,7208.29,6387.37,3928.6
+2026-08-04,Sunflower,Local,Azadpur,New Delhi,Delhi,7647.27,10226.76,8763.73,182.29
+2026-08-04,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6381.32,8662.46,7530.79,78.6
+2026-08-04,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6961.42,8812.98,8041.28,128.59
+2026-08-04,Sunflower,Local,Vashi,Mumbai,Maharashtra,7362.85,9447.05,8365.14,179.67
+2026-08-04,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6908.55,9181.08,7821.24,90.98
+2026-08-04,Tomato,Local,Azadpur,New Delhi,Delhi,1802.21,2370.24,2070.27,14841.25
+2026-08-04,Tomato,Local,Bowenpally,Hyderabad,Telangana,1479.34,2079.69,1783.03,7194.77
+2026-08-04,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1227.88,1644.76,1488.64,8203.43
+2026-08-04,Tomato,Local,Vashi,Mumbai,Maharashtra,1794.16,2337.11,2091.29,12440.07
+2026-08-04,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1469.56,1915.62,1758.72,6198.38
+2026-08-04,Wheat,Local,Azadpur,New Delhi,Delhi,2249.46,2856.3,2596.72,52362.88
+2026-08-04,Wheat,Local,Bowenpally,Hyderabad,Telangana,2149.54,2792.77,2510.59,26643.88
+2026-08-04,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2050.87,2913.25,2481.38,37266.01
+2026-08-04,Wheat,Local,Vashi,Mumbai,Maharashtra,2339.7,3176.19,2772.6,50801.33
+2026-08-04,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2302.34,2982.12,2555.16,28944.51
+2026-08-05,Bajra,Local,Azadpur,New Delhi,Delhi,2324.95,3127.55,2814.62,2226.4
+2026-08-05,Bajra,Local,Bowenpally,Hyderabad,Telangana,2109.33,2676.77,2373.93,987.66
+2026-08-05,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1884.57,2493.91,2266.86,1437.77
+2026-08-05,Bajra,Local,Vashi,Mumbai,Maharashtra,2165.54,2834.54,2577.04,2088.9
+2026-08-05,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1847.76,2525.99,2207.73,1073.05
+2026-08-05,Barley,Local,Azadpur,New Delhi,Delhi,2159.75,2845.42,2494.46,349.23
+2026-08-05,Barley,Local,Bowenpally,Hyderabad,Telangana,1820.4,2261.8,2034.71,127.55
+2026-08-05,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1976.22,2458.9,2250.02,174.95
+2026-08-05,Barley,Local,Vashi,Mumbai,Maharashtra,2002.64,2411.77,2210.02,264.67
+2026-08-05,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1931.65,2537.13,2233.64,146.89
+2026-08-05,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5690.12,7254.79,6452.08,6347.77
+2026-08-05,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5267.48,7145.33,6177.62,2323.91
+2026-08-05,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5573.91,7207.59,6497.55,2869.46
+2026-08-05,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6679.73,8076.53,7477.35,4726.77
+2026-08-05,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5901.74,7634.15,6664.12,2420.32
+2026-08-05,Black Gram,Whole,Azadpur,New Delhi,Delhi,8018.61,10303.66,8834.09,452.89
+2026-08-05,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6632.51,9262.32,8021.96,215.59
+2026-08-05,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8803.4,11096.82,9597.56,265.89
+2026-08-05,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8737.38,10998.8,9741.86,506.49
+2026-08-05,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6676.36,8845.79,7913.07,270.08
+2026-08-05,Copra,Milling,Azadpur,New Delhi,Delhi,19812.03,23548.25,21733.33,294.8
+2026-08-05,Copra,Milling,Bowenpally,Hyderabad,Telangana,15858.2,20587.97,18056.66,117.83
+2026-08-05,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18602.17,24548.09,21242.08,149.0
+2026-08-05,Copra,Milling,Vashi,Mumbai,Maharashtra,18553.98,24674.99,21881.36,195.2
+2026-08-05,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15653.33,20783.31,17757.54,126.43
+2026-08-05,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8498.87,10904.31,10092.53,431.08
+2026-08-05,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7330.07,9602.9,8771.63,181.1
+2026-08-05,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8564.63,10266.3,9349.48,266.24
+2026-08-05,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,7827.4,10505.29,9305.75,335.49
+2026-08-05,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7394.91,9579.07,8638.86,240.46
+2026-08-05,Green Gram,Whole,Azadpur,New Delhi,Delhi,7619.69,9676.46,8483.83,12491.75
+2026-08-05,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7076.25,9653.42,8435.92,4199.43
+2026-08-05,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6308.78,8582.42,7640.09,6763.59
+2026-08-05,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7440.22,9675.55,8460.5,9441.62
+2026-08-05,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7293.66,9889.36,8592.26,5950.92
+2026-08-05,Groundnut,Bold,Azadpur,New Delhi,Delhi,7003.24,9625.93,8384.59,1612.32
+2026-08-05,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5807.36,7559.01,6626.86,725.1
+2026-08-05,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6008.07,8375.43,7176.0,1035.06
+2026-08-05,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6604.5,8847.49,7818.98,1409.46
+2026-08-05,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6791.03,8358.71,7495.04,879.53
+2026-08-05,Jowar,Local,Azadpur,New Delhi,Delhi,3594.6,4410.33,3947.74,693.49
+2026-08-05,Jowar,Local,Bowenpally,Hyderabad,Telangana,3075.57,4040.84,3669.66,278.03
+2026-08-05,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3195.51,4269.83,3854.08,391.42
+2026-08-05,Jowar,Local,Vashi,Mumbai,Maharashtra,3292.51,4318.96,3886.1,542.39
+2026-08-05,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2917.17,3797.27,3436.48,313.46
+2026-08-05,Lentil,Whole,Azadpur,New Delhi,Delhi,8446.08,11117.36,9500.0,1093.62
+2026-08-05,Lentil,Whole,Bowenpally,Hyderabad,Telangana,6936.77,9494.12,8231.75,374.57
+2026-08-05,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6300.14,8075.89,6974.05,617.16
+2026-08-05,Lentil,Whole,Vashi,Mumbai,Maharashtra,6959.54,9082.39,7903.1,714.6
+2026-08-05,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5792.4,7842.57,6959.58,494.84
+2026-08-05,Maize,Local,Azadpur,New Delhi,Delhi,2177.7,2958.31,2555.14,33694.29
+2026-08-05,Maize,Local,Bowenpally,Hyderabad,Telangana,1953.27,2364.25,2136.63,15189.51
+2026-08-05,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1955.41,2530.25,2327.0,16705.01
+2026-08-05,Maize,Local,Vashi,Mumbai,Maharashtra,1971.17,2526.4,2277.95,24744.61
+2026-08-05,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2022.06,2648.64,2421.72,17023.18
+2026-08-05,Mustard,Local,Azadpur,New Delhi,Delhi,6722.7,8724.21,7843.73,4076.06
+2026-08-05,Mustard,Local,Bowenpally,Hyderabad,Telangana,6558.47,8318.33,7152.31,1631.57
+2026-08-05,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5389.52,6995.87,6373.49,2332.48
+2026-08-05,Mustard,Local,Vashi,Mumbai,Maharashtra,6606.52,8671.51,7903.28,3936.43
+2026-08-05,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5902.18,7464.44,6731.86,2302.85
+2026-08-05,Niger Seed,Local,Azadpur,New Delhi,Delhi,11233.74,13951.13,12420.52,31.94
+2026-08-05,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,9856.81,13618.78,11976.82,14.31
+2026-08-05,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9843.22,12508.57,11093.31,17.91
+2026-08-05,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10568.09,14280.36,12654.91,29.02
+2026-08-05,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10913.35,14131.21,12180.79,17.16
+2026-08-05,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2317.08,2970.62,2656.08,61571.22
+2026-08-05,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2535.03,3429.81,2918.11,23821.3
+2026-08-05,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2468.44,3321.93,2819.76,33388.57
+2026-08-05,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2619.36,3562.56,3066.29,45459.05
+2026-08-05,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2435.29,3116.53,2779.5,28733.44
+2026-08-05,Paddy,Common,Azadpur,New Delhi,Delhi,2509.38,3197.37,2927.08,26908.84
+2026-08-05,Paddy,Common,Bowenpally,Hyderabad,Telangana,2378.86,3061.65,2733.32,9698.65
+2026-08-05,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2272.39,3024.84,2718.3,13920.61
+2026-08-05,Paddy,Common,Vashi,Mumbai,Maharashtra,2486.34,3182.61,2869.29,23076.0
+2026-08-05,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2368.25,3008.05,2630.91,12616.66
+2026-08-05,Potato,Local,Azadpur,New Delhi,Delhi,830.19,1109.77,940.68,70690.49
+2026-08-05,Potato,Local,Bowenpally,Hyderabad,Telangana,772.34,1006.88,928.22,32593.21
+2026-08-05,Potato,Local,Koyambedu,Chennai,Tamil Nadu,925.7,1171.79,1034.19,34567.3
+2026-08-05,Potato,Local,Vashi,Mumbai,Maharashtra,872.07,1143.63,1047.63,56811.06
+2026-08-05,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,838.4,1052.36,942.38,31883.23
+2026-08-05,Ragi,Local,Azadpur,New Delhi,Delhi,3052.18,4055.19,3655.5,183.63
+2026-08-05,Ragi,Local,Bowenpally,Hyderabad,Telangana,3050.06,3862.4,3392.09,71.67
+2026-08-05,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3099.84,3885.35,3583.66,102.21
+2026-08-05,Ragi,Local,Vashi,Mumbai,Maharashtra,3420.92,4705.19,4024.5,154.41
+2026-08-05,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3415.03,4137.38,3753.86,88.98
+2026-08-05,Red Gram,Whole,Azadpur,New Delhi,Delhi,7032.74,8866.9,8116.51,1668.5
+2026-08-05,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,7259.89,9265.4,8004.23,630.82
+2026-08-05,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6912.93,9483.57,8292.98,969.15
+2026-08-05,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7221.19,9603.04,8310.13,1522.1
+2026-08-05,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6482.54,9020.46,7862.55,677.18
+2026-08-05,Safflower,Local,Azadpur,New Delhi,Delhi,4525.67,6074.41,5253.61,89.65
+2026-08-05,Safflower,Local,Bowenpally,Hyderabad,Telangana,3840.8,5043.33,4334.62,32.2
+2026-08-05,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4431.36,5611.15,5001.94,45.58
+2026-08-05,Safflower,Local,Vashi,Mumbai,Maharashtra,4048.82,5215.08,4462.5,57.43
+2026-08-05,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4417.97,5436.19,4914.95,37.33
+2026-08-05,Sesamum,Local,Azadpur,New Delhi,Delhi,10900.81,14733.45,13173.91,398.09
+2026-08-05,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10639.88,13816.14,12108.9,162.39
+2026-08-05,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9679.99,13034.23,11719.87,207.45
+2026-08-05,Sesamum,Local,Vashi,Mumbai,Maharashtra,13630.92,16894.09,15000.0,309.29
+2026-08-05,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11782.09,15223.8,13651.13,147.42
+2026-08-05,Soyabean,Local,Azadpur,New Delhi,Delhi,6409.59,8424.9,7549.22,10777.53
+2026-08-05,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5631.68,6859.93,6292.39,4135.12
+2026-08-05,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5873.88,7226.92,6579.27,5090.46
+2026-08-05,Soyabean,Local,Vashi,Mumbai,Maharashtra,6787.15,9254.56,8000.0,8110.52
+2026-08-05,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5682.29,7477.98,6384.12,4316.57
+2026-08-05,Sunflower,Local,Azadpur,New Delhi,Delhi,7205.26,9687.92,8784.68,225.26
+2026-08-05,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6395.43,8777.1,7568.71,92.74
+2026-08-05,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6629.64,9126.66,8018.35,135.16
+2026-08-05,Sunflower,Local,Vashi,Mumbai,Maharashtra,6973.69,9458.43,8354.66,187.33
+2026-08-05,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6808.15,8869.48,7800.28,111.32
+2026-08-05,Tomato,Local,Azadpur,New Delhi,Delhi,1554.87,2052.03,1846.39,17008.92
+2026-08-05,Tomato,Local,Bowenpally,Hyderabad,Telangana,1624.53,2035.24,1774.09,7619.21
+2026-08-05,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1358.23,1715.48,1554.65,8786.85
+2026-08-05,Tomato,Local,Vashi,Mumbai,Maharashtra,1883.52,2339.71,2088.39,13919.91
+2026-08-05,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1460.19,2064.56,1780.14,9029.16
+2026-08-05,Wheat,Local,Azadpur,New Delhi,Delhi,2316.29,3062.84,2600.55,78262.05
+2026-08-05,Wheat,Local,Bowenpally,Hyderabad,Telangana,2112.76,2924.11,2505.55,28162.89
+2026-08-05,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2160.67,2797.76,2485.56,45785.77
+2026-08-05,Wheat,Local,Vashi,Mumbai,Maharashtra,2545.9,3054.03,2783.45,58897.02
+2026-08-05,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2164.36,2814.27,2555.95,36091.28
+2026-08-06,Bajra,Local,Azadpur,New Delhi,Delhi,2564.1,3173.71,2807.07,1983.56
+2026-08-06,Bajra,Local,Bowenpally,Hyderabad,Telangana,1949.05,2719.06,2369.67,661.04
+2026-08-06,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2006.96,2480.23,2262.23,1160.49
+2026-08-06,Bajra,Local,Vashi,Mumbai,Maharashtra,2321.79,3028.66,2590.76,1711.43
+2026-08-06,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1836.42,2409.45,2225.7,1131.8
+2026-08-06,Barley,Local,Azadpur,New Delhi,Delhi,2279.21,2738.67,2492.3,308.16
+2026-08-06,Barley,Local,Bowenpally,Hyderabad,Telangana,1839.51,2279.55,2030.87,103.97
+2026-08-06,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2013.87,2585.68,2258.2,167.96
+2026-08-06,Barley,Local,Vashi,Mumbai,Maharashtra,2028.37,2531.41,2218.69,186.33
+2026-08-06,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1873.12,2424.78,2232.86,135.39
+2026-08-06,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5714.89,7425.28,6451.85,4524.19
+2026-08-06,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5498.89,6786.33,6212.96,1979.7
+2026-08-06,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5340.31,7279.39,6492.83,2417.04
+2026-08-06,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6457.88,8709.82,7456.33,4001.99
+2026-08-06,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5696.08,7328.9,6641.59,2224.45
+2026-08-06,Black Gram,Whole,Azadpur,New Delhi,Delhi,7736.66,9553.67,8842.99,478.93
+2026-08-06,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6741.22,8702.84,8024.01,165.26
+2026-08-06,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8472.33,11180.31,9549.44,232.84
+2026-08-06,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8462.08,11452.18,9788.16,349.67
+2026-08-06,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6452.71,8946.61,7866.75,223.79
+2026-08-06,Copra,Milling,Azadpur,New Delhi,Delhi,17831.06,23408.83,21672.82,209.42
+2026-08-06,Copra,Milling,Bowenpally,Hyderabad,Telangana,16163.55,20153.2,18142.51,90.34
+2026-08-06,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18196.77,24755.71,21198.84,103.52
+2026-08-06,Copra,Milling,Vashi,Mumbai,Maharashtra,18347.79,24220.38,21904.79,190.64
+2026-08-06,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16277.15,20045.38,17978.55,91.79
+2026-08-06,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8933.24,11226.39,10146.28,384.95
+2026-08-06,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7567.48,9670.44,8731.44,150.58
+2026-08-06,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7818.39,10702.21,9340.69,205.0
+2026-08-06,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,7882.04,10394.12,9401.45,330.88
+2026-08-06,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7793.29,9309.68,8608.97,173.81
+2026-08-06,Green Gram,Whole,Azadpur,New Delhi,Delhi,7761.28,9581.4,8438.46,11457.71
+2026-08-06,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7559.39,9103.24,8391.19,4565.13
+2026-08-06,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6597.58,8847.92,7668.44,6079.68
+2026-08-06,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7213.07,9995.32,8499.57,7595.64
+2026-08-06,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7644.08,10032.59,8587.96,4333.23
+2026-08-06,Groundnut,Bold,Azadpur,New Delhi,Delhi,7438.22,9717.71,8398.32,1477.21
+2026-08-06,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5882.88,7418.21,6626.56,600.8
+2026-08-06,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6575.63,8516.84,7225.34,768.21
+2026-08-06,Groundnut,Bold,Vashi,Mumbai,Maharashtra,7044.09,8850.11,7892.33,1182.5
+2026-08-06,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6713.04,8350.45,7509.6,720.37
+2026-08-06,Jowar,Local,Azadpur,New Delhi,Delhi,3643.76,4473.53,4050.61,597.54
+2026-08-06,Jowar,Local,Bowenpally,Hyderabad,Telangana,3221.66,4076.97,3684.32,213.79
+2026-08-06,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3436.88,4241.98,3870.82,315.34
+2026-08-06,Jowar,Local,Vashi,Mumbai,Maharashtra,3279.31,4444.13,3869.77,502.73
+2026-08-06,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2967.26,3890.81,3446.69,246.51
+2026-08-06,Lentil,Whole,Azadpur,New Delhi,Delhi,8500.42,10547.32,9500.0,896.17
+2026-08-06,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7321.47,9530.27,8203.57,319.26
+2026-08-06,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6032.03,7709.23,6869.61,446.2
+2026-08-06,Lentil,Whole,Vashi,Mumbai,Maharashtra,6997.53,8498.24,7817.03,668.5
+2026-08-06,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,6327.87,8015.53,6919.73,424.48
+2026-08-06,Maize,Local,Azadpur,New Delhi,Delhi,2091.0,2872.17,2529.66,25539.71
+2026-08-06,Maize,Local,Bowenpally,Hyderabad,Telangana,1913.08,2555.67,2180.74,10840.87
+2026-08-06,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1928.9,2585.99,2333.1,18404.26
+2026-08-06,Maize,Local,Vashi,Mumbai,Maharashtra,1919.09,2577.15,2271.88,23500.87
+2026-08-06,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2171.15,2670.16,2427.0,14331.24
+2026-08-06,Mustard,Local,Azadpur,New Delhi,Delhi,6769.27,9214.95,7827.27,4293.72
+2026-08-06,Mustard,Local,Bowenpally,Hyderabad,Telangana,6166.66,7707.52,7113.64,1628.28
+2026-08-06,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5545.51,7009.35,6336.38,2059.46
+2026-08-06,Mustard,Local,Vashi,Mumbai,Maharashtra,6895.75,8730.01,7878.73,2980.33
+2026-08-06,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5879.85,7525.53,6770.2,1708.29
+2026-08-06,Niger Seed,Local,Azadpur,New Delhi,Delhi,10441.18,13748.08,12404.79,27.97
+2026-08-06,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10140.17,13109.52,11882.29,10.7
+2026-08-06,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9926.89,12875.64,11115.97,14.38
+2026-08-06,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10727.99,14178.73,12710.07,20.37
+2026-08-06,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10095.7,13814.59,12224.32,12.67
+2026-08-06,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2251.7,2873.79,2615.78,45844.36
+2026-08-06,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2657.96,3430.65,2989.2,21990.06
+2026-08-06,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2459.25,3069.6,2797.91,22137.31
+2026-08-06,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2746.72,3595.21,3065.78,36404.64
+2026-08-06,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2404.3,3025.96,2794.36,26039.32
+2026-08-06,Paddy,Common,Azadpur,New Delhi,Delhi,2495.81,3287.75,2939.3,25529.85
+2026-08-06,Paddy,Common,Bowenpally,Hyderabad,Telangana,2329.35,3187.82,2743.42,8635.22
+2026-08-06,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2470.96,3023.22,2718.77,13246.14
+2026-08-06,Paddy,Common,Vashi,Mumbai,Maharashtra,2336.74,3014.04,2571.57,22612.03
+2026-08-06,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2268.54,3025.43,2640.75,10152.5
+2026-08-06,Potato,Local,Azadpur,New Delhi,Delhi,844.85,1048.67,956.22,54122.97
+2026-08-06,Potato,Local,Bowenpally,Hyderabad,Telangana,837.7,1035.4,943.75,26484.57
+2026-08-06,Potato,Local,Koyambedu,Chennai,Tamil Nadu,939.06,1179.25,1035.61,28636.5
+2026-08-06,Potato,Local,Vashi,Mumbai,Maharashtra,871.77,1215.33,1044.63,48165.39
+2026-08-06,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,845.9,1025.27,933.99,21991.36
+2026-08-06,Ragi,Local,Azadpur,New Delhi,Delhi,3320.68,4019.57,3640.2,162.42
+2026-08-06,Ragi,Local,Bowenpally,Hyderabad,Telangana,3060.18,3936.5,3394.16,70.12
+2026-08-06,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3018.86,3971.11,3575.82,73.8
+2026-08-06,Ragi,Local,Vashi,Mumbai,Maharashtra,3465.35,4690.67,4014.17,130.71
+2026-08-06,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3153.74,4091.06,3738.31,67.96
+2026-08-06,Red Gram,Whole,Azadpur,New Delhi,Delhi,6785.53,9421.92,8103.96,1222.23
+2026-08-06,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6658.63,8624.1,7793.36,506.3
+2026-08-06,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7514.66,9578.18,8312.1,630.29
+2026-08-06,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7648.43,10130.09,8615.78,1030.36
+2026-08-06,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6879.79,8917.37,7883.24,765.33
+2026-08-06,Safflower,Local,Azadpur,New Delhi,Delhi,4586.66,5697.56,5262.72,63.35
+2026-08-06,Safflower,Local,Bowenpally,Hyderabad,Telangana,3662.8,4920.04,4321.5,32.96
+2026-08-06,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4393.74,5606.17,4989.31,31.13
+2026-08-06,Safflower,Local,Vashi,Mumbai,Maharashtra,3708.19,5252.09,4457.7,44.19
+2026-08-06,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4335.05,5333.24,4927.99,29.38
+2026-08-06,Sesamum,Local,Azadpur,New Delhi,Delhi,10955.55,14976.31,13292.03,360.53
+2026-08-06,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10782.4,13561.76,12156.91,144.88
+2026-08-06,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10778.03,13492.09,11750.55,159.34
+2026-08-06,Sesamum,Local,Vashi,Mumbai,Maharashtra,13546.32,17021.72,15000.0,308.49
+2026-08-06,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,12055.5,15548.21,13566.55,145.84
+2026-08-06,Soyabean,Local,Azadpur,New Delhi,Delhi,6671.82,8444.53,7517.84,8179.79
+2026-08-06,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5448.64,7229.73,6309.86,3235.61
+2026-08-06,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5617.57,7308.83,6603.0,3882.78
+2026-08-06,Soyabean,Local,Vashi,Mumbai,Maharashtra,6741.0,8809.64,8000.0,5751.88
+2026-08-06,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5397.58,7279.61,6415.87,4185.75
+2026-08-06,Sunflower,Local,Azadpur,New Delhi,Delhi,8028.98,10254.92,8823.97,221.33
+2026-08-06,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6752.64,8773.04,7573.91,81.22
+2026-08-06,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7258.05,8803.52,8032.77,107.13
+2026-08-06,Sunflower,Local,Vashi,Mumbai,Maharashtra,7266.3,9267.88,8397.71,211.02
+2026-08-06,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6598.03,9054.27,7791.31,90.01
+2026-08-06,Tomato,Local,Azadpur,New Delhi,Delhi,1626.02,2236.16,1909.98,13361.13
+2026-08-06,Tomato,Local,Bowenpally,Hyderabad,Telangana,1468.72,2040.05,1783.12,5524.46
+2026-08-06,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1375.49,1795.95,1601.71,7052.97
+2026-08-06,Tomato,Local,Vashi,Mumbai,Maharashtra,1822.87,2397.91,2185.74,12572.27
+2026-08-06,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1535.43,1965.01,1787.18,6308.0
+2026-08-06,Wheat,Local,Azadpur,New Delhi,Delhi,2286.35,3051.53,2603.82,52929.34
+2026-08-06,Wheat,Local,Bowenpally,Hyderabad,Telangana,2261.58,2943.15,2507.64,24579.73
+2026-08-06,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2293.13,2862.4,2494.5,34188.07
+2026-08-06,Wheat,Local,Vashi,Mumbai,Maharashtra,2383.58,3057.43,2802.83,49196.07
+2026-08-06,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2355.92,2775.47,2565.88,29041.04
+2026-08-07,Bajra,Local,Azadpur,New Delhi,Delhi,2403.43,3158.86,2810.49,1952.03
+2026-08-07,Bajra,Local,Bowenpally,Hyderabad,Telangana,1991.52,2750.75,2378.95,760.55
+2026-08-07,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1967.64,2473.96,2256.38,872.68
+2026-08-07,Bajra,Local,Vashi,Mumbai,Maharashtra,2222.55,2869.87,2588.41,1549.3
+2026-08-07,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1973.52,2593.59,2238.18,1064.44
+2026-08-07,Barley,Local,Azadpur,New Delhi,Delhi,2217.79,2900.45,2499.31,276.65
+2026-08-07,Barley,Local,Bowenpally,Hyderabad,Telangana,1858.03,2373.96,2136.9,131.67
+2026-08-07,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1943.63,2671.57,2267.41,147.52
+2026-08-07,Barley,Local,Vashi,Mumbai,Maharashtra,1936.38,2580.93,2221.0,201.42
+2026-08-07,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1890.83,2472.4,2232.76,130.73
+2026-08-07,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5643.42,7108.51,6419.71,3880.86
+2026-08-07,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5700.47,6750.87,6208.62,1985.09
+2026-08-07,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5748.99,7267.11,6493.28,2116.77
+2026-08-07,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6267.33,8220.34,7451.85,3338.67
+2026-08-07,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5829.34,7393.11,6640.74,2143.65
+2026-08-07,Black Gram,Whole,Azadpur,New Delhi,Delhi,7448.55,9607.92,8753.56,415.52
+2026-08-07,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6739.12,8832.55,8069.12,169.21
+2026-08-07,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8180.97,10587.17,9494.29,229.32
+2026-08-07,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8424.76,11366.5,9772.41,391.73
+2026-08-07,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7188.86,9046.7,7845.33,221.57
+2026-08-07,Copra,Milling,Azadpur,New Delhi,Delhi,19826.46,23384.87,21601.94,259.15
+2026-08-07,Copra,Milling,Bowenpally,Hyderabad,Telangana,17226.67,22306.08,20396.25,102.16
+2026-08-07,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18827.52,24518.78,21385.42,106.36
+2026-08-07,Copra,Milling,Vashi,Mumbai,Maharashtra,18712.66,25619.5,21818.3,181.91
+2026-08-07,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16113.96,19689.03,18084.14,110.18
+2026-08-07,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9229.66,11918.16,10146.65,368.01
+2026-08-07,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7795.95,9473.4,8732.12,160.7
+2026-08-07,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7884.14,10594.08,9295.72,214.8
+2026-08-07,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8408.59,10631.23,9429.07,279.85
+2026-08-07,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7506.4,9573.22,8567.01,176.23
+2026-08-07,Green Gram,Whole,Azadpur,New Delhi,Delhi,7503.52,9528.24,8412.08,8991.66
+2026-08-07,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7378.43,9115.81,8412.09,3989.08
+2026-08-07,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6618.36,8687.04,7679.27,5448.53
+2026-08-07,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7393.98,9833.8,8438.83,8196.97
+2026-08-07,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7389.0,10056.64,8626.46,4287.39
+2026-08-07,Groundnut,Bold,Azadpur,New Delhi,Delhi,7270.57,9770.33,8396.8,1723.11
+2026-08-07,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5616.64,7777.32,6665.4,615.86
+2026-08-07,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6372.92,8205.1,7207.52,845.62
+2026-08-07,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6532.83,9291.5,7941.33,1072.42
+2026-08-07,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6426.37,8262.41,7482.59,672.96
+2026-08-07,Jowar,Local,Azadpur,New Delhi,Delhi,3564.98,4679.13,4058.57,564.64
+2026-08-07,Jowar,Local,Bowenpally,Hyderabad,Telangana,3414.62,4065.52,3731.61,249.86
+2026-08-07,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3458.07,4260.32,3874.54,260.37
+2026-08-07,Jowar,Local,Vashi,Mumbai,Maharashtra,3228.96,4278.41,3883.98,435.75
+2026-08-07,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2987.72,3938.95,3424.73,248.46
+2026-08-07,Lentil,Whole,Azadpur,New Delhi,Delhi,7989.38,10833.06,9500.0,850.82
+2026-08-07,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7378.97,8875.21,8184.84,337.38
+2026-08-07,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6254.47,7807.69,6884.66,468.35
+2026-08-07,Lentil,Whole,Vashi,Mumbai,Maharashtra,6974.84,8918.84,7774.94,664.99
+2026-08-07,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5715.83,7677.06,6907.06,374.92
+2026-08-07,Maize,Local,Azadpur,New Delhi,Delhi,2227.01,2892.06,2526.38,28536.17
+2026-08-07,Maize,Local,Bowenpally,Hyderabad,Telangana,2028.37,2611.37,2223.16,13111.64
+2026-08-07,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1958.9,2584.04,2339.98,14512.71
+2026-08-07,Maize,Local,Vashi,Mumbai,Maharashtra,1911.5,2502.79,2259.73,20917.21
+2026-08-07,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2041.63,2728.54,2434.42,13218.13
+2026-08-07,Mustard,Local,Azadpur,New Delhi,Delhi,7139.3,9155.9,7910.13,3494.88
+2026-08-07,Mustard,Local,Bowenpally,Hyderabad,Telangana,6356.54,8188.64,7153.39,1445.22
+2026-08-07,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5253.12,7342.5,6348.12,1921.43
+2026-08-07,Mustard,Local,Vashi,Mumbai,Maharashtra,6516.09,8619.99,7900.77,2645.36
+2026-08-07,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5653.45,7621.6,6812.04,1692.44
+2026-08-07,Niger Seed,Local,Azadpur,New Delhi,Delhi,10179.06,14397.57,12391.2,29.65
+2026-08-07,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10641.0,13741.63,11909.73,10.5
+2026-08-07,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,8256.08,10853.2,9831.37,13.72
+2026-08-07,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10655.47,13909.69,12715.08,22.47
+2026-08-07,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10032.54,13686.68,12151.19,14.64
+2026-08-07,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2203.1,2919.54,2615.01,49703.7
+2026-08-07,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2626.1,3364.83,3060.54,17604.3
+2026-08-07,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2403.56,3312.85,2820.77,22974.75
+2026-08-07,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2826.87,3456.49,3087.52,38568.14
+2026-08-07,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2465.29,3263.23,2781.09,19026.68
+2026-08-07,Paddy,Common,Azadpur,New Delhi,Delhi,2663.15,3273.6,2937.19,19212.57
+2026-08-07,Paddy,Common,Bowenpally,Hyderabad,Telangana,2125.6,2730.74,2499.18,10203.84
+2026-08-07,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2511.64,3040.65,2732.8,14467.67
+2026-08-07,Paddy,Common,Vashi,Mumbai,Maharashtra,2198.24,3080.06,2629.13,14726.33
+2026-08-07,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2376.88,2995.27,2657.24,11112.75
+2026-08-07,Potato,Local,Azadpur,New Delhi,Delhi,848.32,1123.14,959.02,63196.47
+2026-08-07,Potato,Local,Bowenpally,Hyderabad,Telangana,864.14,1040.44,954.24,26865.12
+2026-08-07,Potato,Local,Koyambedu,Chennai,Tamil Nadu,943.45,1201.68,1035.01,28902.15
+2026-08-07,Potato,Local,Vashi,Mumbai,Maharashtra,897.27,1219.74,1047.42,45668.34
+2026-08-07,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,841.95,1024.96,932.47,24796.5
+2026-08-07,Ragi,Local,Azadpur,New Delhi,Delhi,3082.78,4066.65,3655.64,151.87
+2026-08-07,Ragi,Local,Bowenpally,Hyderabad,Telangana,2899.64,3878.87,3407.51,62.65
+2026-08-07,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3165.1,3968.63,3581.34,79.89
+2026-08-07,Ragi,Local,Vashi,Mumbai,Maharashtra,3606.2,4403.14,4033.05,114.8
+2026-08-07,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3095.33,4405.1,3739.91,63.32
+2026-08-07,Red Gram,Whole,Azadpur,New Delhi,Delhi,6856.91,9345.83,8134.96,1472.41
+2026-08-07,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6922.41,8722.27,7641.05,519.73
+2026-08-07,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7011.97,8975.3,8310.25,841.35
+2026-08-07,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7773.88,9714.85,8604.47,1152.72
+2026-08-07,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6575.15,8625.69,7887.52,668.71
+2026-08-07,Safflower,Local,Azadpur,New Delhi,Delhi,4551.44,5908.08,5261.0,63.87
+2026-08-07,Safflower,Local,Bowenpally,Hyderabad,Telangana,3911.68,4754.73,4279.12,27.33
+2026-08-07,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4266.83,5768.33,4975.14,30.92
+2026-08-07,Safflower,Local,Vashi,Mumbai,Maharashtra,3536.93,4418.61,4000.0,46.64
+2026-08-07,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4065.71,5519.2,4935.91,34.28
+2026-08-07,Sesamum,Local,Azadpur,New Delhi,Delhi,12130.25,15126.53,13271.69,347.29
+2026-08-07,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10764.51,14041.63,12067.28,124.21
+2026-08-07,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9933.45,13739.16,11875.42,187.55
+2026-08-07,Sesamum,Local,Vashi,Mumbai,Maharashtra,12851.31,17132.23,15000.0,275.6
+2026-08-07,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11481.04,14782.8,13547.83,139.27
+2026-08-07,Soyabean,Local,Azadpur,New Delhi,Delhi,6628.53,8704.75,7552.57,8547.07
+2026-08-07,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5506.78,7203.49,6338.43,3297.09
+2026-08-07,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5761.35,7300.18,6600.08,4537.03
+2026-08-07,Soyabean,Local,Vashi,Mumbai,Maharashtra,7232.07,8972.92,8000.0,6832.89
+2026-08-07,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5870.42,7041.91,6426.22,4174.15
+2026-08-07,Sunflower,Local,Azadpur,New Delhi,Delhi,8068.44,10002.28,8812.0,196.81
+2026-08-07,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6182.21,8154.48,7530.89,76.21
+2026-08-07,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6737.53,8900.95,8039.26,99.4
+2026-08-07,Sunflower,Local,Vashi,Mumbai,Maharashtra,7330.86,9913.28,8463.71,130.49
+2026-08-07,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,7030.69,9145.25,7801.28,114.24
+2026-08-07,Tomato,Local,Azadpur,New Delhi,Delhi,1767.67,2125.07,1960.73,15609.33
+2026-08-07,Tomato,Local,Bowenpally,Hyderabad,Telangana,1621.14,2046.22,1786.21,6634.71
+2026-08-07,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1379.22,1814.62,1668.44,8313.3
+2026-08-07,Tomato,Local,Vashi,Mumbai,Maharashtra,1793.5,2356.29,2172.56,10737.4
+2026-08-07,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1624.59,1997.77,1779.76,7380.7
+2026-08-07,Wheat,Local,Azadpur,New Delhi,Delhi,2272.11,2864.84,2613.15,59896.49
+2026-08-07,Wheat,Local,Bowenpally,Hyderabad,Telangana,2098.95,2819.85,2508.42,29649.38
+2026-08-07,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2142.24,2865.69,2494.63,32966.55
+2026-08-07,Wheat,Local,Vashi,Mumbai,Maharashtra,2312.03,3035.61,2810.69,44685.75
+2026-08-07,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2116.58,3023.75,2576.32,36713.19
+2026-08-08,Bajra,Local,Azadpur,New Delhi,Delhi,2329.41,3060.17,2806.03,1898.54
+2026-08-08,Bajra,Local,Bowenpally,Hyderabad,Telangana,2052.98,2572.98,2372.41,752.99
+2026-08-08,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2019.85,2614.67,2251.2,929.26
+2026-08-08,Bajra,Local,Vashi,Mumbai,Maharashtra,2258.43,2895.28,2592.53,1758.76
+2026-08-08,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1887.41,2627.19,2244.84,914.67
+2026-08-08,Barley,Local,Azadpur,New Delhi,Delhi,2059.79,2932.66,2492.21,250.95
+2026-08-08,Barley,Local,Bowenpally,Hyderabad,Telangana,1762.01,2343.58,2115.02,113.71
+2026-08-08,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1876.52,2650.3,2262.93,141.63
+2026-08-08,Barley,Local,Vashi,Mumbai,Maharashtra,2126.99,2756.94,2487.04,234.43
+2026-08-08,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1953.97,2622.92,2237.1,124.46
+2026-08-08,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5522.96,7481.1,6429.15,5338.91
+2026-08-08,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5215.85,7123.01,6206.09,1832.56
+2026-08-08,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5862.9,7123.74,6533.59,2475.46
+2026-08-08,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6729.62,8341.27,7475.6,4508.72
+2026-08-08,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5898.55,7206.91,6652.48,2375.77
+2026-08-08,Black Gram,Whole,Azadpur,New Delhi,Delhi,7220.88,10266.71,8765.12,504.29
+2026-08-08,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6999.91,8753.87,8071.53,204.45
+2026-08-08,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8685.35,10496.52,9468.79,223.32
+2026-08-08,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8000.32,11041.13,9743.68,342.1
+2026-08-08,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6756.64,8700.79,7873.38,240.29
+2026-08-08,Copra,Milling,Azadpur,New Delhi,Delhi,18536.02,24303.29,21605.01,241.55
+2026-08-08,Copra,Milling,Bowenpally,Hyderabad,Telangana,16516.58,22228.54,19883.05,99.74
+2026-08-08,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18274.3,24398.84,21348.05,112.9
+2026-08-08,Copra,Milling,Vashi,Mumbai,Maharashtra,18440.3,25250.38,21784.77,164.95
+2026-08-08,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15502.43,20160.41,18403.71,100.26
+2026-08-08,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9045.99,11790.18,10196.27,333.04
+2026-08-08,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7390.47,9601.27,8733.96,173.02
+2026-08-08,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7828.63,10135.57,9239.01,183.44
+2026-08-08,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8253.51,10791.45,9432.07,319.06
+2026-08-08,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7611.63,9329.39,8588.27,170.61
+2026-08-08,Green Gram,Whole,Azadpur,New Delhi,Delhi,7364.24,9155.91,8387.68,10993.16
+2026-08-08,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7323.01,9754.03,8373.3,3390.17
+2026-08-08,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6691.09,8428.65,7697.22,5076.86
+2026-08-08,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7484.66,9314.9,8423.98,8108.28
+2026-08-08,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7112.13,9752.42,8656.7,5016.78
+2026-08-08,Groundnut,Bold,Azadpur,New Delhi,Delhi,7140.03,9657.47,8427.91,1794.41
+2026-08-08,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5936.21,7839.74,6669.95,700.71
+2026-08-08,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6068.4,7932.6,7240.65,939.36
+2026-08-08,Groundnut,Bold,Vashi,Mumbai,Maharashtra,7159.33,8666.8,7969.51,1102.49
+2026-08-08,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6591.2,8178.2,7464.99,657.01
+2026-08-08,Jowar,Local,Azadpur,New Delhi,Delhi,3596.42,4548.44,4053.99,568.72
+2026-08-08,Jowar,Local,Bowenpally,Hyderabad,Telangana,3309.46,4179.99,3749.93,222.27
+2026-08-08,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3562.15,4575.77,3886.67,305.98
+2026-08-08,Jowar,Local,Vashi,Mumbai,Maharashtra,3226.44,4354.02,3880.71,422.67
+2026-08-08,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2851.25,4031.98,3420.87,237.34
+2026-08-08,Lentil,Whole,Azadpur,New Delhi,Delhi,8071.44,11171.79,9500.0,758.64
+2026-08-08,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7253.9,9712.89,8255.48,323.68
+2026-08-08,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6046.16,7628.35,6910.78,489.23
+2026-08-08,Lentil,Whole,Vashi,Mumbai,Maharashtra,6674.03,8600.96,7746.09,683.39
+2026-08-08,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5921.66,7870.87,6870.38,416.61
+2026-08-08,Maize,Local,Azadpur,New Delhi,Delhi,2263.62,2783.31,2501.45,25354.09
+2026-08-08,Maize,Local,Bowenpally,Hyderabad,Telangana,1913.35,2512.56,2226.63,10098.09
+2026-08-08,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2159.56,2597.89,2351.34,12124.61
+2026-08-08,Maize,Local,Vashi,Mumbai,Maharashtra,2056.98,2497.96,2266.5,21290.15
+2026-08-08,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2053.36,2728.43,2434.18,11716.22
+2026-08-08,Mustard,Local,Azadpur,New Delhi,Delhi,6537.89,9134.97,7937.96,3764.34
+2026-08-08,Mustard,Local,Bowenpally,Hyderabad,Telangana,6576.72,7783.41,7167.16,1207.03
+2026-08-08,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5599.47,7275.45,6352.29,2403.64
+2026-08-08,Mustard,Local,Vashi,Mumbai,Maharashtra,7157.83,8949.61,7919.84,3057.84
+2026-08-08,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5783.43,7564.37,6830.38,1871.89
+2026-08-08,Niger Seed,Local,Azadpur,New Delhi,Delhi,10851.12,14603.14,12503.92,26.86
+2026-08-08,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10879.41,13133.28,12093.5,11.67
+2026-08-08,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,8943.62,11203.54,10056.02,18.18
+2026-08-08,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11179.55,14470.21,12659.51,20.83
+2026-08-08,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10332.48,13547.55,12110.55,12.93
+2026-08-08,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2205.89,2928.26,2606.21,53536.04
+2026-08-08,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2499.88,3489.12,3006.86,18321.44
+2026-08-08,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2445.42,3240.04,2809.44,27622.13
+2026-08-08,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2698.61,3420.05,3100.37,39300.58
+2026-08-08,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2335.91,3269.53,2819.97,18496.74
+2026-08-08,Paddy,Common,Azadpur,New Delhi,Delhi,2636.58,3357.53,2947.27,23132.93
+2026-08-08,Paddy,Common,Bowenpally,Hyderabad,Telangana,2300.65,2933.64,2557.26,8339.73
+2026-08-08,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2400.04,3140.25,2737.09,10863.76
+2026-08-08,Paddy,Common,Vashi,Mumbai,Maharashtra,2237.59,3015.92,2694.7,17793.72
+2026-08-08,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2426.71,2906.16,2652.57,10535.64
+2026-08-08,Potato,Local,Azadpur,New Delhi,Delhi,825.51,1130.89,964.9,62293.05
+2026-08-08,Potato,Local,Bowenpally,Hyderabad,Telangana,848.66,1081.19,968.0,21985.98
+2026-08-08,Potato,Local,Koyambedu,Chennai,Tamil Nadu,934.06,1190.03,1037.56,33013.79
+2026-08-08,Potato,Local,Vashi,Mumbai,Maharashtra,905.48,1192.79,1050.94,38462.25
+2026-08-08,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,842.07,1036.83,941.46,29287.37
+2026-08-08,Ragi,Local,Azadpur,New Delhi,Delhi,3348.06,4229.75,3641.99,152.26
+2026-08-08,Ragi,Local,Bowenpally,Hyderabad,Telangana,2933.56,3989.0,3401.84,54.16
+2026-08-08,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,2989.56,4172.66,3574.48,74.33
+2026-08-08,Ragi,Local,Vashi,Mumbai,Maharashtra,3728.12,4441.65,4058.71,129.94
+2026-08-08,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3143.52,4078.07,3760.22,79.37
+2026-08-08,Red Gram,Whole,Azadpur,New Delhi,Delhi,7393.08,8784.42,8129.37,1384.4
+2026-08-08,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6636.86,8742.29,7472.43,515.2
+2026-08-08,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6866.6,9068.87,8332.79,689.79
+2026-08-08,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7343.65,9514.16,8597.75,1128.03
+2026-08-08,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6844.97,8612.61,7916.24,602.06
+2026-08-08,Safflower,Local,Azadpur,New Delhi,Delhi,4544.86,6119.58,5249.66,71.98
+2026-08-08,Safflower,Local,Bowenpally,Hyderabad,Telangana,3596.41,4723.91,4274.6,27.86
+2026-08-08,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4476.31,5774.71,4963.9,38.35
+2026-08-08,Safflower,Local,Vashi,Mumbai,Maharashtra,3445.37,4642.33,4038.43,58.84
+2026-08-08,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4028.23,5387.39,4899.51,33.07
+2026-08-08,Sesamum,Local,Azadpur,New Delhi,Delhi,12053.85,14531.04,13293.78,303.8
+2026-08-08,Sesamum,Local,Bowenpally,Hyderabad,Telangana,11012.35,13599.74,12051.8,145.57
+2026-08-08,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10687.54,13737.34,11790.04,161.63
+2026-08-08,Sesamum,Local,Vashi,Mumbai,Maharashtra,13417.49,16307.07,15000.0,272.42
+2026-08-08,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,12047.11,15263.0,13469.65,113.16
+2026-08-08,Soyabean,Local,Azadpur,New Delhi,Delhi,6516.67,8679.21,7546.73,7838.32
+2026-08-08,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5533.98,7099.53,6301.45,3366.56
+2026-08-08,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5429.71,7593.25,6587.29,4348.44
+2026-08-08,Soyabean,Local,Vashi,Mumbai,Maharashtra,7343.12,9207.89,8000.0,7886.79
+2026-08-08,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5924.8,7504.92,6445.9,4379.72
+2026-08-08,Sunflower,Local,Azadpur,New Delhi,Delhi,8095.61,9937.19,8869.23,191.86
+2026-08-08,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6769.06,8789.3,7492.68,78.82
+2026-08-08,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7387.26,9241.13,8038.49,104.81
+2026-08-08,Sunflower,Local,Vashi,Mumbai,Maharashtra,7499.35,9291.6,8435.99,152.61
+2026-08-08,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6878.13,8897.63,7860.76,102.16
+2026-08-08,Tomato,Local,Azadpur,New Delhi,Delhi,1694.55,2294.21,1998.5,11388.54
+2026-08-08,Tomato,Local,Bowenpally,Hyderabad,Telangana,1617.88,1954.67,1791.5,5554.68
+2026-08-08,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1427.08,1938.38,1720.85,8464.97
+2026-08-08,Tomato,Local,Vashi,Mumbai,Maharashtra,1805.3,2293.83,2111.19,11834.48
+2026-08-08,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1547.57,2056.18,1774.42,6351.62
+2026-08-08,Wheat,Local,Azadpur,New Delhi,Delhi,2236.09,2969.29,2614.09,60631.89
+2026-08-08,Wheat,Local,Bowenpally,Hyderabad,Telangana,2140.07,2837.53,2503.99,26277.61
+2026-08-08,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2194.93,2913.93,2495.98,36871.01
+2026-08-08,Wheat,Local,Vashi,Mumbai,Maharashtra,2315.93,3055.23,2802.5,56453.78
+2026-08-08,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2229.5,2876.34,2581.07,35445.21
+2026-08-09,Bajra,Local,Azadpur,New Delhi,Delhi,2448.99,3225.75,2819.51,925.3
+2026-08-09,Bajra,Local,Bowenpally,Hyderabad,Telangana,2043.19,2702.25,2360.74,457.42
+2026-08-09,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1964.36,2582.73,2252.67,360.31
+2026-08-09,Bajra,Local,Vashi,Mumbai,Maharashtra,2257.79,2820.34,2597.46,474.32
+2026-08-09,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1984.35,2499.13,2258.1,496.91
+2026-08-09,Barley,Local,Azadpur,New Delhi,Delhi,2166.52,2767.26,2500.1,140.37
+2026-08-09,Barley,Local,Bowenpally,Hyderabad,Telangana,1859.03,2460.02,2089.68,37.11
+2026-08-09,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2052.03,2663.82,2370.13,60.88
+2026-08-09,Barley,Local,Vashi,Mumbai,Maharashtra,2019.84,2643.74,2394.86,71.94
+2026-08-09,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2032.66,2510.1,2250.36,29.56
+2026-08-09,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5764.17,7516.4,6401.6,1870.69
+2026-08-09,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5321.48,7246.29,6218.21,846.95
+2026-08-09,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5549.62,7425.35,6557.14,1066.74
+2026-08-09,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6371.88,8022.13,7413.99,1206.68
+2026-08-09,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5506.02,7261.21,6664.28,782.19
+2026-08-09,Black Gram,Whole,Azadpur,New Delhi,Delhi,7203.48,9945.39,8770.6,262.95
+2026-08-09,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7339.04,9105.97,8060.91,107.4
+2026-08-09,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7826.34,10508.85,9473.26,123.38
+2026-08-09,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8796.11,11067.14,9726.5,180.56
+2026-08-09,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6833.88,8769.61,7834.58,75.21
+2026-08-09,Copra,Milling,Azadpur,New Delhi,Delhi,19713.83,24636.6,21696.67,85.27
+2026-08-09,Copra,Milling,Bowenpally,Hyderabad,Telangana,16241.99,21705.9,19308.93,32.51
+2026-08-09,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,19035.1,23464.94,21345.34,45.51
+2026-08-09,Copra,Milling,Vashi,Mumbai,Maharashtra,19245.42,25280.39,21836.63,61.53
+2026-08-09,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16945.01,21255.27,18787.85,36.4
+2026-08-09,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9016.71,11166.67,10161.18,124.74
+2026-08-09,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7193.79,9794.0,8737.67,57.12
+2026-08-09,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7585.21,10666.33,9138.12,66.04
+2026-08-09,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8239.59,10897.63,9408.92,156.04
+2026-08-09,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7624.22,9339.11,8616.01,71.76
+2026-08-09,Green Gram,Whole,Azadpur,New Delhi,Delhi,7034.86,9473.79,8391.39,4348.03
+2026-08-09,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,6999.32,9893.94,8409.6,1452.01
+2026-08-09,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6702.82,9008.25,7705.02,1893.04
+2026-08-09,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7187.36,9099.83,8406.96,3805.52
+2026-08-09,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7233.88,9919.8,8655.02,2373.17
+2026-08-09,Groundnut,Bold,Azadpur,New Delhi,Delhi,7500.68,9387.08,8433.85,476.77
+2026-08-09,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,6147.95,7617.55,6685.85,286.25
+2026-08-09,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,5980.13,8401.94,7260.74,362.28
+2026-08-09,Groundnut,Bold,Vashi,Mumbai,Maharashtra,7119.39,9324.02,7954.08,266.81
+2026-08-09,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6264.71,8410.3,7469.15,212.64
+2026-08-09,Jowar,Local,Azadpur,New Delhi,Delhi,3739.36,4793.68,4068.86,250.74
+2026-08-09,Jowar,Local,Bowenpally,Hyderabad,Telangana,3380.0,4062.08,3748.49,73.69
+2026-08-09,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3298.9,4270.87,3899.23,197.37
+2026-08-09,Jowar,Local,Vashi,Mumbai,Maharashtra,3302.99,4246.05,3864.2,228.94
+2026-08-09,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2809.16,3838.96,3414.99,115.4
+2026-08-09,Lentil,Whole,Azadpur,New Delhi,Delhi,7801.99,10266.77,9500.0,446.21
+2026-08-09,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7334.76,9224.35,8281.52,107.98
+2026-08-09,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6118.4,8007.94,6884.33,235.9
+2026-08-09,Lentil,Whole,Vashi,Mumbai,Maharashtra,6930.58,8468.15,7762.3,144.31
+2026-08-09,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,6014.11,7429.67,6851.93,157.21
+2026-08-09,Maize,Local,Azadpur,New Delhi,Delhi,2126.65,2725.51,2486.46,12362.14
+2026-08-09,Maize,Local,Bowenpally,Hyderabad,Telangana,1968.05,2489.66,2227.97,3701.04
+2026-08-09,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2035.69,2625.16,2348.36,5184.02
+2026-08-09,Maize,Local,Vashi,Mumbai,Maharashtra,1967.73,2557.53,2257.83,11217.59
+2026-08-09,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2193.08,2711.19,2438.66,3042.0
+2026-08-09,Mustard,Local,Azadpur,New Delhi,Delhi,6805.09,8963.84,7973.42,1623.74
+2026-08-09,Mustard,Local,Bowenpally,Hyderabad,Telangana,6419.15,8029.7,7152.42,406.17
+2026-08-09,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5624.69,7446.24,6339.83,558.66
+2026-08-09,Mustard,Local,Vashi,Mumbai,Maharashtra,7218.28,9256.98,7952.97,1109.74
+2026-08-09,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,6092.4,7657.58,6814.5,803.38
+2026-08-09,Niger Seed,Local,Azadpur,New Delhi,Delhi,11483.13,14454.76,12535.53,9.86
+2026-08-09,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,11015.92,13707.26,12219.81,3.72
+2026-08-09,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,8482.77,12091.43,10333.11,6.31
+2026-08-09,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10861.18,14587.37,12630.94,10.32
+2026-08-09,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10239.8,13526.52,12194.81,5.01
+2026-08-09,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2360.4,2968.97,2615.85,16111.13
+2026-08-09,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2837.06,3436.55,3101.49,7436.24
+2026-08-09,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2312.02,3246.07,2778.88,11822.51
+2026-08-09,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2679.87,3624.54,3086.43,17847.71
+2026-08-09,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2638.35,3322.66,2912.71,12006.93
+2026-08-09,Paddy,Common,Azadpur,New Delhi,Delhi,2452.18,3450.22,2959.97,9950.1
+2026-08-09,Paddy,Common,Bowenpally,Hyderabad,Telangana,2252.93,2814.17,2604.84,2996.11
+2026-08-09,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2453.71,3097.89,2734.04,5174.09
+2026-08-09,Paddy,Common,Vashi,Mumbai,Maharashtra,2254.79,3088.12,2748.83,7968.91
+2026-08-09,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2255.48,2865.71,2651.54,3874.12
+2026-08-09,Potato,Local,Azadpur,New Delhi,Delhi,836.15,1098.71,960.46,32818.49
+2026-08-09,Potato,Local,Bowenpally,Hyderabad,Telangana,843.74,1088.14,974.2,10112.21
+2026-08-09,Potato,Local,Koyambedu,Chennai,Tamil Nadu,897.85,1164.8,1038.16,9402.31
+2026-08-09,Potato,Local,Vashi,Mumbai,Maharashtra,901.45,1170.16,1056.57,18221.52
+2026-08-09,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,843.59,1030.24,941.5,5324.88
+2026-08-09,Ragi,Local,Azadpur,New Delhi,Delhi,3242.51,4099.52,3651.65,56.11
+2026-08-09,Ragi,Local,Bowenpally,Hyderabad,Telangana,3031.6,3942.53,3403.69,19.26
+2026-08-09,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3049.66,4193.05,3594.65,23.27
+2026-08-09,Ragi,Local,Vashi,Mumbai,Maharashtra,3352.17,4444.6,4070.98,72.93
+2026-08-09,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3373.97,4206.81,3733.5,39.25
+2026-08-09,Red Gram,Whole,Azadpur,New Delhi,Delhi,7257.89,8968.67,8145.56,755.67
+2026-08-09,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6612.97,8078.09,7453.08,179.15
+2026-08-09,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7012.6,9478.56,8357.28,404.63
+2026-08-09,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7560.66,10088.68,8649.92,358.6
+2026-08-09,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7017.87,8733.28,7925.71,333.47
+2026-08-09,Safflower,Local,Azadpur,New Delhi,Delhi,4394.32,5896.06,5222.41,27.8
+2026-08-09,Safflower,Local,Bowenpally,Hyderabad,Telangana,3693.46,4743.97,4307.66,6.02
+2026-08-09,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4182.1,5700.02,4917.45,16.43
+2026-08-09,Safflower,Local,Vashi,Mumbai,Maharashtra,3492.97,4520.68,4164.29,27.35
+2026-08-09,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4449.73,5606.03,4921.2,13.41
+2026-08-09,Sesamum,Local,Azadpur,New Delhi,Delhi,11308.07,15273.64,13207.95,133.46
+2026-08-09,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10955.28,14054.77,12121.99,42.52
+2026-08-09,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9998.22,12700.96,11740.89,64.74
+2026-08-09,Sesamum,Local,Vashi,Mumbai,Maharashtra,12368.78,17119.76,15000.0,88.28
+2026-08-09,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11925.44,14979.73,13443.33,65.2
+2026-08-09,Soyabean,Local,Azadpur,New Delhi,Delhi,6656.04,8797.9,7578.92,4027.7
+2026-08-09,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5214.81,7158.52,6310.73,1222.59
+2026-08-09,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5636.98,7414.81,6585.97,1502.0
+2026-08-09,Soyabean,Local,Vashi,Mumbai,Maharashtra,7164.15,8910.58,8000.0,2896.41
+2026-08-09,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5393.87,6947.69,6423.25,1705.82
+2026-08-09,Sunflower,Local,Azadpur,New Delhi,Delhi,7914.78,9656.94,8821.74,69.67
+2026-08-09,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6413.11,8607.32,7475.11,32.66
+2026-08-09,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6688.56,9197.37,7957.45,57.53
+2026-08-09,Sunflower,Local,Vashi,Mumbai,Maharashtra,7599.4,9216.73,8410.95,77.31
+2026-08-09,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6600.2,9077.72,7866.0,36.17
+2026-08-09,Tomato,Local,Azadpur,New Delhi,Delhi,1706.74,2239.63,2037.54,5872.8
+2026-08-09,Tomato,Local,Bowenpally,Hyderabad,Telangana,1598.54,2102.49,1802.52,2137.74
+2026-08-09,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1531.6,1877.05,1729.17,2558.6
+2026-08-09,Tomato,Local,Vashi,Mumbai,Maharashtra,1705.65,2362.89,2069.87,3686.24
+2026-08-09,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1457.93,2080.35,1775.74,2117.45
+2026-08-09,Wheat,Local,Azadpur,New Delhi,Delhi,2233.02,2979.69,2624.0,22873.51
+2026-08-09,Wheat,Local,Bowenpally,Hyderabad,Telangana,2205.35,2864.31,2505.79,8517.78
+2026-08-09,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2066.17,2851.76,2487.38,19493.99
+2026-08-09,Wheat,Local,Vashi,Mumbai,Maharashtra,2514.73,3240.63,2801.77,23731.27
+2026-08-09,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2266.7,2871.77,2584.76,13441.84
+2026-08-10,Bajra,Local,Azadpur,New Delhi,Delhi,2374.04,3092.49,2807.26,2164.75
+2026-08-10,Bajra,Local,Bowenpally,Hyderabad,Telangana,2084.12,2586.3,2345.48,805.85
+2026-08-10,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2043.9,2556.65,2257.91,1060.87
+2026-08-10,Bajra,Local,Vashi,Mumbai,Maharashtra,2279.55,2833.83,2597.1,1406.18
+2026-08-10,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1875.74,2620.41,2256.56,1048.03
+2026-08-10,Barley,Local,Azadpur,New Delhi,Delhi,2106.0,2818.27,2495.18,259.21
+2026-08-10,Barley,Local,Bowenpally,Hyderabad,Telangana,1736.36,2262.53,2065.61,113.44
+2026-08-10,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2009.93,2535.07,2338.63,152.68
+2026-08-10,Barley,Local,Vashi,Mumbai,Maharashtra,1905.42,2676.2,2309.67,249.74
+2026-08-10,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1947.2,2594.58,2263.7,149.45
+2026-08-10,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5462.34,7258.48,6393.82,4703.43
+2026-08-10,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5349.16,7037.01,6238.61,1985.35
+2026-08-10,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5765.37,7441.68,6539.08,2172.06
+2026-08-10,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6369.03,8681.61,7384.3,3739.56
+2026-08-10,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5749.67,7412.35,6672.0,2358.62
+2026-08-10,Black Gram,Whole,Azadpur,New Delhi,Delhi,7586.74,10253.12,8869.89,488.78
+2026-08-10,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6909.55,9437.68,8118.44,187.59
+2026-08-10,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8002.82,10773.4,9505.13,251.26
+2026-08-10,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8241.71,11275.51,9714.44,363.75
+2026-08-10,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6532.42,9231.3,7870.3,207.75
+2026-08-10,Copra,Milling,Azadpur,New Delhi,Delhi,18891.27,23625.59,21862.97,185.44
+2026-08-10,Copra,Milling,Bowenpally,Hyderabad,Telangana,16568.95,20514.76,18750.76,103.36
+2026-08-10,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17630.26,23930.28,21447.14,130.64
+2026-08-10,Copra,Milling,Vashi,Mumbai,Maharashtra,19587.99,25620.78,21899.62,208.92
+2026-08-10,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15963.12,21913.88,18759.18,94.41
+2026-08-10,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9167.21,11060.81,10178.68,359.23
+2026-08-10,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7551.4,9796.16,8762.25,177.06
+2026-08-10,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7973.14,10701.81,9182.53,198.83
+2026-08-10,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8394.46,10203.37,9376.65,279.19
+2026-08-10,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7380.04,9883.78,8617.54,202.25
+2026-08-10,Green Gram,Whole,Azadpur,New Delhi,Delhi,7707.88,9563.84,8425.83,11265.54
+2026-08-10,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7053.62,9733.64,8419.54,4344.5
+2026-08-10,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6695.98,8716.94,7728.32,5926.73
+2026-08-10,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7162.03,9550.48,8378.1,8361.18
+2026-08-10,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7741.07,10029.64,8622.76,4807.87
+2026-08-10,Groundnut,Bold,Azadpur,New Delhi,Delhi,7419.47,9166.52,8366.37,1519.41
+2026-08-10,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5969.62,7756.74,6662.56,545.26
+2026-08-10,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6431.21,8529.7,7230.45,757.49
+2026-08-10,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6600.25,8626.84,7967.32,1336.4
+2026-08-10,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6840.97,8297.51,7447.64,631.91
+2026-08-10,Jowar,Local,Azadpur,New Delhi,Delhi,3377.64,4542.33,4074.03,551.77
+2026-08-10,Jowar,Local,Bowenpally,Hyderabad,Telangana,3327.58,4129.21,3758.47,231.65
+2026-08-10,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3199.75,4309.68,3893.37,336.61
+2026-08-10,Jowar,Local,Vashi,Mumbai,Maharashtra,3506.59,4228.6,3912.36,521.78
+2026-08-10,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2859.36,3874.48,3423.23,278.95
+2026-08-10,Lentil,Whole,Azadpur,New Delhi,Delhi,7860.29,10517.43,9500.0,904.2
+2026-08-10,Lentil,Whole,Bowenpally,Hyderabad,Telangana,6827.7,9220.92,8257.22,312.93
+2026-08-10,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5877.93,8037.73,6861.71,476.91
+2026-08-10,Lentil,Whole,Vashi,Mumbai,Maharashtra,6569.19,9111.54,7726.73,616.72
+2026-08-10,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5797.69,8009.56,6809.47,393.55
+2026-08-10,Maize,Local,Azadpur,New Delhi,Delhi,2110.39,2703.7,2500.39,32849.03
+2026-08-10,Maize,Local,Bowenpally,Hyderabad,Telangana,2020.92,2462.91,2222.28,12555.4
+2026-08-10,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2124.05,2721.58,2342.53,12487.36
+2026-08-10,Maize,Local,Vashi,Mumbai,Maharashtra,2013.05,2473.08,2254.44,24097.03
+2026-08-10,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2013.6,2658.29,2427.99,14289.4
+2026-08-10,Mustard,Local,Azadpur,New Delhi,Delhi,6403.4,8616.3,7370.05,3451.92
+2026-08-10,Mustard,Local,Bowenpally,Hyderabad,Telangana,5869.77,8060.3,7149.43,1510.48
+2026-08-10,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5789.51,7112.39,6313.74,2069.86
+2026-08-10,Mustard,Local,Vashi,Mumbai,Maharashtra,6805.64,8893.29,7915.55,2736.44
+2026-08-10,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,6115.72,7482.99,6828.74,1784.62
+2026-08-10,Niger Seed,Local,Azadpur,New Delhi,Delhi,11353.81,14049.12,12595.23,27.64
+2026-08-10,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10218.51,14428.73,12405.02,10.81
+2026-08-10,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9134.53,12412.41,10599.11,14.81
+2026-08-10,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10430.75,14825.9,12646.74,26.56
+2026-08-10,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10700.62,14383.83,12273.41,10.99
+2026-08-10,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2345.42,2840.13,2624.24,46158.0
+2026-08-10,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2889.99,3670.54,3164.31,16900.05
+2026-08-10,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2287.54,3018.36,2785.93,27589.0
+2026-08-10,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2683.55,3354.19,3090.06,37770.65
+2026-08-10,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2516.81,3371.21,2908.16,24892.95
+2026-08-10,Paddy,Common,Azadpur,New Delhi,Delhi,2642.4,3302.76,2955.39,21785.77
+2026-08-10,Paddy,Common,Bowenpally,Hyderabad,Telangana,2211.12,2884.28,2643.76,9238.16
+2026-08-10,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2470.09,3049.88,2726.66,15260.75
+2026-08-10,Paddy,Common,Vashi,Mumbai,Maharashtra,2401.93,3245.03,2821.15,17076.61
+2026-08-10,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2194.24,2949.81,2647.0,10938.6
+2026-08-10,Potato,Local,Azadpur,New Delhi,Delhi,800.84,1052.05,969.72,51818.7
+2026-08-10,Potato,Local,Bowenpally,Hyderabad,Telangana,854.43,1151.88,979.85,24302.92
+2026-08-10,Potato,Local,Koyambedu,Chennai,Tamil Nadu,904.67,1230.15,1044.8,31466.24
+2026-08-10,Potato,Local,Vashi,Mumbai,Maharashtra,936.27,1175.57,1058.34,47041.51
+2026-08-10,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,860.97,1070.83,937.8,24378.75
+2026-08-10,Ragi,Local,Azadpur,New Delhi,Delhi,3178.24,4085.41,3676.67,152.07
+2026-08-10,Ragi,Local,Bowenpally,Hyderabad,Telangana,2922.85,3728.18,3410.13,65.61
+2026-08-10,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3221.17,4064.72,3586.34,87.41
+2026-08-10,Ragi,Local,Vashi,Mumbai,Maharashtra,3368.19,4450.39,4086.29,132.2
+2026-08-10,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3231.39,4209.27,3749.88,67.02
+2026-08-10,Red Gram,Whole,Azadpur,New Delhi,Delhi,7324.13,8922.45,8100.06,1564.6
+2026-08-10,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6138.13,8325.78,7442.01,457.53
+2026-08-10,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7361.83,9737.37,8366.19,745.92
+2026-08-10,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7559.71,9768.55,8690.43,1145.03
+2026-08-10,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6882.4,9111.18,7948.11,667.17
+2026-08-10,Safflower,Local,Azadpur,New Delhi,Delhi,4465.75,5950.96,5179.19,69.26
+2026-08-10,Safflower,Local,Bowenpally,Hyderabad,Telangana,3620.6,4845.75,4267.71,28.5
+2026-08-10,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4239.39,5512.86,4942.22,27.94
+2026-08-10,Safflower,Local,Vashi,Mumbai,Maharashtra,3532.76,4889.05,4213.45,50.37
+2026-08-10,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4072.11,5394.15,4912.18,27.25
+2026-08-10,Sesamum,Local,Azadpur,New Delhi,Delhi,12081.49,15146.27,13192.96,322.11
+2026-08-10,Sesamum,Local,Bowenpally,Hyderabad,Telangana,11088.88,14070.16,12149.16,129.35
+2026-08-10,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9583.26,13126.14,11630.04,199.46
+2026-08-10,Sesamum,Local,Vashi,Mumbai,Maharashtra,12434.45,16727.99,15000.0,252.44
+2026-08-10,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11827.39,14883.88,13579.54,147.49
+2026-08-10,Soyabean,Local,Azadpur,New Delhi,Delhi,6915.66,8932.15,7585.91,7771.0
+2026-08-10,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5728.65,7000.87,6320.79,3689.22
+2026-08-10,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5927.14,7504.62,6574.23,5057.88
+2026-08-10,Soyabean,Local,Vashi,Mumbai,Maharashtra,7218.86,9324.29,8000.0,6687.02
+2026-08-10,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5516.79,7306.25,6429.44,3635.84
+2026-08-10,Sunflower,Local,Azadpur,New Delhi,Delhi,7437.45,10143.08,8841.57,222.85
+2026-08-10,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6826.0,8709.26,7499.71,89.67
+2026-08-10,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6578.94,8921.32,7942.0,109.9
+2026-08-10,Sunflower,Local,Vashi,Mumbai,Maharashtra,7157.91,9854.18,8400.8,170.9
+2026-08-10,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6685.11,9009.44,7859.99,94.97
+2026-08-10,Tomato,Local,Azadpur,New Delhi,Delhi,1820.38,2238.78,2054.82,15755.17
+2026-08-10,Tomato,Local,Bowenpally,Hyderabad,Telangana,1610.56,1986.87,1823.2,5981.95
+2026-08-10,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1526.89,1877.29,1707.28,8307.38
+2026-08-10,Tomato,Local,Vashi,Mumbai,Maharashtra,1787.04,2421.05,2057.25,11060.92
+2026-08-10,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1604.58,2016.88,1801.03,6993.21
+2026-08-10,Wheat,Local,Azadpur,New Delhi,Delhi,2254.46,2955.34,2628.71,71308.66
+2026-08-10,Wheat,Local,Bowenpally,Hyderabad,Telangana,2148.88,2863.13,2497.38,29616.64
+2026-08-10,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2085.96,2841.4,2500.79,39782.65
+2026-08-10,Wheat,Local,Vashi,Mumbai,Maharashtra,2516.01,3285.12,2808.93,48297.94
+2026-08-10,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2131.17,2861.8,2587.13,30963.24
+2026-08-11,Bajra,Local,Azadpur,New Delhi,Delhi,2379.28,3202.21,2804.14,2000.91
+2026-08-11,Bajra,Local,Bowenpally,Hyderabad,Telangana,2142.96,2698.05,2352.26,772.15
+2026-08-11,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1980.18,2524.76,2262.57,1110.42
+2026-08-11,Bajra,Local,Vashi,Mumbai,Maharashtra,2361.56,2947.76,2604.98,1717.93
+2026-08-11,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1918.35,2446.82,2248.42,1062.94
+2026-08-11,Barley,Local,Azadpur,New Delhi,Delhi,2166.81,2720.73,2499.26,290.5
+2026-08-11,Barley,Local,Bowenpally,Hyderabad,Telangana,1773.08,2366.5,2051.88,122.56
+2026-08-11,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2096.37,2580.81,2312.08,134.09
+2026-08-11,Barley,Local,Vashi,Mumbai,Maharashtra,1878.93,2408.74,2218.73,206.16
+2026-08-11,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2020.13,2673.16,2265.49,138.8
+2026-08-11,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5679.06,7564.75,6450.58,5473.39
+2026-08-11,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5475.52,7171.22,6272.64,1963.32
+2026-08-11,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5807.65,7725.9,6564.62,2621.42
+2026-08-11,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6310.0,8328.1,7373.55,3563.42
+2026-08-11,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5797.78,7693.96,6645.27,2322.45
+2026-08-11,Black Gram,Whole,Azadpur,New Delhi,Delhi,7473.75,10038.33,8880.72,512.08
+2026-08-11,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7091.99,9003.45,8135.77,166.67
+2026-08-11,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8241.14,10365.86,9557.64,213.54
+2026-08-11,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8470.36,10952.12,9768.83,349.24
+2026-08-11,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6846.69,8532.16,7845.12,257.99
+2026-08-11,Copra,Milling,Azadpur,New Delhi,Delhi,18822.86,24442.57,21830.71,248.53
+2026-08-11,Copra,Milling,Bowenpally,Hyderabad,Telangana,15766.12,20860.96,18187.21,96.37
+2026-08-11,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17274.11,23129.73,20072.43,124.74
+2026-08-11,Copra,Milling,Vashi,Mumbai,Maharashtra,18784.97,25168.0,21837.66,194.76
+2026-08-11,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15911.93,21600.69,18901.18,84.16
+2026-08-11,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9013.0,11332.26,10162.73,453.37
+2026-08-11,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7530.37,9602.65,8730.72,149.4
+2026-08-11,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8021.74,10712.96,9206.54,217.15
+2026-08-11,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8592.59,10920.8,9489.37,266.37
+2026-08-11,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7153.45,10118.95,8643.62,194.11
+2026-08-11,Green Gram,Whole,Azadpur,New Delhi,Delhi,7425.84,9840.71,8391.03,11000.93
+2026-08-11,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7105.1,9943.59,8453.14,3986.13
+2026-08-11,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6954.09,9055.67,7741.69,5024.06
+2026-08-11,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7491.44,9488.46,8371.78,8187.53
+2026-08-11,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7211.23,9386.12,8567.73,4737.26
+2026-08-11,Groundnut,Bold,Azadpur,New Delhi,Delhi,7550.41,9201.78,8337.01,1534.11
+2026-08-11,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5597.36,7789.81,6684.39,570.54
+2026-08-11,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6397.6,8190.25,7264.96,860.87
+2026-08-11,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6588.64,8995.33,7916.56,1274.93
+2026-08-11,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6681.26,8574.16,7426.84,787.01
+2026-08-11,Jowar,Local,Azadpur,New Delhi,Delhi,3598.95,4757.5,4058.7,614.95
+2026-08-11,Jowar,Local,Bowenpally,Hyderabad,Telangana,3425.18,4375.28,3789.18,269.18
+2026-08-11,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3396.41,4423.6,3883.56,278.51
+2026-08-11,Jowar,Local,Vashi,Mumbai,Maharashtra,3459.94,4623.5,3928.19,538.34
+2026-08-11,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,3012.99,3864.63,3413.44,245.14
+2026-08-11,Lentil,Whole,Azadpur,New Delhi,Delhi,8075.43,10969.18,9489.91,896.31
+2026-08-11,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7217.85,9419.05,8239.16,392.36
+2026-08-11,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5825.38,7722.67,6855.96,512.93
+2026-08-11,Lentil,Whole,Vashi,Mumbai,Maharashtra,6405.81,8449.4,7695.34,683.46
+2026-08-11,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5703.89,7940.75,6745.64,333.37
+2026-08-11,Maize,Local,Azadpur,New Delhi,Delhi,2292.24,2909.25,2503.38,26385.55
+2026-08-11,Maize,Local,Bowenpally,Hyderabad,Telangana,1954.91,2513.43,2224.52,10695.54
+2026-08-11,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2119.3,2743.25,2342.09,16438.62
+2026-08-11,Maize,Local,Vashi,Mumbai,Maharashtra,1871.68,2636.36,2272.65,21873.44
+2026-08-11,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2091.65,2616.38,2421.59,13831.11
+2026-08-11,Mustard,Local,Azadpur,New Delhi,Delhi,6396.48,8140.73,7525.99,3212.35
+2026-08-11,Mustard,Local,Bowenpally,Hyderabad,Telangana,6557.14,8040.01,7177.61,1560.01
+2026-08-11,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5715.24,6816.04,6280.8,2304.26
+2026-08-11,Mustard,Local,Vashi,Mumbai,Maharashtra,7271.67,8618.29,7928.62,3111.91
+2026-08-11,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5991.92,7490.57,6810.02,1968.22
+2026-08-11,Niger Seed,Local,Azadpur,New Delhi,Delhi,10751.43,13777.24,12489.47,30.71
+2026-08-11,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10337.35,14561.37,12361.24,11.05
+2026-08-11,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9325.15,12089.59,10906.09,16.2
+2026-08-11,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10811.64,13755.07,12732.63,25.23
+2026-08-11,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10324.55,14213.39,12315.76,12.09
+2026-08-11,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2402.71,3033.45,2639.41,56714.66
+2026-08-11,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2850.14,3570.6,3168.5,17782.31
+2026-08-11,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2536.85,3098.49,2786.18,26212.3
+2026-08-11,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2808.52,3462.43,3068.62,33131.09
+2026-08-11,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2534.16,3285.19,2874.57,26050.77
+2026-08-11,Paddy,Common,Azadpur,New Delhi,Delhi,2619.72,3397.29,2951.67,24008.07
+2026-08-11,Paddy,Common,Bowenpally,Hyderabad,Telangana,2228.28,2995.62,2686.45,8750.25
+2026-08-11,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2407.26,2961.17,2704.49,12170.86
+2026-08-11,Paddy,Common,Vashi,Mumbai,Maharashtra,2408.75,3307.79,2885.63,19609.2
+2026-08-11,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2235.14,3061.94,2650.69,10048.61
+2026-08-11,Potato,Local,Azadpur,New Delhi,Delhi,851.79,1103.79,975.99,57677.14
+2026-08-11,Potato,Local,Bowenpally,Hyderabad,Telangana,818.24,1135.87,979.16,21351.05
+2026-08-11,Potato,Local,Koyambedu,Chennai,Tamil Nadu,910.92,1156.5,1047.38,30291.04
+2026-08-11,Potato,Local,Vashi,Mumbai,Maharashtra,971.46,1177.11,1060.12,42887.57
+2026-08-11,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,786.23,1022.86,940.92,27820.2
+2026-08-11,Ragi,Local,Azadpur,New Delhi,Delhi,3357.34,4135.17,3681.28,144.82
+2026-08-11,Ragi,Local,Bowenpally,Hyderabad,Telangana,2972.51,3783.33,3419.04,53.96
+2026-08-11,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3106.09,3880.27,3586.54,82.83
+2026-08-11,Ragi,Local,Vashi,Mumbai,Maharashtra,3545.03,4582.56,4108.71,116.48
+2026-08-11,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3373.72,4184.84,3749.85,69.48
+2026-08-11,Red Gram,Whole,Azadpur,New Delhi,Delhi,6975.8,9074.55,8104.22,1592.69
+2026-08-11,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6814.32,8151.45,7454.51,435.01
+2026-08-11,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7271.43,9543.86,8421.21,687.93
+2026-08-11,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7450.07,9497.26,8689.91,1194.34
+2026-08-11,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7797.07,9321.91,8509.48,615.95
+2026-08-11,Safflower,Local,Azadpur,New Delhi,Delhi,4497.73,5976.34,5171.65,65.63
+2026-08-11,Safflower,Local,Bowenpally,Hyderabad,Telangana,3876.75,4895.56,4245.64,32.55
+2026-08-11,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4412.56,5469.69,4959.81,38.25
+2026-08-11,Safflower,Local,Vashi,Mumbai,Maharashtra,3864.68,4824.48,4260.49,55.22
+2026-08-11,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4311.46,5782.59,4944.69,31.84
+2026-08-11,Sesamum,Local,Azadpur,New Delhi,Delhi,11904.25,14580.07,13136.66,356.71
+2026-08-11,Sesamum,Local,Bowenpally,Hyderabad,Telangana,11008.68,15009.31,12885.74,107.36
+2026-08-11,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9830.39,12896.72,11646.03,204.95
+2026-08-11,Sesamum,Local,Vashi,Mumbai,Maharashtra,13041.82,16585.45,15000.0,256.91
+2026-08-11,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11643.89,15747.29,13577.85,160.16
+2026-08-11,Soyabean,Local,Azadpur,New Delhi,Delhi,6450.19,8549.49,7639.5,8099.72
+2026-08-11,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5719.53,7320.61,6308.3,3119.0
+2026-08-11,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5903.07,7530.95,6566.18,4599.33
+2026-08-11,Soyabean,Local,Vashi,Mumbai,Maharashtra,7056.4,9332.34,8000.0,7250.57
+2026-08-11,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5356.88,7218.03,6478.32,3993.67
+2026-08-11,Sunflower,Local,Azadpur,New Delhi,Delhi,7412.87,10327.78,8889.34,222.24
+2026-08-11,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6672.32,8572.61,7489.78,85.8
+2026-08-11,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6801.97,8698.96,7931.82,111.32
+2026-08-11,Sunflower,Local,Vashi,Mumbai,Maharashtra,6949.29,9324.18,8432.4,168.42
+2026-08-11,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6635.35,9032.34,7873.82,95.52
+2026-08-11,Tomato,Local,Azadpur,New Delhi,Delhi,1858.13,2357.65,2071.51,15115.27
+2026-08-11,Tomato,Local,Bowenpally,Hyderabad,Telangana,1616.7,1980.38,1799.61,7145.06
+2026-08-11,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1434.02,2012.05,1728.08,8213.69
+2026-08-11,Tomato,Local,Vashi,Mumbai,Maharashtra,1811.31,2230.49,2049.25,11700.48
+2026-08-11,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1547.14,2026.57,1798.86,6853.94
+2026-08-11,Wheat,Local,Azadpur,New Delhi,Delhi,2318.99,3101.32,2631.74,72677.28
+2026-08-11,Wheat,Local,Bowenpally,Hyderabad,Telangana,2068.7,2718.88,2502.82,30361.13
+2026-08-11,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2264.77,2872.63,2495.7,35026.78
+2026-08-11,Wheat,Local,Vashi,Mumbai,Maharashtra,2415.92,3108.03,2815.16,57225.42
+2026-08-11,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2168.5,2864.48,2593.58,30841.87
+2026-08-12,Bajra,Local,Azadpur,New Delhi,Delhi,2390.44,3217.36,2809.87,2660.29
+2026-08-12,Bajra,Local,Bowenpally,Hyderabad,Telangana,2082.48,2654.82,2356.0,904.67
+2026-08-12,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1990.65,2653.28,2272.19,1196.73
+2026-08-12,Bajra,Local,Vashi,Mumbai,Maharashtra,2389.31,2880.37,2602.52,1992.47
+2026-08-12,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,2023.94,2568.9,2253.43,892.24
+2026-08-12,Barley,Local,Azadpur,New Delhi,Delhi,2171.6,2849.93,2508.93,339.48
+2026-08-12,Barley,Local,Bowenpally,Hyderabad,Telangana,1679.18,2194.29,2031.67,142.77
+2026-08-12,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1922.27,2646.74,2276.49,177.12
+2026-08-12,Barley,Local,Vashi,Mumbai,Maharashtra,1962.13,2475.17,2216.03,281.91
+2026-08-12,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2059.85,2510.63,2269.38,192.32
+2026-08-12,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5960.13,7210.54,6481.18,5468.81
+2026-08-12,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5680.51,6977.57,6287.18,2060.7
+2026-08-12,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5796.87,7276.16,6565.22,2697.1
+2026-08-12,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6289.0,8017.63,7407.77,4491.07
+2026-08-12,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5954.88,7684.89,6673.4,2979.19
+2026-08-12,Black Gram,Whole,Azadpur,New Delhi,Delhi,7324.19,10282.27,8874.92,589.8
+2026-08-12,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7287.97,8756.36,8084.21,247.47
+2026-08-12,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7984.22,10909.96,9591.48,261.52
+2026-08-12,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8365.87,11144.3,9714.99,380.09
+2026-08-12,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7139.07,8486.57,7843.1,264.09
+2026-08-12,Copra,Milling,Azadpur,New Delhi,Delhi,17837.66,23550.24,21723.6,286.02
+2026-08-12,Copra,Milling,Bowenpally,Hyderabad,Telangana,16393.48,20085.83,18083.76,119.89
+2026-08-12,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18291.55,21908.1,20253.59,143.22
+2026-08-12,Copra,Milling,Vashi,Mumbai,Maharashtra,18174.48,24788.66,21923.79,225.04
+2026-08-12,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,17308.77,20811.07,18893.68,124.02
+2026-08-12,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9106.83,11827.86,10164.62,520.88
+2026-08-12,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7249.27,9543.18,8770.95,204.95
+2026-08-12,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8069.02,10300.59,9197.59,256.89
+2026-08-12,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,7984.77,10921.48,9461.79,387.94
+2026-08-12,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7820.32,9731.78,8681.81,201.97
+2026-08-12,Green Gram,Whole,Azadpur,New Delhi,Delhi,7348.27,9523.25,8456.95,14352.63
+2026-08-12,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7561.56,9251.4,8446.12,5147.31
+2026-08-12,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6956.17,8855.84,7759.43,7437.07
+2026-08-12,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7233.88,9523.01,8457.17,9147.85
+2026-08-12,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7221.15,10071.16,8565.86,5834.55
+2026-08-12,Groundnut,Bold,Azadpur,New Delhi,Delhi,7610.99,9758.38,8383.19,1917.54
+2026-08-12,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5968.45,7779.22,6756.46,796.09
+2026-08-12,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6401.91,8125.6,7265.56,1004.98
+2026-08-12,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6700.96,8956.91,7888.02,1295.02
+2026-08-12,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6119.43,7513.61,6807.74,775.44
+2026-08-12,Jowar,Local,Azadpur,New Delhi,Delhi,3438.92,4756.19,4053.7,754.34
+2026-08-12,Jowar,Local,Bowenpally,Hyderabad,Telangana,3450.1,4197.5,3772.88,279.36
+2026-08-12,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3491.15,4472.39,3919.65,383.47
+2026-08-12,Jowar,Local,Vashi,Mumbai,Maharashtra,3273.55,4428.45,3942.81,558.61
+2026-08-12,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2815.28,3858.49,3402.72,355.79
+2026-08-12,Lentil,Whole,Azadpur,New Delhi,Delhi,7953.64,10689.15,9484.68,1158.08
+2026-08-12,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7001.11,9084.85,8239.93,414.79
+2026-08-12,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5863.44,7719.1,6869.21,544.81
+2026-08-12,Lentil,Whole,Vashi,Mumbai,Maharashtra,6414.06,8949.17,7715.77,725.94
+2026-08-12,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5802.38,7742.0,6834.2,460.27
+2026-08-12,Maize,Local,Azadpur,New Delhi,Delhi,2238.33,2861.79,2502.3,30599.02
+2026-08-12,Maize,Local,Bowenpally,Hyderabad,Telangana,1975.29,2629.53,2240.85,14793.09
+2026-08-12,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2035.05,2570.16,2336.04,15326.24
+2026-08-12,Maize,Local,Vashi,Mumbai,Maharashtra,1953.41,2573.56,2280.65,23701.63
+2026-08-12,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,1999.47,2861.98,2431.54,16653.64
+2026-08-12,Mustard,Local,Azadpur,New Delhi,Delhi,6627.47,8453.86,7665.51,4636.55
+2026-08-12,Mustard,Local,Bowenpally,Hyderabad,Telangana,6469.33,8160.99,7135.37,1587.59
+2026-08-12,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5516.3,7236.38,6292.27,2346.83
+2026-08-12,Mustard,Local,Vashi,Mumbai,Maharashtra,6758.3,8771.52,7928.31,3758.46
+2026-08-12,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5634.14,7347.09,6779.55,2185.89
+2026-08-12,Niger Seed,Local,Azadpur,New Delhi,Delhi,10481.11,14407.83,12514.61,35.73
+2026-08-12,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,11337.01,14189.27,12342.19,11.69
+2026-08-12,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,10212.1,12169.73,11181.77,15.9
+2026-08-12,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11403.69,13676.72,12585.94,25.73
+2026-08-12,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11269.31,13805.67,12281.86,14.99
+2026-08-12,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2354.1,3068.58,2620.07,64889.78
+2026-08-12,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2706.36,3630.93,3218.92,24327.43
+2026-08-12,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2410.77,3021.16,2789.76,33373.15
+2026-08-12,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2563.08,3550.37,3066.15,48745.08
+2026-08-12,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2419.24,3274.61,2854.0,27277.69
+2026-08-12,Paddy,Common,Azadpur,New Delhi,Delhi,2510.63,3437.15,2960.04,28644.12
+2026-08-12,Paddy,Common,Bowenpally,Hyderabad,Telangana,2377.66,2983.71,2741.47,12809.86
+2026-08-12,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2244.92,2946.91,2723.04,14584.16
+2026-08-12,Paddy,Common,Vashi,Mumbai,Maharashtra,2433.21,3231.47,2889.81,20271.76
+2026-08-12,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2077.58,2901.08,2466.82,13194.13
+2026-08-12,Potato,Local,Azadpur,New Delhi,Delhi,863.87,1064.33,979.22,59463.44
+2026-08-12,Potato,Local,Bowenpally,Hyderabad,Telangana,809.49,1121.94,980.96,24482.12
+2026-08-12,Potato,Local,Koyambedu,Chennai,Tamil Nadu,905.93,1163.5,1044.44,37663.26
+2026-08-12,Potato,Local,Vashi,Mumbai,Maharashtra,931.3,1233.83,1057.67,54091.55
+2026-08-12,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,829.12,1057.72,948.07,33027.75
+2026-08-12,Ragi,Local,Azadpur,New Delhi,Delhi,3301.04,3975.3,3669.87,179.02
+2026-08-12,Ragi,Local,Bowenpally,Hyderabad,Telangana,3024.11,3700.86,3418.42,69.84
+2026-08-12,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3284.69,3940.17,3572.78,100.16
+2026-08-12,Ragi,Local,Vashi,Mumbai,Maharashtra,3638.29,4716.0,4106.6,138.45
+2026-08-12,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3262.14,4327.23,3736.17,74.8
+2026-08-12,Red Gram,Whole,Azadpur,New Delhi,Delhi,6764.24,9090.57,8122.66,1763.09
+2026-08-12,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6457.83,8760.47,7482.05,542.06
+2026-08-12,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7062.17,9488.62,8445.93,947.52
+2026-08-12,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7844.44,9855.29,8704.49,1423.76
+2026-08-12,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7320.83,9444.74,8333.72,853.27
+2026-08-12,Safflower,Local,Azadpur,New Delhi,Delhi,4569.33,5578.68,5108.33,76.05
+2026-08-12,Safflower,Local,Bowenpally,Hyderabad,Telangana,3840.25,4701.65,4253.53,32.47
+2026-08-12,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4476.85,5580.41,5000.93,48.81
+2026-08-12,Safflower,Local,Vashi,Mumbai,Maharashtra,3932.79,5120.67,4340.91,70.01
+2026-08-12,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4366.15,5774.01,4956.65,38.88
+2026-08-12,Sesamum,Local,Azadpur,New Delhi,Delhi,11918.87,14743.89,13094.8,425.75
+2026-08-12,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10761.18,14898.11,12788.33,131.35
+2026-08-12,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,11285.92,14887.97,12964.14,224.33
+2026-08-12,Sesamum,Local,Vashi,Mumbai,Maharashtra,13180.15,16696.59,15000.0,323.08
+2026-08-12,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11528.89,15750.93,13560.22,191.25
+2026-08-12,Soyabean,Local,Azadpur,New Delhi,Delhi,6839.7,8473.51,7607.09,9375.99
+2026-08-12,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5320.67,6981.3,6273.33,4358.95
+2026-08-12,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,6036.7,7177.7,6604.12,5571.45
+2026-08-12,Soyabean,Local,Vashi,Mumbai,Maharashtra,6983.02,8802.02,8000.0,8260.68
+2026-08-12,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5658.66,7324.36,6517.35,4799.7
+2026-08-12,Sunflower,Local,Azadpur,New Delhi,Delhi,7872.04,9959.43,8844.11,257.28
+2026-08-12,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6742.89,8494.75,7498.16,109.46
+2026-08-12,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6783.2,8761.23,7956.41,121.54
+2026-08-12,Sunflower,Local,Vashi,Mumbai,Maharashtra,6943.86,9819.69,8419.89,210.89
+2026-08-12,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6717.37,8930.61,7891.28,121.91
+2026-08-12,Tomato,Local,Azadpur,New Delhi,Delhi,1727.45,2378.63,2062.66,18720.12
+2026-08-12,Tomato,Local,Bowenpally,Hyderabad,Telangana,1482.82,2066.9,1791.29,6759.13
+2026-08-12,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1534.09,1856.97,1709.32,9228.54
+2026-08-12,Tomato,Local,Vashi,Mumbai,Maharashtra,1713.51,2356.65,2060.1,14899.94
+2026-08-12,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1619.7,2078.75,1805.94,7299.81
+2026-08-12,Wheat,Local,Azadpur,New Delhi,Delhi,2201.89,2857.6,2631.4,82572.95
+2026-08-12,Wheat,Local,Bowenpally,Hyderabad,Telangana,2296.65,2724.95,2510.62,28776.69
+2026-08-12,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2128.06,2891.78,2503.5,39362.04
+2026-08-12,Wheat,Local,Vashi,Mumbai,Maharashtra,2360.28,3276.26,2825.6,63794.77
+2026-08-12,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2198.84,2998.61,2599.67,36117.25
+2026-08-13,Bajra,Local,Azadpur,New Delhi,Delhi,2545.02,3095.98,2826.85,1768.42
+2026-08-13,Bajra,Local,Bowenpally,Hyderabad,Telangana,2154.8,2724.49,2354.06,861.27
+2026-08-13,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2064.46,2545.69,2274.47,1077.06
+2026-08-13,Bajra,Local,Vashi,Mumbai,Maharashtra,2249.31,3040.55,2613.17,1517.77
+2026-08-13,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1947.73,2545.01,2255.09,989.41
+2026-08-13,Barley,Local,Azadpur,New Delhi,Delhi,2203.99,2836.58,2509.63,279.18
+2026-08-13,Barley,Local,Bowenpally,Hyderabad,Telangana,1837.44,2320.12,2035.87,123.9
+2026-08-13,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2084.96,2616.0,2274.48,146.3
+2026-08-13,Barley,Local,Vashi,Mumbai,Maharashtra,1939.47,2510.68,2220.7,210.31
+2026-08-13,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1908.28,2579.37,2267.37,145.88
+2026-08-13,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5847.76,7186.89,6464.58,5361.29
+2026-08-13,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5616.71,7346.57,6292.83,1891.61
+2026-08-13,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5827.65,7334.72,6549.17,2635.07
+2026-08-13,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6520.55,8186.81,7408.07,4233.36
+2026-08-13,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5361.43,7349.74,6247.52,1947.48
+2026-08-13,Black Gram,Whole,Azadpur,New Delhi,Delhi,7820.43,9768.13,8934.72,409.85
+2026-08-13,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7325.04,8863.67,8075.14,170.44
+2026-08-13,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8870.19,11303.77,9644.72,250.24
+2026-08-13,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8587.74,10969.83,9672.91,416.93
+2026-08-13,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7074.84,9169.05,7793.69,186.4
+2026-08-13,Copra,Milling,Azadpur,New Delhi,Delhi,17953.02,24916.38,21754.79,236.97
+2026-08-13,Copra,Milling,Bowenpally,Hyderabad,Telangana,15391.05,21052.37,18139.15,74.91
+2026-08-13,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17332.76,23467.92,20511.65,128.19
+2026-08-13,Copra,Milling,Vashi,Mumbai,Maharashtra,18003.13,24492.4,21884.76,155.63
+2026-08-13,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15478.59,20904.38,18838.2,98.66
+2026-08-13,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9191.39,11056.66,10138.17,317.69
+2026-08-13,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7491.87,9775.79,8792.64,157.29
+2026-08-13,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8142.77,10680.03,9187.42,209.2
+2026-08-13,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8309.72,10780.59,9490.82,293.75
+2026-08-13,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7275.21,9972.06,8569.44,175.15
+2026-08-13,Green Gram,Whole,Azadpur,New Delhi,Delhi,7683.22,9699.95,8479.08,9819.96
+2026-08-13,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7553.98,9910.14,8491.85,4814.32
+2026-08-13,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6973.93,8858.28,7791.49,5737.45
+2026-08-13,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7225.12,9528.03,8450.41,8926.78
+2026-08-13,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7315.89,9775.43,8573.29,5421.71
+2026-08-13,Groundnut,Bold,Azadpur,New Delhi,Delhi,7376.71,9678.74,8419.15,1639.2
+2026-08-13,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5597.37,7494.53,6818.17,628.2
+2026-08-13,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6267.1,8194.55,7218.28,880.83
+2026-08-13,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6725.88,8993.67,7862.24,1079.87
+2026-08-13,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,5857.71,8089.72,7012.39,642.85
+2026-08-13,Jowar,Local,Azadpur,New Delhi,Delhi,3567.65,4456.23,4035.76,516.92
+2026-08-13,Jowar,Local,Bowenpally,Hyderabad,Telangana,3177.72,4301.1,3750.44,218.93
+2026-08-13,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3476.46,4235.75,3866.86,261.58
+2026-08-13,Jowar,Local,Vashi,Mumbai,Maharashtra,3550.11,4615.71,3921.8,490.77
+2026-08-13,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2882.66,3888.73,3435.96,256.63
+2026-08-13,Lentil,Whole,Azadpur,New Delhi,Delhi,8241.9,10399.76,9481.58,906.7
+2026-08-13,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7212.4,9441.6,8225.94,283.42
+2026-08-13,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5696.79,7635.42,6861.29,444.77
+2026-08-13,Lentil,Whole,Vashi,Mumbai,Maharashtra,6690.8,8977.79,7685.54,742.08
+2026-08-13,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5741.73,7755.41,6768.82,391.76
+2026-08-13,Maize,Local,Azadpur,New Delhi,Delhi,2196.85,2763.7,2505.78,31435.85
+2026-08-13,Maize,Local,Bowenpally,Hyderabad,Telangana,1994.08,2448.86,2236.44,10445.86
+2026-08-13,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2086.83,2657.65,2343.0,13098.52
+2026-08-13,Maize,Local,Vashi,Mumbai,Maharashtra,1972.03,2584.3,2272.14,21088.59
+2026-08-13,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2081.32,2859.78,2435.2,14336.45
+2026-08-13,Mustard,Local,Azadpur,New Delhi,Delhi,6794.32,9079.63,7898.76,3278.44
+2026-08-13,Mustard,Local,Bowenpally,Hyderabad,Telangana,6027.02,8376.72,7114.8,1241.58
+2026-08-13,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5641.64,6934.87,6273.12,1870.97
+2026-08-13,Mustard,Local,Vashi,Mumbai,Maharashtra,6664.98,9209.16,7878.01,2297.84
+2026-08-13,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,6126.23,7586.7,6767.0,2061.76
+2026-08-13,Niger Seed,Local,Azadpur,New Delhi,Delhi,10992.82,13609.16,12534.38,30.52
+2026-08-13,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10333.66,13600.95,12367.57,12.13
+2026-08-13,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,10273.58,13117.64,11183.92,15.91
+2026-08-13,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11330.33,14735.17,12594.8,22.92
+2026-08-13,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11142.35,14220.53,12310.48,10.95
+2026-08-13,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2170.69,2918.68,2628.97,52454.21
+2026-08-13,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2893.0,3605.39,3224.16,21723.44
+2026-08-13,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2360.6,3074.82,2799.89,23622.11
+2026-08-13,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2753.58,3340.51,3079.97,34557.38
+2026-08-13,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2606.6,3326.32,2841.89,26758.64
+2026-08-13,Paddy,Common,Azadpur,New Delhi,Delhi,2636.26,3533.57,3208.91,25073.74
+2026-08-13,Paddy,Common,Bowenpally,Hyderabad,Telangana,2370.89,3186.53,2736.18,8930.19
+2026-08-13,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2271.82,2995.2,2718.26,13002.5
+2026-08-13,Paddy,Common,Vashi,Mumbai,Maharashtra,2375.2,3243.86,2892.63,18407.08
+2026-08-13,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2263.62,2843.13,2531.49,10911.39
+2026-08-13,Potato,Local,Azadpur,New Delhi,Delhi,877.79,1092.44,981.39,50626.1
+2026-08-13,Potato,Local,Bowenpally,Hyderabad,Telangana,886.11,1122.94,981.4,21263.04
+2026-08-13,Potato,Local,Koyambedu,Chennai,Tamil Nadu,916.93,1206.64,1052.22,28624.03
+2026-08-13,Potato,Local,Vashi,Mumbai,Maharashtra,886.56,1145.24,1058.73,48080.04
+2026-08-13,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,805.85,1092.36,952.22,26399.28
+2026-08-13,Ragi,Local,Azadpur,New Delhi,Delhi,3166.83,4290.45,3670.0,144.82
+2026-08-13,Ragi,Local,Bowenpally,Hyderabad,Telangana,2975.8,3853.74,3445.1,61.64
+2026-08-13,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3063.34,4081.03,3567.64,85.49
+2026-08-13,Ragi,Local,Vashi,Mumbai,Maharashtra,3518.18,4570.52,4097.4,122.25
+2026-08-13,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3252.46,4325.85,3746.84,74.14
+2026-08-13,Red Gram,Whole,Azadpur,New Delhi,Delhi,7385.2,9035.67,8104.29,1566.81
+2026-08-13,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6242.79,8385.53,7513.86,483.19
+2026-08-13,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7343.01,9868.71,8408.36,706.23
+2026-08-13,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7164.82,9883.4,8726.67,1249.33
+2026-08-13,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7443.19,9126.99,8122.56,514.89
+2026-08-13,Safflower,Local,Azadpur,New Delhi,Delhi,4230.74,5557.78,5072.93,64.04
+2026-08-13,Safflower,Local,Bowenpally,Hyderabad,Telangana,3847.38,4752.95,4269.51,28.43
+2026-08-13,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4247.47,5765.2,5012.61,35.64
+2026-08-13,Safflower,Local,Vashi,Mumbai,Maharashtra,3675.95,4790.17,4338.93,46.39
+2026-08-13,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4515.19,5728.3,4953.06,33.34
+2026-08-13,Sesamum,Local,Azadpur,New Delhi,Delhi,11528.77,15398.05,13108.15,261.68
+2026-08-13,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10561.08,14426.47,12567.64,109.49
+2026-08-13,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10330.71,13736.51,12436.49,160.42
+2026-08-13,Sesamum,Local,Vashi,Mumbai,Maharashtra,13450.43,17376.7,15000.0,249.82
+2026-08-13,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11812.25,15018.72,13522.74,136.98
+2026-08-13,Soyabean,Local,Azadpur,New Delhi,Delhi,6270.57,8623.62,7635.9,8679.36
+2026-08-13,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5687.86,7169.03,6264.28,3831.69
+2026-08-13,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,6048.07,7648.41,6596.39,4979.41
+2026-08-13,Soyabean,Local,Vashi,Mumbai,Maharashtra,7137.26,8992.31,8000.0,6529.83
+2026-08-13,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5877.61,7584.29,6539.61,3405.12
+2026-08-13,Sunflower,Local,Azadpur,New Delhi,Delhi,7380.68,9952.22,8849.28,199.39
+2026-08-13,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6292.23,8602.41,7516.52,82.36
+2026-08-13,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7296.68,9016.54,7951.37,118.61
+2026-08-13,Sunflower,Local,Vashi,Mumbai,Maharashtra,7672.15,9783.78,8454.32,152.95
+2026-08-13,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6615.39,9008.99,7886.58,87.05
+2026-08-13,Tomato,Local,Azadpur,New Delhi,Delhi,1740.72,2428.34,2059.43,14371.24
+2026-08-13,Tomato,Local,Bowenpally,Hyderabad,Telangana,1548.39,1992.89,1805.26,6092.87
+2026-08-13,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1546.01,1860.06,1705.74,8333.29
+2026-08-13,Tomato,Local,Vashi,Mumbai,Maharashtra,1759.92,2228.81,2040.98,11205.24
+2026-08-13,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1614.41,2010.13,1835.21,6549.25
+2026-08-13,Wheat,Local,Azadpur,New Delhi,Delhi,2360.48,3006.64,2631.13,70124.69
+2026-08-13,Wheat,Local,Bowenpally,Hyderabad,Telangana,2148.5,2935.56,2516.43,25188.46
+2026-08-13,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2136.02,2758.95,2511.35,34494.78
+2026-08-13,Wheat,Local,Vashi,Mumbai,Maharashtra,2458.91,3109.32,2826.95,55584.25
+2026-08-13,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2311.19,3033.46,2590.95,25340.55
+2026-08-14,Bajra,Local,Azadpur,New Delhi,Delhi,2471.78,3072.02,2828.4,1947.6
+2026-08-14,Bajra,Local,Bowenpally,Hyderabad,Telangana,2126.05,2557.22,2341.05,756.13
+2026-08-14,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1969.97,2659.9,2289.74,982.1
+2026-08-14,Bajra,Local,Vashi,Mumbai,Maharashtra,2349.17,2814.24,2602.23,1415.68
+2026-08-14,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1991.1,2559.08,2255.51,973.79
+2026-08-14,Barley,Local,Azadpur,New Delhi,Delhi,1975.72,2527.03,2308.96,270.31
+2026-08-14,Barley,Local,Bowenpally,Hyderabad,Telangana,1693.82,2383.48,2034.39,99.89
+2026-08-14,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2086.07,2564.69,2277.83,148.7
+2026-08-14,Barley,Local,Vashi,Mumbai,Maharashtra,2043.75,2539.11,2235.06,235.09
+2026-08-14,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2041.09,2605.16,2266.06,149.17
+2026-08-14,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5697.11,7422.85,6441.58,4152.74
+2026-08-14,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5295.85,7290.65,6300.52,2059.74
+2026-08-14,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5895.93,7449.07,6561.97,2326.2
+2026-08-14,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6244.29,8694.61,7444.48,4183.21
+2026-08-14,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5289.5,7056.15,6319.01,2318.19
+2026-08-14,Black Gram,Whole,Azadpur,New Delhi,Delhi,8189.07,10282.61,8912.03,507.16
+2026-08-14,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6856.94,8802.47,8087.72,181.99
+2026-08-14,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8469.5,10901.29,9653.6,256.87
+2026-08-14,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8231.52,10827.94,9582.56,384.88
+2026-08-14,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6843.6,9102.43,7796.36,186.67
+2026-08-14,Copra,Milling,Azadpur,New Delhi,Delhi,19201.49,24742.39,21644.56,284.55
+2026-08-14,Copra,Milling,Bowenpally,Hyderabad,Telangana,15539.77,20770.89,18143.13,96.5
+2026-08-14,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17298.29,24244.47,20960.63,112.01
+2026-08-14,Copra,Milling,Vashi,Mumbai,Maharashtra,18448.64,25212.04,21915.63,193.06
+2026-08-14,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15792.1,22224.88,18872.99,101.62
+2026-08-14,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8317.35,11494.6,10133.33,348.2
+2026-08-14,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,8083.87,10236.7,8866.51,166.81
+2026-08-14,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7553.81,10645.46,9141.82,197.37
+2026-08-14,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8685.88,10595.8,9620.03,289.72
+2026-08-14,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7773.77,9303.23,8590.82,176.24
+2026-08-14,Green Gram,Whole,Azadpur,New Delhi,Delhi,7734.55,9607.05,8450.03,9521.28
+2026-08-14,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7429.51,9901.36,8458.45,5037.5
+2026-08-14,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6619.27,8643.61,7763.11,4917.36
+2026-08-14,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7457.97,9652.1,8472.92,8837.55
+2026-08-14,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7233.16,9560.46,8626.67,5082.01
+2026-08-14,Groundnut,Bold,Azadpur,New Delhi,Delhi,7145.82,9434.2,8381.63,1351.3
+2026-08-14,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5879.73,7429.54,6781.91,499.28
+2026-08-14,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6393.25,7952.91,7253.15,799.14
+2026-08-14,Groundnut,Bold,Vashi,Mumbai,Maharashtra,7067.17,8519.49,7866.84,1052.81
+2026-08-14,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,5868.82,7918.78,7141.66,638.42
+2026-08-14,Jowar,Local,Azadpur,New Delhi,Delhi,3556.73,4683.64,4038.24,662.33
+2026-08-14,Jowar,Local,Bowenpally,Hyderabad,Telangana,3147.94,4331.65,3761.13,193.77
+2026-08-14,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3233.82,4466.66,3852.66,262.86
+2026-08-14,Jowar,Local,Vashi,Mumbai,Maharashtra,3426.97,4259.81,3893.68,466.95
+2026-08-14,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2940.68,3722.85,3444.28,303.12
+2026-08-14,Lentil,Whole,Azadpur,New Delhi,Delhi,8538.5,10730.51,9436.2,846.44
+2026-08-14,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7244.7,9102.95,8228.69,311.68
+2026-08-14,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5786.45,7574.48,6844.31,439.69
+2026-08-14,Lentil,Whole,Vashi,Mumbai,Maharashtra,6633.59,8756.66,7728.52,717.86
+2026-08-14,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5829.97,7858.49,6795.32,455.64
+2026-08-14,Maize,Local,Azadpur,New Delhi,Delhi,2128.88,2807.9,2502.94,33116.57
+2026-08-14,Maize,Local,Bowenpally,Hyderabad,Telangana,2031.14,2509.23,2236.42,10554.09
+2026-08-14,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1959.96,2670.87,2335.31,15123.43
+2026-08-14,Maize,Local,Vashi,Mumbai,Maharashtra,1913.67,2498.05,2281.87,26871.43
+2026-08-14,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2172.53,2754.7,2441.32,12095.21
+2026-08-14,Mustard,Local,Azadpur,New Delhi,Delhi,7343.02,9101.12,8048.11,4022.26
+2026-08-14,Mustard,Local,Bowenpally,Hyderabad,Telangana,5970.26,7883.34,7123.09,1448.12
+2026-08-14,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5413.86,7032.41,6321.91,2162.98
+2026-08-14,Mustard,Local,Vashi,Mumbai,Maharashtra,7197.61,8895.52,7832.27,3337.84
+2026-08-14,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5666.39,7787.82,6767.7,1712.86
+2026-08-14,Niger Seed,Local,Azadpur,New Delhi,Delhi,11415.99,14070.61,12573.09,28.75
+2026-08-14,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10456.25,14132.72,12428.66,12.71
+2026-08-14,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9499.95,12423.9,11192.29,13.01
+2026-08-14,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11131.13,14388.95,12587.48,25.96
+2026-08-14,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11333.36,14216.6,12342.3,12.14
+2026-08-14,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2189.9,2872.89,2634.76,55011.72
+2026-08-14,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2735.62,3540.75,3205.21,17854.26
+2026-08-14,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2397.26,3283.8,2810.45,25435.29
+2026-08-14,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2732.75,3516.85,3074.06,38671.74
+2026-08-14,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2472.04,3202.2,2857.41,29247.5
+2026-08-14,Paddy,Common,Azadpur,New Delhi,Delhi,2597.08,3654.78,3123.3,22435.57
+2026-08-14,Paddy,Common,Bowenpally,Hyderabad,Telangana,2435.63,3208.84,2751.05,9360.24
+2026-08-14,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2256.68,2976.02,2728.43,12141.48
+2026-08-14,Paddy,Common,Vashi,Mumbai,Maharashtra,2439.35,3226.92,2894.61,17239.09
+2026-08-14,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2150.71,2906.55,2603.18,10869.91
+2026-08-14,Potato,Local,Azadpur,New Delhi,Delhi,816.73,1058.41,978.44,60711.93
+2026-08-14,Potato,Local,Bowenpally,Hyderabad,Telangana,893.33,1132.31,987.49,23938.52
+2026-08-14,Potato,Local,Koyambedu,Chennai,Tamil Nadu,872.73,1162.59,1053.83,29065.2
+2026-08-14,Potato,Local,Vashi,Mumbai,Maharashtra,904.9,1221.32,1061.06,45834.91
+2026-08-14,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,806.49,1062.89,956.66,27198.18
+2026-08-14,Ragi,Local,Azadpur,New Delhi,Delhi,3041.19,4175.19,3678.01,148.59
+2026-08-14,Ragi,Local,Bowenpally,Hyderabad,Telangana,3100.19,3898.76,3447.32,60.55
+2026-08-14,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3086.15,3883.45,3562.34,82.14
+2026-08-14,Ragi,Local,Vashi,Mumbai,Maharashtra,3776.73,4729.44,4105.31,129.82
+2026-08-14,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3370.55,4380.31,3742.18,84.5
+2026-08-14,Red Gram,Whole,Azadpur,New Delhi,Delhi,7409.99,9082.39,8084.34,1421.11
+2026-08-14,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6755.7,8297.58,7534.12,629.9
+2026-08-14,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7717.43,9170.39,8431.53,587.1
+2026-08-14,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7438.33,9640.19,8740.59,1129.51
+2026-08-14,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6767.98,9084.41,7948.88,687.83
+2026-08-14,Safflower,Local,Azadpur,New Delhi,Delhi,4471.35,5874.66,5097.52,73.66
+2026-08-14,Safflower,Local,Bowenpally,Hyderabad,Telangana,3523.37,4947.22,4294.33,29.25
+2026-08-14,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,3640.87,4947.1,4431.01,39.59
+2026-08-14,Safflower,Local,Vashi,Mumbai,Maharashtra,3576.03,5031.37,4343.13,54.12
+2026-08-14,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4345.47,5788.55,4986.46,29.57
+2026-08-14,Sesamum,Local,Azadpur,New Delhi,Delhi,11952.89,14122.23,13051.39,363.89
+2026-08-14,Sesamum,Local,Bowenpally,Hyderabad,Telangana,11206.11,14288.69,12371.78,145.87
+2026-08-14,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10905.2,13587.96,11954.62,164.39
+2026-08-14,Sesamum,Local,Vashi,Mumbai,Maharashtra,12746.57,17404.93,15000.0,248.29
+2026-08-14,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11852.1,15467.0,13503.86,144.02
+2026-08-14,Soyabean,Local,Azadpur,New Delhi,Delhi,6320.95,8357.74,7629.58,8293.86
+2026-08-14,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5612.3,7021.26,6274.09,3521.31
+2026-08-14,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,6368.21,7695.14,6942.59,4034.17
+2026-08-14,Soyabean,Local,Vashi,Mumbai,Maharashtra,6588.61,8985.61,8000.0,7395.67
+2026-08-14,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5977.25,7094.33,6565.51,3235.35
+2026-08-14,Sunflower,Local,Azadpur,New Delhi,Delhi,8085.93,10207.8,8833.88,191.72
+2026-08-14,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6443.39,8396.5,7523.65,81.6
+2026-08-14,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6870.26,9104.01,7993.73,87.41
+2026-08-14,Sunflower,Local,Vashi,Mumbai,Maharashtra,7298.75,9395.71,8402.58,179.6
+2026-08-14,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6776.97,8977.6,7906.73,88.17
+2026-08-14,Tomato,Local,Azadpur,New Delhi,Delhi,1682.17,2232.19,2043.44,15504.12
+2026-08-14,Tomato,Local,Bowenpally,Hyderabad,Telangana,1491.35,2087.0,1798.52,5993.73
+2026-08-14,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1498.21,1945.69,1709.09,8069.95
+2026-08-14,Tomato,Local,Vashi,Mumbai,Maharashtra,1840.08,2297.68,2019.6,12092.06
+2026-08-14,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1523.93,2127.02,1827.38,5902.5
+2026-08-14,Wheat,Local,Azadpur,New Delhi,Delhi,2313.06,2900.88,2635.89,70273.46
+2026-08-14,Wheat,Local,Bowenpally,Hyderabad,Telangana,2184.47,2784.35,2526.66,25588.15
+2026-08-14,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2161.08,2745.55,2516.62,29596.52
+2026-08-14,Wheat,Local,Vashi,Mumbai,Maharashtra,2411.17,3122.6,2826.07,56813.43
+2026-08-14,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2365.37,2998.48,2588.01,30983.46
+2026-08-15,Bajra,Local,Azadpur,New Delhi,Delhi,2404.71,3271.92,2825.31,1848.72
+2026-08-15,Bajra,Local,Bowenpally,Hyderabad,Telangana,2053.2,2670.68,2337.3,789.88
+2026-08-15,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1908.09,2573.22,2289.52,996.6
+2026-08-15,Bajra,Local,Vashi,Mumbai,Maharashtra,2335.82,2912.86,2605.63,1808.07
+2026-08-15,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,2094.66,2776.21,2367.53,967.51
+2026-08-15,Barley,Local,Azadpur,New Delhi,Delhi,1976.97,2657.16,2363.59,300.2
+2026-08-15,Barley,Local,Bowenpally,Hyderabad,Telangana,1850.17,2253.59,2032.47,123.63
+2026-08-15,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1933.02,2483.91,2288.24,161.62
+2026-08-15,Barley,Local,Vashi,Mumbai,Maharashtra,1926.18,2583.23,2240.71,193.61
+2026-08-15,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2038.15,2494.88,2275.39,110.24
+2026-08-15,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5709.58,7234.55,6433.93,4920.42
+2026-08-15,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5591.32,7143.64,6273.4,1497.98
+2026-08-15,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5861.37,7624.74,6543.13,2768.57
+2026-08-15,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6669.09,8309.72,7435.52,3612.33
+2026-08-15,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5305.11,7131.1,6399.7,2548.38
+2026-08-15,Black Gram,Whole,Azadpur,New Delhi,Delhi,7655.2,10360.68,8878.34,494.68
+2026-08-15,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7065.04,9195.22,8099.04,184.06
+2026-08-15,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8073.09,10811.38,9654.33,212.73
+2026-08-15,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8075.48,11356.83,9636.91,386.98
+2026-08-15,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7065.42,9049.83,7801.29,231.91
+2026-08-15,Copra,Milling,Azadpur,New Delhi,Delhi,19837.04,25148.27,21709.15,206.55
+2026-08-15,Copra,Milling,Bowenpally,Hyderabad,Telangana,15882.82,20218.28,18197.45,93.4
+2026-08-15,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,18629.58,23852.62,21421.87,128.16
+2026-08-15,Copra,Milling,Vashi,Mumbai,Maharashtra,19593.1,25011.67,21934.65,200.7
+2026-08-15,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16452.86,20602.33,18983.34,102.38
+2026-08-15,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9222.53,11241.88,10150.68,371.39
+2026-08-15,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7510.82,10052.67,8888.23,164.8
+2026-08-15,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8088.14,10814.65,9167.65,186.8
+2026-08-15,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8762.35,10951.19,9657.83,343.5
+2026-08-15,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7633.09,10032.6,8665.46,183.29
+2026-08-15,Green Gram,Whole,Azadpur,New Delhi,Delhi,7284.23,9344.32,8498.51,9743.41
+2026-08-15,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7027.4,9387.78,8464.98,3880.53
+2026-08-15,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6347.2,9091.11,7723.14,5776.49
+2026-08-15,Green Gram,Whole,Vashi,Mumbai,Maharashtra,6981.81,9452.75,8442.18,7928.55
+2026-08-15,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7480.22,9693.46,8560.04,4851.55
+2026-08-15,Groundnut,Bold,Azadpur,New Delhi,Delhi,7300.58,9056.67,8363.04,1521.07
+2026-08-15,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5873.17,7881.38,6725.02,665.51
+2026-08-15,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6652.77,8631.07,7332.31,744.16
+2026-08-15,Groundnut,Bold,Vashi,Mumbai,Maharashtra,5894.47,8084.48,7135.13,1100.67
+2026-08-15,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6328.14,8206.23,7203.04,616.34
+2026-08-15,Jowar,Local,Azadpur,New Delhi,Delhi,3378.27,4542.83,4044.16,550.53
+2026-08-15,Jowar,Local,Bowenpally,Hyderabad,Telangana,3257.35,4269.07,3750.98,222.03
+2026-08-15,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3605.0,4935.7,4260.35,300.42
+2026-08-15,Jowar,Local,Vashi,Mumbai,Maharashtra,3382.07,4204.07,3691.87,514.16
+2026-08-15,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2842.87,3709.64,3434.31,248.38
+2026-08-15,Lentil,Whole,Azadpur,New Delhi,Delhi,8372.43,10616.91,9382.98,809.01
+2026-08-15,Lentil,Whole,Bowenpally,Hyderabad,Telangana,6805.14,9460.71,8225.42,354.55
+2026-08-15,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5916.64,7822.7,6890.2,403.88
+2026-08-15,Lentil,Whole,Vashi,Mumbai,Maharashtra,6511.19,9092.95,7721.59,577.44
+2026-08-15,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5618.14,7951.78,6755.76,386.28
+2026-08-15,Maize,Local,Azadpur,New Delhi,Delhi,2101.99,2895.94,2496.19,24982.6
+2026-08-15,Maize,Local,Bowenpally,Hyderabad,Telangana,1849.42,2613.32,2231.4,12031.47
+2026-08-15,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2095.23,2668.86,2357.27,16715.2
+2026-08-15,Maize,Local,Vashi,Mumbai,Maharashtra,1894.89,2533.57,2277.46,24764.26
+2026-08-15,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2021.55,2876.24,2438.51,10863.34
+2026-08-15,Mustard,Local,Azadpur,New Delhi,Delhi,6982.1,9103.03,8031.75,3725.6
+2026-08-15,Mustard,Local,Bowenpally,Hyderabad,Telangana,6505.97,8158.02,7150.03,1740.97
+2026-08-15,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5559.82,6958.96,6328.26,2208.47
+2026-08-15,Mustard,Local,Vashi,Mumbai,Maharashtra,6608.13,9160.39,7819.99,3312.92
+2026-08-15,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,6023.09,7633.49,6751.63,1571.77
+2026-08-15,Niger Seed,Local,Azadpur,New Delhi,Delhi,9935.06,12878.09,11141.37,28.82
+2026-08-15,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,11171.38,14097.3,12409.03,12.0
+2026-08-15,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9852.35,12212.13,11183.14,15.64
+2026-08-15,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10446.09,14823.91,12607.61,23.81
+2026-08-15,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11027.36,13548.7,12242.06,14.09
+2026-08-15,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2339.1,3082.73,2634.35,53674.72
+2026-08-15,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2835.08,3696.94,3218.36,19634.83
+2026-08-15,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2444.87,3144.09,2804.51,31194.77
+2026-08-15,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2713.81,3576.14,3072.54,36453.23
+2026-08-15,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2402.34,3245.21,2864.72,25446.78
+2026-08-15,Paddy,Common,Azadpur,New Delhi,Delhi,2569.3,3305.28,3040.61,22207.5
+2026-08-15,Paddy,Common,Bowenpally,Hyderabad,Telangana,2395.46,3192.33,2762.59,9886.03
+2026-08-15,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2235.51,3154.66,2722.95,10127.43
+2026-08-15,Paddy,Common,Vashi,Mumbai,Maharashtra,2462.03,3184.15,2885.4,20248.41
+2026-08-15,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2182.66,2974.95,2645.35,10221.57
+2026-08-15,Potato,Local,Azadpur,New Delhi,Delhi,865.11,1063.83,980.86,56057.62
+2026-08-15,Potato,Local,Bowenpally,Hyderabad,Telangana,890.73,1091.46,994.87,21965.15
+2026-08-15,Potato,Local,Koyambedu,Chennai,Tamil Nadu,959.48,1190.0,1064.36,32117.25
+2026-08-15,Potato,Local,Vashi,Mumbai,Maharashtra,929.96,1250.06,1063.41,46527.67
+2026-08-15,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,830.09,1074.47,964.18,26662.21
+2026-08-15,Ragi,Local,Azadpur,New Delhi,Delhi,3342.67,4019.63,3686.1,146.6
+2026-08-15,Ragi,Local,Bowenpally,Hyderabad,Telangana,2853.29,4030.0,3430.97,69.01
+2026-08-15,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3028.02,4096.83,3562.27,72.66
+2026-08-15,Ragi,Local,Vashi,Mumbai,Maharashtra,3471.31,4804.76,4134.8,123.0
+2026-08-15,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3256.91,4228.3,3776.79,76.89
+2026-08-15,Red Gram,Whole,Azadpur,New Delhi,Delhi,7348.9,9439.49,8118.56,1698.65
+2026-08-15,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6879.85,8708.29,7587.95,761.62
+2026-08-15,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7527.56,9223.88,8432.72,736.05
+2026-08-15,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7884.36,9551.55,8729.27,1025.03
+2026-08-15,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6532.17,8622.63,7945.6,743.95
+2026-08-15,Safflower,Local,Azadpur,New Delhi,Delhi,4498.76,5510.16,5076.35,64.28
+2026-08-15,Safflower,Local,Bowenpally,Hyderabad,Telangana,3839.3,4984.88,4320.67,31.0
+2026-08-15,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,3830.91,4964.71,4573.5,34.53
+2026-08-15,Safflower,Local,Vashi,Mumbai,Maharashtra,3899.08,4716.75,4299.3,44.02
+2026-08-15,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4176.18,5850.61,4975.18,34.46
+2026-08-15,Sesamum,Local,Azadpur,New Delhi,Delhi,11609.43,14961.98,12885.65,273.22
+2026-08-15,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10971.39,14064.94,12149.14,119.01
+2026-08-15,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10403.43,13161.04,11432.49,158.61
+2026-08-15,Sesamum,Local,Vashi,Mumbai,Maharashtra,13113.91,16355.64,15000.0,276.45
+2026-08-15,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11631.1,15055.2,13449.26,168.65
+2026-08-15,Soyabean,Local,Azadpur,New Delhi,Delhi,6945.83,8774.09,7591.34,8829.75
+2026-08-15,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5445.35,6818.08,6271.13,2821.69
+2026-08-15,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5762.16,7797.73,6894.7,4454.03
+2026-08-15,Soyabean,Local,Vashi,Mumbai,Maharashtra,6609.12,8968.04,8000.0,6972.93
+2026-08-15,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5796.68,7279.51,6628.38,4196.98
+2026-08-15,Sunflower,Local,Azadpur,New Delhi,Delhi,7601.04,9934.58,8791.57,195.92
+2026-08-15,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6323.58,8394.45,7456.55,94.96
+2026-08-15,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,6554.63,9274.55,7948.28,111.44
+2026-08-15,Sunflower,Local,Vashi,Mumbai,Maharashtra,7098.2,9287.81,8402.22,164.25
+2026-08-15,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,7387.18,9499.98,8305.82,96.77
+2026-08-15,Tomato,Local,Azadpur,New Delhi,Delhi,1665.33,2232.17,2023.64,14221.25
+2026-08-15,Tomato,Local,Bowenpally,Hyderabad,Telangana,1510.3,2083.75,1807.8,6520.92
+2026-08-15,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1473.8,1876.51,1696.22,8235.3
+2026-08-15,Tomato,Local,Vashi,Mumbai,Maharashtra,1777.04,2279.24,2027.25,13586.34
+2026-08-15,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1696.62,2166.21,1956.46,7264.15
+2026-08-15,Wheat,Local,Azadpur,New Delhi,Delhi,2241.21,2997.58,2646.32,50409.87
+2026-08-15,Wheat,Local,Bowenpally,Hyderabad,Telangana,2106.64,2866.1,2517.63,27799.64
+2026-08-15,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2307.15,2737.14,2516.94,33407.44
+2026-08-15,Wheat,Local,Vashi,Mumbai,Maharashtra,2437.52,3134.1,2842.94,54751.47
+2026-08-15,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2292.14,2980.35,2597.46,36826.53
+2026-08-16,Bajra,Local,Azadpur,New Delhi,Delhi,2506.78,3203.72,2845.28,440.9
+2026-08-16,Bajra,Local,Bowenpally,Hyderabad,Telangana,2113.46,2591.81,2339.5,269.15
+2026-08-16,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,1905.95,2588.8,2316.2,281.5
+2026-08-16,Bajra,Local,Vashi,Mumbai,Maharashtra,2304.51,2925.41,2626.67,374.86
+2026-08-16,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,2114.55,2728.91,2338.13,389.64
+2026-08-16,Barley,Local,Azadpur,New Delhi,Delhi,2096.22,2681.56,2408.42,16.67
+2026-08-16,Barley,Local,Bowenpally,Hyderabad,Telangana,1845.96,2237.23,2036.53,43.42
+2026-08-16,Barley,Local,Koyambedu,Chennai,Tamil Nadu,1950.7,2562.02,2282.04,62.44
+2026-08-16,Barley,Local,Vashi,Mumbai,Maharashtra,2003.51,2512.83,2252.68,80.92
+2026-08-16,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1958.27,2505.62,2288.51,30.65
+2026-08-16,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5823.99,7134.98,6441.75,2028.52
+2026-08-16,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5219.1,6962.05,6268.39,974.93
+2026-08-16,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5723.36,7213.18,6523.07,821.84
+2026-08-16,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6421.34,8498.04,7396.41,1001.67
+2026-08-16,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5833.19,7059.21,6474.58,1031.25
+2026-08-16,Black Gram,Whole,Azadpur,New Delhi,Delhi,7759.73,9810.93,8866.12,210.52
+2026-08-16,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,6867.47,9176.93,8121.08,56.88
+2026-08-16,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8163.75,10474.37,9662.96,84.12
+2026-08-16,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8753.53,10441.65,9652.55,181.12
+2026-08-16,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6653.98,8650.18,7769.5,72.8
+2026-08-16,Copra,Milling,Azadpur,New Delhi,Delhi,18321.84,24676.46,21748.54,123.57
+2026-08-16,Copra,Milling,Bowenpally,Hyderabad,Telangana,15777.92,20332.74,18219.27,29.22
+2026-08-16,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,19512.6,23126.64,21263.59,51.0
+2026-08-16,Copra,Milling,Vashi,Mumbai,Maharashtra,18407.82,24793.25,21857.99,48.96
+2026-08-16,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15882.48,22388.16,18982.13,33.86
+2026-08-16,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8573.25,11742.64,10187.73,152.13
+2026-08-16,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7793.36,10439.67,8887.24,48.77
+2026-08-16,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,8331.0,10747.71,9141.07,100.81
+2026-08-16,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8219.58,10946.04,9684.44,113.23
+2026-08-16,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7402.65,9401.02,8654.32,77.77
+2026-08-16,Green Gram,Whole,Azadpur,New Delhi,Delhi,7402.33,9329.08,8493.02,4428.32
+2026-08-16,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7097.04,9725.5,8495.25,2107.31
+2026-08-16,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6982.71,9119.39,7739.27,1847.23
+2026-08-16,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7187.34,9231.42,8414.2,2955.02
+2026-08-16,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7491.72,9918.32,8597.24,1614.3
+2026-08-16,Groundnut,Bold,Azadpur,New Delhi,Delhi,7139.89,9231.12,8341.72,315.48
+2026-08-16,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,6182.37,7458.07,6740.2,217.53
+2026-08-16,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6635.77,8438.52,7250.62,363.82
+2026-08-16,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6452.95,7957.42,7291.28,511.81
+2026-08-16,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6118.83,8387.92,7333.11,302.67
+2026-08-16,Jowar,Local,Azadpur,New Delhi,Delhi,3433.5,4785.69,4084.22,334.46
+2026-08-16,Jowar,Local,Bowenpally,Hyderabad,Telangana,3298.81,4357.48,3705.75,95.78
+2026-08-16,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3605.45,4567.47,4138.2,136.83
+2026-08-16,Jowar,Local,Vashi,Mumbai,Maharashtra,3324.45,4123.05,3747.89,200.13
+2026-08-16,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2879.23,3739.04,3431.05,54.75
+2026-08-16,Lentil,Whole,Azadpur,New Delhi,Delhi,8372.59,10522.67,9350.06,295.63
+2026-08-16,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7109.43,9562.86,8231.21,128.64
+2026-08-16,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,5892.55,7567.01,6898.69,60.53
+2026-08-16,Lentil,Whole,Vashi,Mumbai,Maharashtra,6629.32,8426.24,7716.43,257.19
+2026-08-16,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,6053.93,7585.94,6686.82,169.43
+2026-08-16,Maize,Local,Azadpur,New Delhi,Delhi,2232.34,2839.0,2503.81,11091.13
+2026-08-16,Maize,Local,Bowenpally,Hyderabad,Telangana,1914.72,2500.63,2242.89,3658.02
+2026-08-16,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2008.32,2662.96,2370.43,5947.09
+2026-08-16,Maize,Local,Vashi,Mumbai,Maharashtra,2074.52,2563.93,2287.16,12145.57
+2026-08-16,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2212.69,2793.43,2434.65,5941.17
+2026-08-16,Mustard,Local,Azadpur,New Delhi,Delhi,6950.4,8985.16,8010.77,2284.86
+2026-08-16,Mustard,Local,Bowenpally,Hyderabad,Telangana,6368.63,7992.4,7164.87,525.7
+2026-08-16,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5458.72,7048.48,6344.88,652.7
+2026-08-16,Mustard,Local,Vashi,Mumbai,Maharashtra,6761.71,9100.69,7822.2,1176.16
+2026-08-16,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5560.65,7643.94,6746.25,939.2
+2026-08-16,Niger Seed,Local,Azadpur,New Delhi,Delhi,10042.15,13081.0,11489.61,14.48
+2026-08-16,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10636.3,14562.76,12377.23,2.44
+2026-08-16,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,10033.82,12504.79,11216.96,4.8
+2026-08-16,Niger Seed,Local,Vashi,Mumbai,Maharashtra,11372.3,14061.82,12520.72,11.25
+2026-08-16,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,12077.99,14486.73,13198.39,6.29
+2026-08-16,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2349.23,2977.21,2651.92,24338.5
+2026-08-16,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2791.84,3649.38,3228.58,7585.21
+2026-08-16,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2578.45,3233.9,2819.07,10021.56
+2026-08-16,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2753.3,3418.15,3079.96,16377.34
+2026-08-16,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2407.58,3335.62,2880.23,10441.91
+2026-08-16,Paddy,Common,Azadpur,New Delhi,Delhi,2669.25,3464.14,2960.37,10235.27
+2026-08-16,Paddy,Common,Bowenpally,Hyderabad,Telangana,2315.54,3064.59,2775.27,4427.08
+2026-08-16,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2319.16,2975.3,2726.5,6142.06
+2026-08-16,Paddy,Common,Vashi,Mumbai,Maharashtra,2379.08,3253.81,2890.19,6087.73
+2026-08-16,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2358.16,2977.07,2651.52,3598.31
+2026-08-16,Potato,Local,Azadpur,New Delhi,Delhi,833.13,1123.28,977.0,17458.07
+2026-08-16,Potato,Local,Bowenpally,Hyderabad,Telangana,899.33,1118.11,1002.41,13860.17
+2026-08-16,Potato,Local,Koyambedu,Chennai,Tamil Nadu,873.97,1224.33,1065.44,8160.23
+2026-08-16,Potato,Local,Vashi,Mumbai,Maharashtra,906.54,1230.15,1064.85,20409.54
+2026-08-16,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,824.07,1116.7,965.33,11726.87
+2026-08-16,Ragi,Local,Azadpur,New Delhi,Delhi,3308.16,4091.69,3690.06,43.46
+2026-08-16,Ragi,Local,Bowenpally,Hyderabad,Telangana,3056.91,3881.02,3427.77,10.07
+2026-08-16,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,2995.94,3839.6,3551.25,33.87
+2026-08-16,Ragi,Local,Vashi,Mumbai,Maharashtra,3399.5,4749.0,4141.73,35.62
+2026-08-16,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3408.28,4302.61,3786.12,43.08
+2026-08-16,Red Gram,Whole,Azadpur,New Delhi,Delhi,7135.31,8835.04,8142.51,316.66
+2026-08-16,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6940.49,8623.4,7602.27,335.84
+2026-08-16,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6988.59,9706.44,8451.3,421.16
+2026-08-16,Red Gram,Whole,Vashi,Mumbai,Maharashtra,8556.03,10320.0,9431.12,304.05
+2026-08-16,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6652.04,9379.59,7962.16,212.08
+2026-08-16,Safflower,Local,Azadpur,New Delhi,Delhi,4373.52,5677.56,5095.68,29.16
+2026-08-16,Safflower,Local,Bowenpally,Hyderabad,Telangana,3644.13,4758.1,4322.67,12.12
+2026-08-16,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,3991.93,5471.85,4716.81,17.76
+2026-08-16,Safflower,Local,Vashi,Mumbai,Maharashtra,3547.3,4762.99,4295.94,20.11
+2026-08-16,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4183.49,5498.33,4944.63,15.59
+2026-08-16,Sesamum,Local,Azadpur,New Delhi,Delhi,11796.22,14599.15,12906.21,136.86
+2026-08-16,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10722.33,13289.21,12115.07,41.94
+2026-08-16,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9595.13,13296.72,11492.35,64.66
+2026-08-16,Sesamum,Local,Vashi,Mumbai,Maharashtra,12393.81,16942.01,15000.0,141.53
+2026-08-16,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11469.57,14597.78,13461.03,32.94
+2026-08-16,Soyabean,Local,Azadpur,New Delhi,Delhi,6743.47,8625.62,7578.87,2864.2
+2026-08-16,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5368.14,6943.95,6280.17,1558.94
+2026-08-16,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5684.68,7609.77,6832.02,2278.71
+2026-08-16,Soyabean,Local,Vashi,Mumbai,Maharashtra,7109.82,9041.58,8000.0,2985.11
+2026-08-16,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5669.93,7722.6,6650.15,1495.67
+2026-08-16,Sunflower,Local,Azadpur,New Delhi,Delhi,7243.89,10196.43,8800.94,65.55
+2026-08-16,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6617.53,8545.49,7422.83,39.93
+2026-08-16,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7343.47,8847.03,7993.25,37.05
+2026-08-16,Sunflower,Local,Vashi,Mumbai,Maharashtra,6922.5,9719.91,8408.96,88.71
+2026-08-16,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,7506.63,9265.33,8195.64,13.32
+2026-08-16,Tomato,Local,Azadpur,New Delhi,Delhi,1688.74,2409.86,2045.76,6465.96
+2026-08-16,Tomato,Local,Bowenpally,Hyderabad,Telangana,1629.32,2082.89,1804.58,2539.1
+2026-08-16,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1444.75,1930.79,1668.3,4091.98
+2026-08-16,Tomato,Local,Vashi,Mumbai,Maharashtra,1760.85,2194.18,2025.12,4399.03
+2026-08-16,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1683.55,2156.78,1922.91,2925.19
+2026-08-16,Wheat,Local,Azadpur,New Delhi,Delhi,2308.07,3071.64,2652.6,26520.21
+2026-08-16,Wheat,Local,Bowenpally,Hyderabad,Telangana,2284.55,2879.12,2520.09,10127.86
+2026-08-16,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2084.59,2811.72,2516.29,15623.68
+2026-08-16,Wheat,Local,Vashi,Mumbai,Maharashtra,2407.65,3087.96,2845.59,17028.9
+2026-08-16,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2279.62,2884.5,2601.51,13208.63
+2026-08-17,Bajra,Local,Azadpur,New Delhi,Delhi,2507.24,3053.33,2812.02,1968.57
+2026-08-17,Bajra,Local,Bowenpally,Hyderabad,Telangana,2057.43,2711.34,2326.74,678.95
+2026-08-17,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2061.72,2592.98,2302.28,965.18
+2026-08-17,Bajra,Local,Vashi,Mumbai,Maharashtra,2378.17,2810.18,2597.37,1496.88
+2026-08-17,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,1950.39,2650.51,2287.86,947.82
+2026-08-17,Barley,Local,Azadpur,New Delhi,Delhi,2198.6,2756.55,2434.72,314.14
+2026-08-17,Barley,Local,Bowenpally,Hyderabad,Telangana,1748.34,2310.73,2017.81,114.34
+2026-08-17,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2051.34,2541.53,2255.32,168.86
+2026-08-17,Barley,Local,Vashi,Mumbai,Maharashtra,1936.65,2543.62,2228.77,208.49
+2026-08-17,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,2080.68,2548.64,2264.18,132.81
+2026-08-17,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5339.86,7082.77,6375.34,5053.17
+2026-08-17,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5224.43,6996.43,6225.65,2044.88
+2026-08-17,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5972.9,7211.7,6535.7,2265.69
+2026-08-17,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6666.11,8376.2,7338.63,4461.21
+2026-08-17,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5671.74,7572.38,6534.88,2481.22
+2026-08-17,Black Gram,Whole,Azadpur,New Delhi,Delhi,7468.03,9905.89,8869.6,477.64
+2026-08-17,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7661.86,9817.97,8889.02,200.5
+2026-08-17,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8241.26,10879.14,9587.08,310.35
+2026-08-17,Black Gram,Whole,Vashi,Mumbai,Maharashtra,8029.93,10741.6,9578.21,350.52
+2026-08-17,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6491.91,8645.48,7735.34,233.19
+2026-08-17,Copra,Milling,Azadpur,New Delhi,Delhi,18116.15,24950.8,21842.69,222.74
+2026-08-17,Copra,Milling,Bowenpally,Hyderabad,Telangana,15853.88,21280.71,18123.36,77.76
+2026-08-17,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17493.68,24595.51,21168.13,126.97
+2026-08-17,Copra,Milling,Vashi,Mumbai,Maharashtra,19875.37,24844.95,21814.76,181.79
+2026-08-17,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,15915.13,22266.43,19021.61,107.02
+2026-08-17,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,9258.01,10973.35,10160.13,373.21
+2026-08-17,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,7788.77,9807.72,8965.1,156.43
+2026-08-17,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7883.79,10186.4,9108.95,194.78
+2026-08-17,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8078.77,10969.68,9728.59,310.35
+2026-08-17,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7656.88,10133.23,8706.69,174.76
+2026-08-17,Green Gram,Whole,Azadpur,New Delhi,Delhi,7039.29,9768.87,8465.67,11537.11
+2026-08-17,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7196.05,9449.63,8508.7,4087.07
+2026-08-17,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7037.57,8607.21,7710.59,4746.69
+2026-08-17,Green Gram,Whole,Vashi,Mumbai,Maharashtra,6963.01,9243.12,8357.89,8915.44
+2026-08-17,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7599.18,9999.43,8604.49,5244.48
+2026-08-17,Groundnut,Bold,Azadpur,New Delhi,Delhi,7102.18,9658.71,8377.82,1628.52
+2026-08-17,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5998.85,7414.54,6712.22,564.19
+2026-08-17,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6188.1,7903.41,7242.2,849.99
+2026-08-17,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6279.19,8162.12,7449.92,1540.31
+2026-08-17,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6691.13,8547.38,7450.79,669.48
+2026-08-17,Jowar,Local,Azadpur,New Delhi,Delhi,3573.47,4557.21,4050.81,551.26
+2026-08-17,Jowar,Local,Bowenpally,Hyderabad,Telangana,3084.45,3960.77,3660.12,218.39
+2026-08-17,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3418.25,4443.28,4007.04,325.72
+2026-08-17,Jowar,Local,Vashi,Mumbai,Maharashtra,3191.34,4416.38,3810.48,488.31
+2026-08-17,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,3140.74,3757.86,3447.09,274.69
+2026-08-17,Lentil,Whole,Azadpur,New Delhi,Delhi,8247.44,10441.84,9371.82,872.7
+2026-08-17,Lentil,Whole,Bowenpally,Hyderabad,Telangana,7361.64,9520.59,8137.11,343.98
+2026-08-17,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6019.42,7884.12,6922.38,498.52
+2026-08-17,Lentil,Whole,Vashi,Mumbai,Maharashtra,6637.6,9064.72,7707.53,704.63
+2026-08-17,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5940.05,7661.15,6629.96,448.83
+2026-08-17,Maize,Local,Azadpur,New Delhi,Delhi,2162.18,2751.8,2479.06,29659.91
+2026-08-17,Maize,Local,Bowenpally,Hyderabad,Telangana,1725.95,2322.25,2007.46,11041.91
+2026-08-17,Maize,Local,Koyambedu,Chennai,Tamil Nadu,2123.42,2584.19,2350.98,13306.68
+2026-08-17,Maize,Local,Vashi,Mumbai,Maharashtra,2069.01,2627.89,2263.82,23229.55
+2026-08-17,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2196.82,2621.1,2411.57,14737.13
+2026-08-17,Mustard,Local,Azadpur,New Delhi,Delhi,6764.86,8774.82,8001.51,3830.86
+2026-08-17,Mustard,Local,Bowenpally,Hyderabad,Telangana,5994.59,8383.7,7105.13,1542.03
+2026-08-17,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5434.33,7402.85,6365.59,2296.43
+2026-08-17,Mustard,Local,Vashi,Mumbai,Maharashtra,6909.27,8792.97,7840.86,2795.96
+2026-08-17,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5725.47,7549.52,6710.71,1467.43
+2026-08-17,Niger Seed,Local,Azadpur,New Delhi,Delhi,10714.42,13831.03,11991.68,26.03
+2026-08-17,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10323.6,14449.75,12413.67,11.84
+2026-08-17,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9416.97,12436.85,11222.57,16.13
+2026-08-17,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10970.89,14088.58,12560.38,24.08
+2026-08-17,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,11128.71,15113.84,12988.53,11.1
+2026-08-17,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2413.81,3049.79,2654.79,49501.38
+2026-08-17,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2816.31,3602.33,3332.75,20612.99
+2026-08-17,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2469.96,3124.2,2768.72,28891.21
+2026-08-17,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2613.89,3408.86,3068.19,37307.7
+2026-08-17,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2407.0,3143.27,2839.22,24532.61
+2026-08-17,Paddy,Common,Azadpur,New Delhi,Delhi,2536.48,3209.24,2927.17,22249.97
+2026-08-17,Paddy,Common,Bowenpally,Hyderabad,Telangana,2400.48,3121.48,2756.7,9272.18
+2026-08-17,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2329.11,3123.85,2710.68,9786.76
+2026-08-17,Paddy,Common,Vashi,Mumbai,Maharashtra,2543.63,3317.16,2887.89,17533.19
+2026-08-17,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2301.46,3002.97,2628.22,11397.56
+2026-08-17,Potato,Local,Azadpur,New Delhi,Delhi,829.19,1135.51,963.75,60891.35
+2026-08-17,Potato,Local,Bowenpally,Hyderabad,Telangana,822.88,1119.46,977.99,23741.7
+2026-08-17,Potato,Local,Koyambedu,Chennai,Tamil Nadu,858.24,1161.35,1042.68,27531.28
+2026-08-17,Potato,Local,Vashi,Mumbai,Maharashtra,901.41,1174.97,1040.64,50689.06
+2026-08-17,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,832.98,1089.94,940.77,27572.68
+2026-08-17,Ragi,Local,Azadpur,New Delhi,Delhi,3308.79,4336.62,3680.23,129.5
+2026-08-17,Ragi,Local,Bowenpally,Hyderabad,Telangana,2859.31,3968.0,3426.29,63.25
+2026-08-17,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3237.96,4075.74,3549.51,78.95
+2026-08-17,Ragi,Local,Vashi,Mumbai,Maharashtra,3466.92,4654.9,4132.14,129.67
+2026-08-17,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3127.16,4404.92,3767.36,67.93
+2026-08-17,Red Gram,Whole,Azadpur,New Delhi,Delhi,7072.07,9466.73,8127.79,1558.56
+2026-08-17,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6590.79,8794.07,7570.04,580.35
+2026-08-17,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7213.5,9236.24,8466.76,699.3
+2026-08-17,Red Gram,Whole,Vashi,Mumbai,Maharashtra,8235.63,10763.34,9260.11,1083.99
+2026-08-17,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6541.05,9086.08,7907.87,580.65
+2026-08-17,Safflower,Local,Azadpur,New Delhi,Delhi,4453.97,5965.37,5090.74,60.04
+2026-08-17,Safflower,Local,Bowenpally,Hyderabad,Telangana,3917.83,4778.7,4273.49,22.47
+2026-08-17,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4418.04,5271.28,4852.32,26.41
+2026-08-17,Safflower,Local,Vashi,Mumbai,Maharashtra,3541.26,4742.74,4274.44,56.84
+2026-08-17,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4035.08,5762.33,4891.68,35.44
+2026-08-17,Sesamum,Local,Azadpur,New Delhi,Delhi,10943.68,14733.68,12902.99,257.3
+2026-08-17,Sesamum,Local,Bowenpally,Hyderabad,Telangana,9894.52,13292.07,11974.57,133.5
+2026-08-17,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,10126.36,12542.48,11330.69,180.05
+2026-08-17,Sesamum,Local,Vashi,Mumbai,Maharashtra,12134.96,15855.74,13995.09,203.65
+2026-08-17,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,12202.64,15089.22,13439.18,143.65
+2026-08-17,Soyabean,Local,Azadpur,New Delhi,Delhi,6612.84,8243.36,7486.24,7892.15
+2026-08-17,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5364.37,7339.18,6238.09,3192.92
+2026-08-17,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,6099.17,7778.36,6720.79,3910.74
+2026-08-17,Soyabean,Local,Vashi,Mumbai,Maharashtra,6828.06,8699.49,8000.0,6674.06
+2026-08-17,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5803.72,7504.0,6614.08,3741.7
+2026-08-17,Sunflower,Local,Azadpur,New Delhi,Delhi,7323.48,9519.07,8770.01,200.09
+2026-08-17,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6131.42,8551.04,7456.67,91.29
+2026-08-17,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7147.12,9076.18,7953.19,122.17
+2026-08-17,Sunflower,Local,Vashi,Mumbai,Maharashtra,7294.92,9525.35,8357.33,161.47
+2026-08-17,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6787.07,8894.85,8069.72,89.54
+2026-08-17,Tomato,Local,Azadpur,New Delhi,Delhi,1691.03,2258.52,2047.88,12175.4
+2026-08-17,Tomato,Local,Bowenpally,Hyderabad,Telangana,1582.82,1995.55,1778.08,4970.36
+2026-08-17,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1404.76,1856.21,1653.31,7160.89
+2026-08-17,Tomato,Local,Vashi,Mumbai,Maharashtra,1741.99,2197.53,1969.64,10135.69
+2026-08-17,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1619.44,2184.92,1861.34,6931.64
+2026-08-17,Wheat,Local,Azadpur,New Delhi,Delhi,2407.26,2902.21,2627.22,54822.21
+2026-08-17,Wheat,Local,Bowenpally,Hyderabad,Telangana,2117.34,2734.0,2493.51,26764.48
+2026-08-17,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2251.3,2820.25,2496.24,34039.12
+2026-08-17,Wheat,Local,Vashi,Mumbai,Maharashtra,2328.07,3097.59,2817.51,58200.42
+2026-08-17,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2254.35,2927.86,2580.3,29047.97
+2026-08-18,Bajra,Local,Azadpur,New Delhi,Delhi,2365.26,3292.72,2791.65,1961.19
+2026-08-18,Bajra,Local,Bowenpally,Hyderabad,Telangana,1926.45,2729.24,2327.04,718.38
+2026-08-18,Bajra,Local,Koyambedu,Chennai,Tamil Nadu,2024.26,2547.76,2295.0,921.99
+2026-08-18,Bajra,Local,Vashi,Mumbai,Maharashtra,2176.75,2830.74,2591.22,1621.92
+2026-08-18,Bajra,Local,Yeshwanthpur,Bangalore,Karnataka,2001.76,2494.22,2252.38,1039.13
+2026-08-18,Barley,Local,Azadpur,New Delhi,Delhi,2203.53,2830.39,2485.93,258.82
+2026-08-18,Barley,Local,Bowenpally,Hyderabad,Telangana,1809.81,2329.47,2023.41,126.45
+2026-08-18,Barley,Local,Koyambedu,Chennai,Tamil Nadu,2064.44,2641.43,2252.13,151.01
+2026-08-18,Barley,Local,Vashi,Mumbai,Maharashtra,1942.16,2537.97,2229.15,245.84
+2026-08-18,Barley,Local,Yeshwanthpur,Bangalore,Karnataka,1917.86,2535.03,2266.29,117.81
+2026-08-18,Bengal Gram,Whole,Azadpur,New Delhi,Delhi,5289.67,7404.31,6365.27,4280.47
+2026-08-18,Bengal Gram,Whole,Bowenpally,Hyderabad,Telangana,5367.37,6919.86,6245.66,1962.9
+2026-08-18,Bengal Gram,Whole,Koyambedu,Chennai,Tamil Nadu,5842.67,7372.5,6505.98,2507.43
+2026-08-18,Bengal Gram,Whole,Vashi,Mumbai,Maharashtra,6693.12,8255.32,7323.78,4299.35
+2026-08-18,Bengal Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,5504.02,7160.01,6529.62,1983.02
+2026-08-18,Black Gram,Whole,Azadpur,New Delhi,Delhi,7526.69,10200.39,8955.11,447.74
+2026-08-18,Black Gram,Whole,Bowenpally,Hyderabad,Telangana,7403.68,10031.7,8616.63,188.45
+2026-08-18,Black Gram,Whole,Koyambedu,Chennai,Tamil Nadu,8597.65,10533.65,9631.74,259.22
+2026-08-18,Black Gram,Whole,Vashi,Mumbai,Maharashtra,7873.74,11224.54,9568.95,344.89
+2026-08-18,Black Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,6675.42,9056.78,7742.64,229.11
+2026-08-18,Copra,Milling,Azadpur,New Delhi,Delhi,18452.9,24298.9,21931.56,232.28
+2026-08-18,Copra,Milling,Bowenpally,Hyderabad,Telangana,15367.33,21209.51,18053.53,89.41
+2026-08-18,Copra,Milling,Koyambedu,Chennai,Tamil Nadu,17462.09,23103.5,21114.83,130.69
+2026-08-18,Copra,Milling,Vashi,Mumbai,Maharashtra,19153.85,24787.94,21638.75,198.83
+2026-08-18,Copra,Milling,Yeshwanthpur,Bangalore,Karnataka,16775.49,21796.42,18988.94,103.62
+2026-08-18,Cotton,Medium Staple,Azadpur,New Delhi,Delhi,8663.68,11335.58,10233.27,444.54
+2026-08-18,Cotton,Medium Staple,Bowenpally,Hyderabad,Telangana,8121.23,9864.46,8961.73,137.99
+2026-08-18,Cotton,Medium Staple,Koyambedu,Chennai,Tamil Nadu,7522.88,9960.4,9056.39,171.99
+2026-08-18,Cotton,Medium Staple,Vashi,Mumbai,Maharashtra,8264.84,11036.32,9800.79,255.94
+2026-08-18,Cotton,Medium Staple,Yeshwanthpur,Bangalore,Karnataka,7714.95,10189.24,8721.89,155.46
+2026-08-18,Green Gram,Whole,Azadpur,New Delhi,Delhi,7729.19,9554.53,8438.11,11808.25
+2026-08-18,Green Gram,Whole,Bowenpally,Hyderabad,Telangana,7650.54,9241.87,8471.55,3577.33
+2026-08-18,Green Gram,Whole,Koyambedu,Chennai,Tamil Nadu,6741.39,8904.56,7683.27,5805.39
+2026-08-18,Green Gram,Whole,Vashi,Mumbai,Maharashtra,7563.29,9048.32,8328.82,8475.34
+2026-08-18,Green Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7867.34,9533.42,8582.35,5159.81
+2026-08-18,Groundnut,Bold,Azadpur,New Delhi,Delhi,7280.75,9411.19,8319.36,1463.01
+2026-08-18,Groundnut,Bold,Bowenpally,Hyderabad,Telangana,5952.1,7328.97,6683.28,664.81
+2026-08-18,Groundnut,Bold,Koyambedu,Chennai,Tamil Nadu,6300.74,8517.93,7252.34,765.51
+2026-08-18,Groundnut,Bold,Vashi,Mumbai,Maharashtra,6493.62,8334.38,7566.15,1158.71
+2026-08-18,Groundnut,Bold,Yeshwanthpur,Bangalore,Karnataka,6418.18,8175.61,7449.07,694.48
+2026-08-18,Jowar,Local,Azadpur,New Delhi,Delhi,3370.48,4672.05,4047.06,605.11
+2026-08-18,Jowar,Local,Bowenpally,Hyderabad,Telangana,2997.8,4216.25,3654.03,190.79
+2026-08-18,Jowar,Local,Koyambedu,Chennai,Tamil Nadu,3544.3,4591.67,3911.81,326.12
+2026-08-18,Jowar,Local,Vashi,Mumbai,Maharashtra,3378.14,4511.45,3894.66,404.48
+2026-08-18,Jowar,Local,Yeshwanthpur,Bangalore,Karnataka,2829.45,3960.5,3442.44,270.82
+2026-08-18,Lentil,Whole,Azadpur,New Delhi,Delhi,8438.5,10289.28,9480.99,928.67
+2026-08-18,Lentil,Whole,Bowenpally,Hyderabad,Telangana,6796.1,9154.2,8167.4,361.33
+2026-08-18,Lentil,Whole,Koyambedu,Chennai,Tamil Nadu,6039.03,7897.01,6950.78,443.42
+2026-08-18,Lentil,Whole,Vashi,Mumbai,Maharashtra,6742.23,8372.86,7702.26,591.15
+2026-08-18,Lentil,Whole,Yeshwanthpur,Bangalore,Karnataka,5492.13,7331.88,6669.97,350.06
+2026-08-18,Maize,Local,Azadpur,New Delhi,Delhi,2169.55,2753.35,2487.85,27642.98
+2026-08-18,Maize,Local,Bowenpally,Hyderabad,Telangana,1870.44,2297.43,2053.24,11764.63
+2026-08-18,Maize,Local,Koyambedu,Chennai,Tamil Nadu,1953.95,2662.64,2358.78,15380.58
+2026-08-18,Maize,Local,Vashi,Mumbai,Maharashtra,1867.26,2609.61,2255.47,21918.27
+2026-08-18,Maize,Local,Yeshwanthpur,Bangalore,Karnataka,2004.81,2635.52,2413.99,13671.32
+2026-08-18,Mustard,Local,Azadpur,New Delhi,Delhi,6634.63,8822.94,8045.56,3522.2
+2026-08-18,Mustard,Local,Bowenpally,Hyderabad,Telangana,6358.54,8382.35,7133.31,1130.27
+2026-08-18,Mustard,Local,Koyambedu,Chennai,Tamil Nadu,5660.93,7213.87,6340.91,2025.53
+2026-08-18,Mustard,Local,Vashi,Mumbai,Maharashtra,6674.64,8954.48,7831.76,3179.4
+2026-08-18,Mustard,Local,Yeshwanthpur,Bangalore,Karnataka,5824.54,7641.01,6711.56,1621.87
+2026-08-18,Niger Seed,Local,Azadpur,New Delhi,Delhi,11281.59,13999.94,12309.89,31.56
+2026-08-18,Niger Seed,Local,Bowenpally,Hyderabad,Telangana,10363.94,13505.98,12449.04,12.6
+2026-08-18,Niger Seed,Local,Koyambedu,Chennai,Tamil Nadu,9987.14,12228.02,11238.42,18.94
+2026-08-18,Niger Seed,Local,Vashi,Mumbai,Maharashtra,10919.98,13996.67,12559.53,22.84
+2026-08-18,Niger Seed,Local,Yeshwanthpur,Bangalore,Karnataka,10944.65,14610.73,12583.08,15.32
+2026-08-18,Onion,Nasik Red,Azadpur,New Delhi,Delhi,2319.87,3034.15,2658.31,48349.9
+2026-08-18,Onion,Nasik Red,Bowenpally,Hyderabad,Telangana,2916.51,3663.84,3294.35,19183.12
+2026-08-18,Onion,Nasik Red,Koyambedu,Chennai,Tamil Nadu,2669.09,3289.21,2917.62,25521.32
+2026-08-18,Onion,Nasik Red,Vashi,Mumbai,Maharashtra,2800.19,3323.48,3067.69,48194.0
+2026-08-18,Onion,Nasik Red,Yeshwanthpur,Bangalore,Karnataka,2549.33,3239.4,2841.22,23296.57
+2026-08-18,Paddy,Common,Azadpur,New Delhi,Delhi,2675.6,3267.96,2934.29,19390.43
+2026-08-18,Paddy,Common,Bowenpally,Hyderabad,Telangana,2512.72,3030.73,2759.18,8931.4
+2026-08-18,Paddy,Common,Koyambedu,Chennai,Tamil Nadu,2279.78,3021.06,2700.84,11614.01
+2026-08-18,Paddy,Common,Vashi,Mumbai,Maharashtra,2538.16,3340.86,2894.54,19775.38
+2026-08-18,Paddy,Common,Yeshwanthpur,Bangalore,Karnataka,2268.55,3036.25,2632.4,11201.35
+2026-08-18,Potato,Local,Azadpur,New Delhi,Delhi,839.52,1120.92,967.77,58507.63
+2026-08-18,Potato,Local,Bowenpally,Hyderabad,Telangana,815.02,1062.68,980.92,23980.23
+2026-08-18,Potato,Local,Koyambedu,Chennai,Tamil Nadu,857.14,1131.24,1041.93,22561.62
+2026-08-18,Potato,Local,Vashi,Mumbai,Maharashtra,909.0,1126.83,1035.47,41752.35
+2026-08-18,Potato,Local,Yeshwanthpur,Bangalore,Karnataka,812.89,1088.96,943.6,26381.37
+2026-08-18,Ragi,Local,Azadpur,New Delhi,Delhi,3306.07,4210.93,3696.05,152.32
+2026-08-18,Ragi,Local,Bowenpally,Hyderabad,Telangana,3146.81,3811.51,3443.71,58.84
+2026-08-18,Ragi,Local,Koyambedu,Chennai,Tamil Nadu,3174.34,4130.56,3547.21,79.16
+2026-08-18,Ragi,Local,Vashi,Mumbai,Maharashtra,3756.29,4586.63,4133.77,131.75
+2026-08-18,Ragi,Local,Yeshwanthpur,Bangalore,Karnataka,3337.58,4454.67,3777.12,61.76
+2026-08-18,Red Gram,Whole,Azadpur,New Delhi,Delhi,7408.92,9546.24,8146.27,1298.06
+2026-08-18,Red Gram,Whole,Bowenpally,Hyderabad,Telangana,6493.52,8719.42,7547.28,525.02
+2026-08-18,Red Gram,Whole,Koyambedu,Chennai,Tamil Nadu,7572.44,9311.96,8515.64,632.05
+2026-08-18,Red Gram,Whole,Vashi,Mumbai,Maharashtra,7835.04,10367.22,9173.69,987.74
+2026-08-18,Red Gram,Whole,Yeshwanthpur,Bangalore,Karnataka,7105.96,9159.11,7949.42,688.06
+2026-08-18,Safflower,Local,Azadpur,New Delhi,Delhi,4518.43,5767.66,5070.76,78.99
+2026-08-18,Safflower,Local,Bowenpally,Hyderabad,Telangana,3751.58,5014.56,4296.98,27.03
+2026-08-18,Safflower,Local,Koyambedu,Chennai,Tamil Nadu,4348.14,5640.36,4781.53,33.2
+2026-08-18,Safflower,Local,Vashi,Mumbai,Maharashtra,3836.07,4837.8,4251.94,59.97
+2026-08-18,Safflower,Local,Yeshwanthpur,Bangalore,Karnataka,4125.18,5726.1,4898.07,27.01
+2026-08-18,Sesamum,Local,Azadpur,New Delhi,Delhi,11316.2,14883.17,12959.32,352.33
+2026-08-18,Sesamum,Local,Bowenpally,Hyderabad,Telangana,10173.26,13023.13,11943.18,119.4
+2026-08-18,Sesamum,Local,Koyambedu,Chennai,Tamil Nadu,9902.1,12448.45,11433.36,140.66
+2026-08-18,Sesamum,Local,Vashi,Mumbai,Maharashtra,12682.94,15483.59,14296.66,277.84
+2026-08-18,Sesamum,Local,Yeshwanthpur,Bangalore,Karnataka,11410.08,15252.2,13407.51,149.9
+2026-08-18,Soyabean,Local,Azadpur,New Delhi,Delhi,6348.38,8676.74,7438.88,8858.06
+2026-08-18,Soyabean,Local,Bowenpally,Hyderabad,Telangana,5452.22,6860.55,6242.23,3230.52
+2026-08-18,Soyabean,Local,Koyambedu,Chennai,Tamil Nadu,5708.04,7334.12,6650.29,4671.87
+2026-08-18,Soyabean,Local,Vashi,Mumbai,Maharashtra,6951.07,9336.04,8000.0,6738.34
+2026-08-18,Soyabean,Local,Yeshwanthpur,Bangalore,Karnataka,5525.48,7348.02,6644.79,4272.13
+2026-08-18,Sunflower,Local,Azadpur,New Delhi,Delhi,7478.2,10267.74,8807.74,208.58
+2026-08-18,Sunflower,Local,Bowenpally,Hyderabad,Telangana,6585.29,8507.51,7466.97,99.94
+2026-08-18,Sunflower,Local,Koyambedu,Chennai,Tamil Nadu,7297.78,8570.98,7934.15,112.39
+2026-08-18,Sunflower,Local,Vashi,Mumbai,Maharashtra,6963.92,9233.37,8352.94,173.7
+2026-08-18,Sunflower,Local,Yeshwanthpur,Bangalore,Karnataka,6793.98,9186.93,7993.07,105.3
+2026-08-18,Tomato,Local,Azadpur,New Delhi,Delhi,1840.89,2341.81,2050.42,15726.16
+2026-08-18,Tomato,Local,Bowenpally,Hyderabad,Telangana,1540.17,2042.13,1797.8,5598.95
+2026-08-18,Tomato,Local,Koyambedu,Chennai,Tamil Nadu,1512.1,1890.35,1662.17,7964.28
+2026-08-18,Tomato,Local,Vashi,Mumbai,Maharashtra,1794.4,2287.92,1974.77,12227.63
+2026-08-18,Tomato,Local,Yeshwanthpur,Bangalore,Karnataka,1645.69,2155.19,1831.06,7976.07
+2026-08-18,Wheat,Local,Azadpur,New Delhi,Delhi,2149.35,2926.64,2614.62,69347.48
+2026-08-18,Wheat,Local,Bowenpally,Hyderabad,Telangana,2042.99,2873.58,2485.45,26087.95
+2026-08-18,Wheat,Local,Koyambedu,Chennai,Tamil Nadu,2119.92,2833.24,2481.89,33257.1
+2026-08-18,Wheat,Local,Vashi,Mumbai,Maharashtra,2544.79,3162.47,2830.32,56806.54
+2026-08-18,Wheat,Local,Yeshwanthpur,Bangalore,Karnataka,2218.19,2863.16,2594.16,31627.04
